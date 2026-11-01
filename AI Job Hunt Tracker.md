@@ -77,7 +77,7 @@ flowchart TD
     J --> K["Career Recommendations"]
     K --> L["Automated Word Report"]
 
-    L --> M["GitHub Portfolio"]
+  
 
     style A fill:#DCEEFF,stroke:#3478B8,color:#173B5E
     style B fill:#E5F4E8,stroke:#40945A,color:#174D29
@@ -87,7 +87,7 @@ flowchart TD
     style I fill:#F0E7FF,stroke:#8961C5,color:#42276D
     style J fill:#F0E7FF,stroke:#8961C5,color:#42276D
     style K fill:#F0E7FF,stroke:#8961C5,color:#42276D
-    style L fill:#FFF0D9,stroke:#C58B37,color:#654315
+    
 ```
 
 ## 📊 Project Implementation
