@@ -46,7 +46,7 @@ This project explores how data analytics can help organize job application recor
 The project follows separate analytics and AI workflows using job application data.
 
 ### Project Flowchart
-
+...
 flowchart TD
     A["Excel Job Application Dataset (1,010 Records)"] --> B["Python and Pandas"]
     B --> C["Data Cleaning and Transformation"]
