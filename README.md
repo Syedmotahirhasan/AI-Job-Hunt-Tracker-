@@ -81,15 +81,17 @@ The project has three related but separate paths: Python and SQL
 analysis, Power BI dashboard development, and Gemini-assisted report
 generation.
 
-``` mermaid
+## Project Flowchart
+
+```mermaid
 flowchart TD
-    A["Excel Job Application Dataset (1,010 Fictional Records)"] --> B["Python and Pandas"]
+    A["Excel Job Application Dataset (1,010 Records)"] --> B["Python and Pandas"]
     B --> C["Data Cleaning and Transformation"]
     C --> D["Cleaned Dataset"]
 
-    D --> E["SQL Analysis"]
-    E --> E1["Basic Queries: SELECT, WHERE, GROUP BY, JOIN"]
-    E --> E2["Advanced Queries: Window Functions, CTEs and Subqueries"]
+    D --> E["SQL Analysis (Basic & Advanced Queries)"]
+    E --> E1["SELECT, WHERE, GROUP BY, JOIN"]
+    E --> E2["Window Functions, CTEs & Subqueries"]
 
     A --> F["Power BI"]
     F --> G["Power Query Data Cleaning"]
@@ -98,9 +100,28 @@ flowchart TD
     D --> I["Python Data Summaries"]
     I --> J["Prompt Generation"]
     J --> K["Google Gemini API"]
-    K --> L["AI-Generated Insights and Recommendations"]
-    L --> M["Python Report Generation"]
-    M --> N["Word Report"]
+    K --> L["AI-Generated Insights"]
+    L --> M["Career Recommendations"]
+    M --> N["Python Report Generation"]
+    N --> O["Word Report"]
+
+    style A fill:#DCEEFF,stroke:#3478B8,color:#173B5E
+    style B fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style C fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style D fill:#DCEEFF,stroke:#3478B8,color:#173B5E
+    style E fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style E1 fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style E2 fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style F fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style G fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style H fill:#DCEEFF,stroke:#3478B8,color:#173B5E
+    style I fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style J fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style K fill:#F0E7FF,stroke:#8961C5,color:#42276D
+    style L fill:#F0E7FF,stroke:#8961C5,color:#42276D
+    style M fill:#F0E7FF,stroke:#8961C5,color:#42276D
+    style N fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style O fill:#FCECCF,stroke:#D69A28,color:#694609
 ```
 
 **Workflow note:** Power BI imports the Excel dataset and performs its
