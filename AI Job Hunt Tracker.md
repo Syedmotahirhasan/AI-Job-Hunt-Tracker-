@@ -64,29 +64,34 @@ flowchart TD
     C --> D["Cleaned Dataset"]
 
     D --> E["SQL Analysis"]
-    D --> F["Power BI Dashboard"]
 
-    E --> G["Application Performance Insights"]
-    F --> G
+    A --> F["Power BI"]
+    F --> G["Power Query Data Cleaning"]
+    G --> H["Interactive Power BI Dashboard"]
 
-    G --> H["Python Prompt Generation"]
-    H --> I["Google Gemini API"]
-
-    I --> J["AI-Generated Insights"]
-    J --> K["Career Recommendations"]
-    K --> L["Automated Word Report"]
-
-  
+    D --> I["Python Data Summaries"]
+    I --> J["Prompt Generation"]
+    J --> K["Google Gemini API"]
+    K --> L["AI-Generated Insights"]
+    L --> M["Career Recommendations"]
+    M --> N["Python Report Generation"]
+    N --> O["Word Report"]
 
     style A fill:#DCEEFF,stroke:#3478B8,color:#173B5E
     style B fill:#E5F4E8,stroke:#40945A,color:#174D29
     style C fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style D fill:#DCEEFF,stroke:#3478B8,color:#173B5E
     style E fill:#E5F4E8,stroke:#40945A,color:#174D29
     style F fill:#E5F4E8,stroke:#40945A,color:#174D29
-    style I fill:#F0E7FF,stroke:#8961C5,color:#42276D
-    style J fill:#F0E7FF,stroke:#8961C5,color:#42276D
+    style G fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style H fill:#DCEEFF,stroke:#3478B8,color:#173B5E
+    style I fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style J fill:#E5F4E8,stroke:#40945A,color:#174D29
     style K fill:#F0E7FF,stroke:#8961C5,color:#42276D
-    
+    style L fill:#F0E7FF,stroke:#8961C5,color:#42276D
+    style M fill:#F0E7FF,stroke:#8961C5,color:#42276D
+    style N fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style O fill:#FCECCF,stroke:#D69A28,color:#694609
 ```
 
 ## 📊 Project Implementation
