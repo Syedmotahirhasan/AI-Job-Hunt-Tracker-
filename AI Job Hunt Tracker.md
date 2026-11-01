@@ -1,59 +1,53 @@
-# 🤖 AI Job Hunt Tracker
-An AI-Powered Job Application Data Analytics Project
+# 🤖 Job Hunt Tracker
+### A Data Analytics Project with Generative AI Integration
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📌 Project Overview
 
-The **AI Job Hunt Tracker** is a data analytics and AI-powered project designed to track, manage, and analyse job applications.
+ Job Hunt Tracker is a job application data analytics project that uses Excel, Python, SQL and Power BI to track and analyse job application records.
 
-The project combines Python, SQL, Power BI, and Google Gemini AI to transform job application data into meaningful insights and actionable career recommendations.
+The project also includes Generative AI integration using the Google Gemini API. Python sends summarized job application data to Gemini, which generates written insights and career recommendations. Python then saves the AI-generated content into a Word report.
 
-It helps job seekers monitor their application progress, understand job search performance, analyse application trends, and identify areas for improvement.
+The project demonstrates how traditional data analytics tools and Generative AI can be used together to understand job application data.
 
 ## 🎯 Problem Statement
 
-Job seekers often apply to multiple companies through different job portals such as LinkedIn, Naukri, Indeed, and company career websites.
+Job seekers often apply to multiple companies through different job portals such as LinkedIn, Naukri, Indeed and company career websites.
 
-Managing application details, interview schedules, application statuses, and follow-ups manually can become difficult.
+Keeping track of company names, job roles, application statuses, interview dates and follow-ups can become difficult.
 
-This project provides a centralized approach to:
-
-- Track job applications.
-- Monitor interview and offer progress.
-- Analyse job application trends.
-- Visualize job search performance.
-- Generate AI-based recommendations.
+This project explores how data analytics can help organize job application records, monitor application progress and understand job search trends.
 
 ## 🎯 Project Objectives
 
-- Create a centralized job application tracking dataset.
+- Create a sample job application dataset using Excel.
 - Clean and transform data using Python and Pandas.
-- Perform data analysis using SQL queries.
+- Perform data analysis using SQL.
 - Build an interactive Power BI dashboard.
-- Integrate Google Gemini API for AI-powered insights.
-- Automatically generate a Word report containing AI recommendations.
+- Integrate Google Gemini API to generate AI-based insights and recommendations.
+- Generate a Word report containing AI-generated content using Python.
 
 ## 🛠️ Tools and Technologies
 
 | Technology | Purpose |
 |---|---|
 | Microsoft Excel | Dataset creation and storage |
-| Python | Data analysis and automation |
-| Pandas | Data cleaning and manipulation |
+| Python | Data cleaning, analysis and report generation |
+| Pandas | Data manipulation and analysis |
 | SQL | Data querying and analysis |
 | Power BI | Interactive dashboard and visualization |
-| Google Gemini API | AI-powered analysis and recommendations |
+| Google Gemini API | Generating insights and recommendations |
 | Google Colab | Python development environment |
-| Python-docx | Automated Word report generation |
+| Python-docx | Creating Word reports |
 
 ## 🔄 Project Workflow
 
-The project follows an end-to-end data analytics workflow, from raw data collection to AI-generated recommendations.
+The project follows separate analytics and AI workflows using job application data.
 
 ### Project Flowchart
 
@@ -94,11 +88,15 @@ flowchart TD
     style O fill:#FCECCF,stroke:#D69A28,color:#694609
 ```
 
+**Note:** Power BI uses the original Excel dataset and performs its own cleaning through Power Query. Python prepares the dataset used for SQL analysis and the summarized information sent to Gemini. The Power BI dashboard and Gemini report are separate outputs.
+
 ## 📊 Project Implementation
 
 ### 1. Data Collection – Excel
 
-Created a sample job application dataset containing information such as:
+Created a sample dataset containing 10 fictional job application records.
+
+The dataset includes:
 
 - Application ID
 - Company Name
@@ -107,30 +105,31 @@ Created a sample job application dataset containing information such as:
 - Work Mode
 - Application Date
 - Job Portal
+- Experience Required
 - Required Skills
 - Application Status
+- Resume Version
 - Interview Date
 - Follow-up Date
 - Salary (LPA)
 
 ### 2. Data Cleaning and Analysis – Python & Pandas
 
-Performed data preparation and cleaning activities:
+Used Python and Pandas to:
 
-- Inspected dataset structure.
-- Checked missing values.
-- Identified duplicate records.
-- Standardized column names.
-- Cleaned text values.
-- Converted date columns.
-- Validated data types.
-- Generated summary statistics.
+- Inspect the dataset.
+- Check missing values and duplicate records.
+- Standardize column names and text values.
+- Convert date columns into appropriate formats.
+- Convert salary values into numeric format.
+- Validate data types and application records.
+- Generate summary statistics.
 
 ### 3. SQL Analysis
 
 Used SQL to retrieve and analyse job application information.
 
-Concepts practised:
+**SQL concepts practised:**
 
 - SELECT and DISTINCT
 - WHERE and ORDER BY
@@ -141,9 +140,9 @@ Concepts practised:
 
 ### 4. Interactive Dashboard – Power BI
 
-Developed an interactive dashboard to monitor job search performance.
+Created an interactive dashboard to visualize job application information.
 
-**Key Performance Indicators (KPIs):**
+**Key Performance Indicators:**
 
 - Total Applications
 - Total Interviews
@@ -159,68 +158,76 @@ Developed an interactive dashboard to monitor job search performance.
 - Applications by Job Portal
 - Average Salary by Company
 - Applications by Location
-- Work Mode filtering
+- Work Mode Slicer
 - Application Details Table
 
-### 5. AI Integration – Google Gemini API
+### 5. Generative AI Integration – Google Gemini API
 
-Integrated Google Gemini API with Python to analyse summarized job application data.
+Integrated Google Gemini AI with Python using the Gemini API.
 
-The AI component generates:
+Python prepares summarized information from the job application dataset and sends it to Gemini with a prompt requesting a data-based analysis.
 
-- Job search performance analysis.
+Gemini generates written content such as:
+
+- Job search performance observations.
 - Important application trends.
-- Job portal observations.
+- Job portal recommendations.
 - Interview improvement suggestions.
 - Career recommendations.
 - Actionable next steps.
 
-The AI receives summarized dataset information through a Python-generated prompt and returns a natural-language analysis.
+This demonstrates the use of Generative AI to convert summarized data into natural-language insights and recommendations.
 
-### 6. Automated Report Generation
+### 6. AI-Generated Word Report
 
-Used Python-docx to automatically convert the AI-generated response into a Word document.
+Used the Python-docx library to save Gemini's generated response into a Word document.
 
-The generated report contains AI insights and career recommendations.
+**The process:**
+
+1. Python sends summarized data to Gemini.
+2. Gemini generates insights and recommendations.
+3. Python receives the generated response.
+4. Python-docx creates and saves the Word report.
 
 ## 📈 Sample Dataset Insights
 
-The project uses an illustrative dataset containing 10 fictional job applications.
+The project uses an illustrative dataset of 10 fictional job application records.
 
 | Metric | Result |
 |---|---:|
 | Total Applications | 10 |
 | Applied | 5 |
-| Interview | 3 |
+| Interview Status | 3 |
 | Rejected | 1 |
 | Offer | 1 |
-| Most Used Job Portal | LinkedIn |
-| Most Common Job Role | Data Analyst |
+| Total Interview Records / Rounds | 4 |
 | Average Listed Salary | 5.35 LPA |
 
-**Key observations:**
+**Additional observations:**
 
 - 50% of applications are in Applied status.
-- Data Analyst is the most frequently targeted job role.
-- LinkedIn has the highest application count.
-- One application resulted in an offer.
+- 30% of applications are in Interview status.
+- LinkedIn has the highest application count in the sample, with 4 applications.
+- One application has reached the Offer status.
 
-These results describe the sample dataset and should not be interpreted as real-world job market statistics.
+**Note:** The Interview Rate of 30% represents 3 applications marked as Interview out of 10 total applications. The Total Interviews KPI counts 4 interview records or rounds, which is a different measure.
 
-## 💡 Why AI Was Used
+These figures describe only the sample dataset and are not real-world job market statistics.
 
-Traditional data analytics helps identify what happened in the job search process.
+## 💡 Why Generative AI Was Used
 
-Generative AI extends the analysis by interpreting summarized information and generating understandable recommendations.
+Traditional data analytics helps identify patterns, counts and trends in data.
+
+Generative AI adds another capability: it can generate natural-language explanations and recommendations based on the information provided.
 
 For example:
 
-- Analytics identifies pending applications.
-- AI suggests reviewing applications that may need follow-up.
-- Analytics identifies application counts by portal.
-- AI explains portal usage patterns and suggests further investigation.
+- Python calculates application status summaries.
+- Gemini generates a written explanation of the summarized results.
+- Gemini provides general suggestions for improving job search activities.
+- Python saves the generated response into a Word report.
 
-The AI component supports decision-making; its recommendations are not guaranteed outcomes.
+**Important:** Gemini does not directly connect to the Power BI dashboard. It receives summarized data through Python and generates a separate report.
 
 ## ⚙️ How to Run the Project
 
@@ -231,17 +238,15 @@ The AI component supports decision-making; its recommendations are not guarantee
 - Microsoft Power BI Desktop
 - Google Gemini API key
 
-### Python Libraries
+### Install Required Libraries
 
 ```bash
 pip install pandas openpyxl python-docx google-genai
 ```
 
-### Gemini API Configuration
+### Configure Gemini API
 
 Store your Gemini API key securely in Google Colab Secrets using the name `GEMINI_API_KEY`.
-
-Example:
 
 ```python
 from google.colab import userdata
@@ -249,11 +254,11 @@ from google import genai
 
 api_key = userdata.get("GEMINI_API_KEY")
 client = genai.Client(api_key=api_key)
+
+print("Gemini API connected successfully!")
 ```
 
-Never hardcode or publish your API key.
-
-### Run AI Analysis
+### Generate AI Insights
 
 ```python
 response = client.models.generate_content(
@@ -264,17 +269,38 @@ response = client.models.generate_content(
 print(response.text)
 ```
 
-Note: Model availability and free-tier quotas depend on your Google AI Studio account and current service limits.
+### Save the AI-Generated Report
+
+The generated response can be saved using Python:
+
+```python
+from docx import Document
+
+doc = Document()
+
+doc.add_heading("AI Job Hunt Tracker", 0)
+doc.add_heading("AI Analysis and Recommendations", level=1)
+
+doc.add_paragraph(response.text)
+
+doc.save("AI_Job_Hunt_Insights.docx")
+```
+
+**Security:** Never hardcode or upload your API key to GitHub. Use environment variables or secure notebook secrets.
+
+Gemini model availability and API usage limits depend on your account and Google's current service terms.
 
 ## 🚀 Future Improvements
 
-- Develop a Streamlit-based web application.
+- Develop a Streamlit-based job application tracking interface.
 - Add automated job application reminders.
-- Implement portal-wise interview and offer conversion analysis.
-- Add advanced AI-powered resume recommendations.
-- Include skill gap analysis using job descriptions.
-- Expand the dataset with more records.
+- Analyse portal-wise interview and offer conversion rates.
+- Add more real application records.
+- Explore AI-assisted resume recommendations.
+- Perform skill gap analysis using job descriptions.
 - Add automated follow-up notifications.
+
+These are planned enhancements and are not part of the current implementation.
 
 ## 📁 Project Structure
 
@@ -302,13 +328,16 @@ AI-Job-Hunt-Tracker/
 └── .gitignore
 ```
 
-## ⚠️ Important Disclaimer
+## ⚠️ Disclaimer
 
-This project uses fictional sample job application records for educational and portfolio purposes. The dataset does not represent actual job applications, real job openings, or verified salary information.
+- This project uses fictional sample job application records for educational and portfolio purposes.
+- The dataset does not represent actual job applications, live job openings or verified salary information.
+- AI-generated recommendations are general suggestions based on the summarized information provided to Gemini. They are not guaranteed career outcomes.
+- The project does not automatically search for jobs, submit applications, connect to LinkedIn or Naukri, or predict hiring decisions.
 
+## 📚 Skills Demonstrated
 
-
-**Skills Demonstrated:** Excel | Python | Pandas | SQL | Power BI | Google Gemini API | Data Visualization | AI-Assisted Analytics
+Excel | Python | Pandas | SQL | Power BI | Data Cleaning | Data Analysis | Data Visualization | Google Gemini API | Generative AI Integration | Automated Report Generation
 
 ---
 
