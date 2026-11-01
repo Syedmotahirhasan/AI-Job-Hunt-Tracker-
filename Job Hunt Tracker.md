@@ -46,7 +46,9 @@ This project explores how data analytics can help organize job application recor
 The project follows separate analytics and AI workflows using job application data.
 
 ### Project Flowchart
-...
+## Project Flowchart
+
+```mermaid
 flowchart TD
     A["Excel Job Application Dataset (1,010 Records)"] --> B["Python and Pandas"]
     B --> C["Data Cleaning and Transformation"]
@@ -85,8 +87,7 @@ flowchart TD
     style M fill:#F0E7FF,stroke:#8961C5,color:#42276D
     style N fill:#E5F4E8,stroke:#40945A,color:#174D29
     style O fill:#FCECCF,stroke:#D69A28,color:#694609
-    ...
-
+```
 **Note:** Power BI uses the original Excel dataset and performs its own cleaning through Power Query. Python prepares the dataset used for SQL analysis and the summarized information sent to Gemini. The Power BI dashboard and Gemini report are separate outputs.
 
 ## 📊 Project Implementation
