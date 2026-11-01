@@ -1,0 +1,11 @@
+﻿Application_ID,Company_Name,Job_Role,Location,Work_Mode,Application_Date,Job_Portal,Experience_Required,Skills_Required,Shortlisted,Resume_Version,Interview_Date,Follow_Up_Date,Salary_LPA,Job_URL
+101,TCS,Data Analyst,Bangalore,Hybrid,2026-10-05,LinkedIn,1-2 Years,SQL;Python;Excel,Applied,Resume_V1,No Date Finalized,No Follow Up Date,5.0,Linkedln.com
+102,Infosys,Junior Data Analyst,Pune,Onsite,2026-10-07,Naukri,0-1 Years,Excel;SQL;Power BI,Interview,Resume_V1,2026-10-20,2026-10-31,4.0,Naukri.com
+103,Accenture,Data Analyst,Hyderabad,Hybrid,2026-10-09,LinkedIn,1-2 Years,Python;SQL;Power BI,Interview,Resume_V2,No Date Finalized,No Follow Up Date,6.0,Linkedln.com
+104,Deloitte,Business Data Analyst,Gurgaon,Hybrid,2026-10-11,Company Website,1-3 Years,SQL;Excel;Tableau,Applied,Resume_V2,No Date Finalized,No Follow Up Date,7.0,Companyln.com
+105,Wipro,Data Analyst,Noida,Onsite,2026-10-13,Naukri,0-2 Years,Python;Excel;SQL,Interview,Resume_V1,2026-10-25,2026-11-02,4.5,Naukri.com
+106,Capgemini,Junior Analyst,Mumbai,Hybrid,2026-10-15,LinkedIn,0-1 Years,Excel;Power BI;SQL,Applied,Resume_V2,No Date Finalized,No Follow Up Date,4.0,Linkedln.com
+107,HCL,Data Analyst,Chennai,Onsite,2026-10-17,Indeed,1-2 Years,SQL;Python;Excel,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,5.0,Indeed.com
+108,IBM,Data Analyst,Bangalore,Remote,2026-10-19,Company Website,1-3 Years,Python;SQL;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,8.0,Companyln.com
+109,Cognizant,Reporting Analyst,Hyderabad,Hybrid,2026-10-21,Naukri,0-2 Years,Excel;SQL;Power BI,Offer,Resume_V2,2026-10-28,No Follow Up Date,5.5,Naukri.chm
+110,Genpact,Data Analyst,Noida,Onsite,2026-10-23,LinkedIn,1-2 Years,Excel;SQL;Python,Applied,Resume_V1,No Date Finalized,No Follow Up Date,4.5,Linkedln.com
