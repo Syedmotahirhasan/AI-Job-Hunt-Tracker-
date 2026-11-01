@@ -6,9 +6,9 @@ A portfolio project combining Excel, Python, SQL, Power BI and the
 Google Gemini API to analyse job application data and generate
 AI-assisted written insights.
 
-> **Dataset note:** This project uses 1,010 fictional job application
-> records for learning and demonstration. The records do not represent
-> real applications, candidates, interviews, offers or hiring outcomes.
+Dataset note: This project uses 1,010 fictional job application
+records for learning and demonstration. The records do not represent
+real applications, candidates, interviews, offers or hiring outcomes.
 
 ------------------------------------------------------------------------
 
@@ -124,10 +124,6 @@ flowchart TD
     style O fill:#FCECCF,stroke:#D69A28,color:#694609
 ```
 
-**Workflow note:** Power BI imports the Excel dataset and performs its
-own cleaning in Power Query. Python prepares data for SQL analysis and
-creates summarized information for Gemini. The dashboard and Word report
-are separate project outputs.
 
 ## 📊 Dataset
 
@@ -150,7 +146,6 @@ include:
 -   Salary (LPA)
 -   Job URL
 
-All records are illustrative sample data.
 
 ## 📊 Project Implementation
 
@@ -309,10 +304,6 @@ pip install pandas openpyxl python-docx google-genai
 
 ### Configure the Gemini API
 
-Store your API key securely in Google Colab Secrets with the name
-`GEMINI_API_KEY`. Do not paste the actual key into a notebook that will
-be shared publicly.
-
 ``` python
 from google.colab import userdata
 from google import genai
@@ -324,9 +315,6 @@ print("Gemini API connected successfully!")
 ```
 
 ### Send a prompt to Gemini
-
-In the project notebook, `prompt` represents the prompt prepared using
-the relevant summarized dataset information.
 
 ``` python
 response = client.models.generate_content(
@@ -348,9 +336,6 @@ doc.add_heading("AI-Generated Insights and Recommendations", level=1)
 doc.add_paragraph(response.text)
 doc.save("AI_Job_Hunt_Insights.docx")
 ```
-
-Model availability and API usage limits may change and depend on
-Google's current service terms and the account being used.
 
 ## 🚀 Future Improvements
 
