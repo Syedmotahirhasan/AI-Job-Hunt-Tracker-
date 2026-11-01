@@ -386,8 +386,8 @@ Job-Hunt-Tracker/
 │   └── Dashboard_Screenshot.png
 ├── reports/
 │   └── Job_Hunt_Tracker_Corrected_AI_Insights_Report.docx
-├── README.md
-└── .gitignore
+
+
 ```
 
 ## ⚠️ Disclaimer
