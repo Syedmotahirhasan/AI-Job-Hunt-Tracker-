@@ -1,6 +1,5 @@
 # 🤖 AI Job Hunt Tracker
-
-### An AI-Powered Job Application Tracking and Analytics System
+An AI-Powered Job Application Data Analytics Project
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
