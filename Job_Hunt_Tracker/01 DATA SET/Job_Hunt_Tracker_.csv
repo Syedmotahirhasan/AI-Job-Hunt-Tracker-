@@ -1,0 +1,1011 @@
+﻿Application_ID,Company_Name,Job_Role,Location,Work_Mode,Application_Date,Job_Portal,Experience_Required,Skills_Required,Shortlisted,Resume_Version,Interview_Date,Follow_Up_Date,Salary_LPA,Job_URL
+101,TCS,Data Analyst,Bangalore,Hybrid,2026-10-05,LinkedIn,1-2 Years,SQL;Python;Excel,Applied,Resume_V1,No Date Finalized,No Follow Up Date,5.0,Linkedln.com
+102,Infosys,Junior Data Analyst,Pune,Onsite,2026-10-07,Naukri,0-1 Years,Excel;SQL;Power BI,Interview,Resume_V1,2026-10-20,2026-10-31,4.0,Naukri.com
+103,Accenture,Data Analyst,Hyderabad,Hybrid,2026-10-09,LinkedIn,1-2 Years,Python;SQL;Power BI,Interview,Resume_V2,No Date Finalized,No Follow Up Date,6.0,Linkedln.com
+104,Deloitte,Business Data Analyst,Gurgaon,Hybrid,2026-10-11,Company Website,1-3 Years,SQL;Excel;Tableau,Applied,Resume_V2,No Date Finalized,No Follow Up Date,7.0,Companyln.com
+105,Wipro,Data Analyst,Noida,Onsite,2026-10-13,Naukri,0-2 Years,Python;Excel;SQL,Interview,Resume_V1,2026-10-25,2026-11-02,4.5,Naukri.com
+106,Capgemini,Junior Analyst,Mumbai,Hybrid,2026-10-15,LinkedIn,0-1 Years,Excel;Power BI;SQL,Applied,Resume_V2,No Date Finalized,No Follow Up Date,4.0,Linkedln.com
+107,HCL,Data Analyst,Chennai,Onsite,2026-10-17,Indeed,1-2 Years,SQL;Python;Excel,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,5.0,Indeed.com
+108,IBM,Data Analyst,Bangalore,Remote,2026-10-19,Company Website,1-3 Years,Python;SQL;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,8.0,Companyln.com
+109,Cognizant,Reporting Analyst,Hyderabad,Hybrid,2026-10-21,Naukri,0-2 Years,Excel;SQL;Power BI,Offer,Resume_V2,2026-10-28,No Follow Up Date,5.5,Naukri.chm
+110,Genpact,Data Analyst,Noida,Onsite,2026-10-23,LinkedIn,1-2 Years,Excel;SQL;Python,Applied,Resume_V1,No Date Finalized,No Follow Up Date,4.5,Linkedln.com
+111,Infosys,Data Analyst,Pune,Remote,2026-10-17,Naukri,0-1 Years,Python;SQL;ETL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,9.4,naukri.com
+112,Cognizant,Business Intelligence Analyst,Noida,Hybrid,2026-09-09,Company Website,0-1 Years,Data Visualization;Tableau;Excel,Applied,Resume_V1,No Date Finalized,2026-09-29,11.3,company-careers.example
+113,Genpact,Junior Data Analyst,Kolkata,Hybrid,2025-12-11,Indeed,3-5 Years,Tableau;Excel;Data Visualization;Communication;ETL,Applied,Resume_V2,No Date Finalized,2025-12-25,13.7,indeed.com
+114,KPMG,Business Analyst,Noida,Hybrid,2026-08-15,Indeed,0-1 Years,Power BI;SQL;Pandas,Applied,Resume_V3,No Date Finalized,2026-08-25,5.9,indeed.com
+115,Swiggy,MIS Analyst,Noida,Remote,2025-10-01,Internshala,0-1 Years,Python;ETL;Power BI;SQL;Data Visualization,Interview,Resume_V1,2025-10-27,No Follow Up Date,7.0,internshala.com
+116,HCLTech,MIS Analyst,Kolkata,Onsite,2025-11-20,Indeed,1-2 Years,Data Visualization;Pandas;Communication,Applied,Resume_V3,No Date Finalized,2025-12-11,4.4,indeed.com
+117,LTIMindtree,Junior Data Analyst,Gurgaon,Hybrid,2026-08-22,Internshala,3-5 Years,SQL;Excel;Communication;Data Visualization,Shortlisted,Resume_V2,No Date Finalized,2026-08-29,9.8,internshala.com
+118,Deloitte,Business Intelligence Analyst,Hyderabad,Hybrid,2026-06-26,LinkedIn,Fresher,SQL;ETL;Tableau;Pandas;Statistics,Applied,Resume_V3,No Date Finalized,No Follow Up Date,6.6,linkedin.com/jobs
+119,Swiggy,Data Analyst,Remote,Hybrid,2025-09-27,Naukri,2-3 Years,SQL;Tableau;Power BI;Communication;Python,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,11.3,naukri.com
+120,Flipkart,Junior Data Analyst,Kolkata,Remote,2025-04-25,Indeed,0-1 Years,Excel;Power BI;SQL,Offer,Resume_V3,2025-05-28,No Follow Up Date,3.8,indeed.com
+121,Deloitte,Business Intelligence Analyst,Noida,Hybrid,2026-05-02,Indeed,3-5 Years,Communication;Pandas;Power BI;Tableau;Statistics,Offer,Resume_V2,2026-05-12,No Follow Up Date,10.5,indeed.com
+122,Tech Mahindra,Junior Data Analyst,Bangalore,Hybrid,2025-05-04,Internshala,Fresher,Power BI;Communication;Excel;Data Visualization;Statistics,Applied,Resume_V3,No Date Finalized,2025-05-07,9.9,internshala.com
+123,Capgemini,Junior Data Analyst,Pune,Onsite,2025-09-01,Naukri,2-3 Years,Communication;Data Visualization;Power BI;Pandas;ETL,Applied,Resume_V2,No Date Finalized,2025-09-21,11.8,naukri.com
+124,Wipro,MIS Analyst,Mumbai,Remote,2026-03-10,LinkedIn,3-5 Years,SQL;Excel;Pandas;Statistics;Python,Applied,Resume_V2,No Date Finalized,No Follow Up Date,11.8,linkedin.com/jobs
+125,TCS,Junior Data Analyst,Mumbai,Remote,2025-05-24,LinkedIn,2-3 Years,ETL;SQL;Excel;Statistics,Shortlisted,Resume_V2,2025-06-15,No Follow Up Date,14.0,linkedin.com/jobs
+126,Deloitte,Business Intelligence Analyst,Kolkata,Onsite,2026-05-08,Naukri,2-3 Years,Excel;Pandas;Tableau;ETL,Applied,Resume_V1,No Date Finalized,2026-05-12,11.6,naukri.com
+127,Paytm,Business Analyst,Bangalore,Onsite,2025-07-14,Internshala,Fresher,ETL;Excel;Statistics;Communication;Pandas,Applied,Resume_V1,No Date Finalized,No Follow Up Date,9.3,internshala.com
+128,LTIMindtree,Reporting Analyst,Delhi,Remote,2025-03-12,Company Website,1-2 Years,Communication;Power BI;Excel,Interview,Resume_V1,2025-04-07,No Follow Up Date,9.7,company-careers.example
+129,Zomato,Junior Data Analyst,Pune,Onsite,2025-09-29,Indeed,0-1 Years,Statistics;SQL;Excel;Power BI,Applied,Resume_V3,No Date Finalized,No Follow Up Date,9.8,indeed.com
+130,Deloitte,Data Analyst,Kolkata,Hybrid,2025-09-29,Naukri,Fresher,Tableau;Python;Data Visualization;Pandas,Applied,Resume_V1,No Date Finalized,2025-10-04,8.9,naukri.com
+131,IBM,Data Operations Analyst,Delhi,Remote,2025-09-28,Naukri,Fresher,Tableau;Power BI;Statistics;SQL,Applied,Resume_V3,No Date Finalized,2025-10-18,10.5,naukri.com
+132,Amazon,Business Intelligence Analyst,Kolkata,Remote,2026-03-10,LinkedIn,Fresher,Statistics;Python;Tableau,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.6,linkedin.com/jobs
+133,Infosys,Reporting Analyst,Mumbai,Onsite,2025-06-02,Naukri,0-1 Years,Python;Excel;Tableau;Communication,Shortlisted,Resume_V3,No Date Finalized,No Follow Up Date,12.9,naukri.com
+134,TCS,Business Analyst,Noida,Hybrid,2025-04-16,Company Website,0-1 Years,Python;Power BI;Communication;Pandas;SQL,Applied,Resume_V2,No Date Finalized,No Follow Up Date,12.7,company-careers.example
+135,Amazon,Reporting Analyst,Delhi,Remote,2025-06-13,LinkedIn,0-1 Years,Excel;Data Visualization;Power BI;SQL,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,11.9,linkedin.com/jobs
+136,IBM,Business Analyst,Remote,Hybrid,2025-07-17,Indeed,Fresher,ETL;Pandas;Statistics;Excel,Applied,Resume_V1,No Date Finalized,2025-07-22,4.1,indeed.com
+137,TCS,MIS Analyst,Noida,Hybrid,2026-09-03,LinkedIn,Fresher,Communication;Power BI;Tableau;Excel,Shortlisted,Resume_V3,No Date Finalized,2026-09-22,10.7,linkedin.com/jobs
+138,HCLTech,MIS Analyst,Gurgaon,Onsite,2025-12-05,Indeed,2-3 Years,Tableau;Pandas;Statistics;Power BI;Data Visualization,Interview,Resume_V3,2025-12-31,No Follow Up Date,6.1,indeed.com
+139,Capgemini,Data Operations Analyst,Hyderabad,Onsite,2025-06-28,Indeed,Fresher,Power BI;Pandas;Statistics;Communication,Interview,Resume_V2,2025-07-12,2025-07-01,7.7,indeed.com
+140,Flipkart,Junior Data Analyst,Chennai,Hybrid,2026-06-12,Indeed,3-5 Years,Power BI;Python;Excel,Interview,Resume_V1,2026-07-06,2026-06-22,3.3,indeed.com
+141,Wipro,Data Operations Analyst,Hyderabad,Hybrid,2026-01-29,LinkedIn,3-5 Years,Power BI;Python;Data Visualization;Excel,Shortlisted,Resume_V3,2026-02-05,No Follow Up Date,9.0,linkedin.com/jobs
+142,Amazon,Power BI Developer,Mumbai,Onsite,2026-09-02,Company Website,1-2 Years,ETL;Pandas;Data Visualization;SQL;Statistics,Applied,Resume_V3,No Date Finalized,No Follow Up Date,12.4,company-careers.example
+143,Genpact,Business Analyst,Mumbai,Remote,2026-05-12,Naukri,2-3 Years,Statistics;Communication;SQL;Data Visualization,Interview,Resume_V2,2026-05-25,2026-05-24,4.5,naukri.com
+144,Genpact,Business Intelligence Analyst,Kolkata,Onsite,2025-12-05,Company Website,3-5 Years,Excel;Pandas;Data Visualization;Communication;Python,Shortlisted,Resume_V3,2025-12-25,No Follow Up Date,6.1,company-careers.example
+145,Genpact,Data Analyst,Pune,Onsite,2025-08-14,Company Website,2-3 Years,Python;Data Visualization;Communication;Tableau;Pandas,Shortlisted,Resume_V1,2025-09-21,2025-08-27,3.1,company-careers.example
+146,LTIMindtree,Power BI Developer,Pune,Hybrid,2026-04-18,Naukri,Fresher,Statistics;Communication;Pandas;Python,Applied,Resume_V3,No Date Finalized,2026-05-01,11.2,naukri.com
+147,Persistent Systems,Business Analyst,Mumbai,Remote,2026-07-07,Naukri,2-3 Years,SQL;Excel;ETL;Communication;Pandas,Applied,Resume_V3,No Date Finalized,No Follow Up Date,12.2,naukri.com
+148,Wipro,Data Analyst,Delhi,Onsite,2025-04-28,Indeed,2-3 Years,Communication;SQL;Python,Interview,Resume_V2,2025-05-09,2025-05-09,13.6,indeed.com
+149,LTIMindtree,Reporting Analyst,Pune,Onsite,2025-07-23,Naukri,1-2 Years,Tableau;SQL;Excel,Applied,Resume_V1,No Date Finalized,No Follow Up Date,6.7,naukri.com
+150,Paytm,Power BI Developer,Remote,Onsite,2026-03-07,LinkedIn,2-3 Years,Statistics;Data Visualization;Python;Power BI,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,4.8,linkedin.com/jobs
+151,Tech Mahindra,Data Operations Analyst,Remote,Onsite,2026-03-23,Internshala,2-3 Years,Statistics;Power BI;SQL;Python,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,12.7,internshala.com
+152,Accenture,MIS Analyst,Gurgaon,Hybrid,2025-01-30,Indeed,3-5 Years,Communication;Tableau;Excel;ETL,Shortlisted,Resume_V1,2025-03-09,2025-02-10,13.4,indeed.com
+153,KPMG,Data Operations Analyst,Kolkata,Onsite,2026-05-03,LinkedIn,1-2 Years,Power BI;Pandas;Communication;Python,Interview,Resume_V2,2026-05-23,2026-05-06,10.2,linkedin.com/jobs
+154,Wipro,Business Analyst,Mumbai,Remote,2026-07-18,Indeed,2-3 Years,Tableau;Power BI;SQL;Statistics,Applied,Resume_V2,No Date Finalized,No Follow Up Date,5.0,indeed.com
+155,Deloitte,Data Analyst,Kolkata,Remote,2026-08-27,Internshala,1-2 Years,Tableau;SQL;Power BI;Python;ETL,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,6.8,internshala.com
+156,EY,Business Analyst,Bangalore,Hybrid,2025-02-25,LinkedIn,2-3 Years,Communication;Tableau;Data Visualization,Shortlisted,Resume_V1,No Date Finalized,2025-03-15,8.2,linkedin.com/jobs
+157,Wipro,Business Intelligence Analyst,Remote,Onsite,2025-03-08,Naukri,3-5 Years,Communication;Tableau;SQL,Applied,Resume_V1,No Date Finalized,2025-03-12,13.9,naukri.com
+158,Capgemini,MIS Analyst,Delhi,Onsite,2026-06-20,Indeed,Fresher,Pandas;Tableau;Excel;ETL;Statistics,Applied,Resume_V1,No Date Finalized,No Follow Up Date,3.9,indeed.com
+159,Deloitte,Data Operations Analyst,Pune,Onsite,2025-09-03,Company Website,0-1 Years,Communication;Data Visualization;Tableau;Excel,Applied,Resume_V2,No Date Finalized,2025-09-06,5.4,company-careers.example
+160,HCLTech,Junior Data Analyst,Bangalore,Remote,2026-10-03,Company Website,1-2 Years,ETL;Power BI;Python,Interview,Resume_V3,2026-11-02,No Follow Up Date,13.0,company-careers.example
+161,Amazon,Junior Data Analyst,Remote,Remote,2026-08-06,LinkedIn,2-3 Years,Tableau;Pandas;Communication;Data Visualization,Offer,Resume_V3,2026-08-25,No Follow Up Date,8.8,linkedin.com/jobs
+162,Amazon,Power BI Developer,Hyderabad,Onsite,2025-11-27,Internshala,2-3 Years,Tableau;Excel;Python,Interview,Resume_V3,2025-12-02,2025-12-18,8.1,internshala.com
+163,Cognizant,Reporting Analyst,Gurgaon,Onsite,2026-05-19,Company Website,2-3 Years,Pandas;Statistics;ETL;Data Visualization,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,4.0,company-careers.example
+164,Wipro,Business Intelligence Analyst,Kolkata,Remote,2026-02-15,Internshala,3-5 Years,Data Visualization;SQL;Statistics,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,5.6,internshala.com
+165,Amazon,Data Operations Analyst,Pune,Remote,2026-02-28,Company Website,3-5 Years,Power BI;Tableau;Python,Applied,Resume_V1,No Date Finalized,2026-03-18,13.2,company-careers.example
+166,HCLTech,Data Operations Analyst,Delhi,Onsite,2025-06-12,LinkedIn,1-2 Years,SQL;Data Visualization;Communication,Applied,Resume_V2,No Date Finalized,2025-06-28,10.1,linkedin.com/jobs
+167,Paytm,Business Analyst,Pune,Hybrid,2026-05-10,Naukri,2-3 Years,ETL;Python;Pandas;SQL,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,13.1,naukri.com
+168,Swiggy,Business Intelligence Analyst,Chennai,Hybrid,2026-06-04,Internshala,0-1 Years,Data Visualization;Python;Communication;Tableau;Power BI,Applied,Resume_V3,No Date Finalized,2026-06-16,6.7,internshala.com
+169,HCLTech,Data Operations Analyst,Bangalore,Remote,2025-09-02,Company Website,3-5 Years,Statistics;Data Visualization;Pandas,Interview,Resume_V3,2025-09-14,No Follow Up Date,7.1,company-careers.example
+170,LTIMindtree,Business Analyst,Pune,Hybrid,2025-12-06,Company Website,1-2 Years,ETL;Data Visualization;Excel,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,10.9,company-careers.example
+171,Deloitte,MIS Analyst,Pune,Hybrid,2026-10-01,Internshala,Fresher,Statistics;Data Visualization;Excel;Tableau,Interview,Resume_V3,2026-10-26,2026-10-14,3.6,internshala.com
+172,Tech Mahindra,Business Intelligence Analyst,Remote,Onsite,2025-04-13,LinkedIn,0-1 Years,Excel;Tableau;Statistics;Python,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,7.6,linkedin.com/jobs
+173,Amazon,Power BI Developer,Bangalore,Hybrid,2025-06-29,Internshala,1-2 Years,Power BI;Data Visualization;Python;SQL;Communication,Applied,Resume_V3,No Date Finalized,No Follow Up Date,9.9,internshala.com
+174,Genpact,Data Operations Analyst,Pune,Remote,2026-07-14,Internshala,2-3 Years,Pandas;Tableau;Data Visualization;Communication,Applied,Resume_V3,No Date Finalized,2026-07-28,6.2,internshala.com
+175,Deloitte,MIS Analyst,Remote,Hybrid,2026-01-03,Indeed,0-1 Years,Communication;Excel;Data Visualization,Interview,Resume_V3,2026-01-30,2026-01-18,12.1,indeed.com
+176,KPMG,Business Analyst,Pune,Hybrid,2025-07-14,Naukri,1-2 Years,SQL;Excel;Tableau;Pandas;Power BI,Interview,Resume_V3,2025-08-09,No Follow Up Date,3.2,naukri.com
+177,Deloitte,Reporting Analyst,Pune,Hybrid,2026-03-02,Indeed,Fresher,ETL;Tableau;Python;Data Visualization;Power BI,Applied,Resume_V1,No Date Finalized,2026-03-22,13.6,indeed.com
+178,Amazon,Reporting Analyst,Delhi,Onsite,2025-08-20,Company Website,2-3 Years,Statistics;SQL;Pandas;Excel;Python,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,8.8,company-careers.example
+179,Deloitte,Business Intelligence Analyst,Pune,Remote,2026-01-16,Internshala,Fresher,Statistics;Power BI;SQL;Communication;ETL,Applied,Resume_V1,No Date Finalized,2026-01-19,13.0,internshala.com
+180,KPMG,Business Intelligence Analyst,Remote,Onsite,2025-11-08,LinkedIn,0-1 Years,Power BI;ETL;Python,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,7.2,linkedin.com/jobs
+181,Tech Mahindra,Reporting Analyst,Pune,Onsite,2025-04-12,Internshala,1-2 Years,Tableau;Excel;Statistics;SQL,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,7.8,internshala.com
+182,Tech Mahindra,Business Analyst,Remote,Remote,2026-10-23,LinkedIn,Fresher,SQL;Power BI;Excel;Data Visualization,Applied,Resume_V3,No Date Finalized,2026-11-01,11.6,linkedin.com/jobs
+183,HCLTech,Business Analyst,Kolkata,Hybrid,2025-08-01,Indeed,0-1 Years,Communication;Excel;Tableau,Interview,Resume_V1,2025-09-01,No Follow Up Date,12.4,indeed.com
+184,LTIMindtree,Junior Data Analyst,Pune,Hybrid,2025-01-27,Internshala,2-3 Years,Excel;Python;Tableau;Communication,Applied,Resume_V2,No Date Finalized,2025-02-06,4.2,internshala.com
+185,LTIMindtree,Junior Data Analyst,Chennai,Onsite,2026-06-10,Internshala,2-3 Years,Data Visualization;Excel;ETL;Power BI,Interview,Resume_V1,2026-06-29,2026-06-14,12.3,internshala.com
+186,Amazon,Business Intelligence Analyst,Pune,Onsite,2025-03-24,Indeed,Fresher,Communication;ETL;Statistics;Power BI;Tableau,Applied,Resume_V3,No Date Finalized,2025-03-31,8.7,indeed.com
+187,Amazon,Business Intelligence Analyst,Gurgaon,Onsite,2026-10-29,Internshala,Fresher,Power BI;Pandas;Data Visualization;SQL;Communication,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,6.6,internshala.com
+188,KPMG,Business Analyst,Kolkata,Remote,2026-03-14,Company Website,3-5 Years,SQL;Communication;ETL,Applied,Resume_V3,No Date Finalized,2026-03-21,7.6,company-careers.example
+189,Capgemini,Business Analyst,Chennai,Remote,2026-07-30,Company Website,Fresher,Excel;Tableau;ETL;Python;Communication,Applied,Resume_V2,No Date Finalized,2026-08-13,9.3,company-careers.example
+190,IBM,Data Analyst,Hyderabad,Hybrid,2026-07-24,Internshala,1-2 Years,Pandas;ETL;Excel,Applied,Resume_V2,No Date Finalized,No Follow Up Date,9.6,internshala.com
+191,Accenture,MIS Analyst,Gurgaon,Hybrid,2025-12-26,Internshala,2-3 Years,Pandas;SQL;Python;Statistics;Communication,Applied,Resume_V2,No Date Finalized,No Follow Up Date,13.7,internshala.com
+192,Accenture,Power BI Developer,Chennai,Onsite,2025-06-11,Internshala,2-3 Years,SQL;Excel;Python;Communication;Tableau,Applied,Resume_V2,No Date Finalized,No Follow Up Date,3.4,internshala.com
+193,Persistent Systems,Data Analyst,Bangalore,Remote,2026-09-14,LinkedIn,1-2 Years,Communication;Data Visualization;Tableau;Excel,Shortlisted,Resume_V1,2026-10-23,2026-09-30,5.3,linkedin.com/jobs
+194,HCLTech,Business Intelligence Analyst,Kolkata,Onsite,2025-05-21,Indeed,0-1 Years,SQL;Excel;Data Visualization;Statistics,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,7.6,indeed.com
+195,Accenture,Reporting Analyst,Remote,Hybrid,2026-07-27,Indeed,3-5 Years,Pandas;Excel;Communication,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,3.0,indeed.com
+196,Wipro,MIS Analyst,Gurgaon,Onsite,2026-10-18,Indeed,2-3 Years,Communication;Data Visualization;Statistics,Applied,Resume_V3,No Date Finalized,2026-10-21,3.8,indeed.com
+197,KPMG,Reporting Analyst,Hyderabad,Remote,2025-03-22,Naukri,Fresher,Python;SQL;ETL;Tableau,Applied,Resume_V1,No Date Finalized,2025-04-04,8.5,naukri.com
+198,Zomato,Reporting Analyst,Noida,Remote,2025-09-20,LinkedIn,2-3 Years,Data Visualization;Communication;ETL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,10.4,linkedin.com/jobs
+199,Deloitte,Junior Data Analyst,Pune,Onsite,2026-04-26,Indeed,3-5 Years,SQL;Tableau;Data Visualization;Power BI;Excel,Shortlisted,Resume_V3,2026-05-20,No Follow Up Date,3.4,indeed.com
+200,HCLTech,Data Analyst,Chennai,Remote,2026-01-29,LinkedIn,1-2 Years,Communication;Power BI;Statistics;Tableau,Shortlisted,Resume_V3,No Date Finalized,No Follow Up Date,8.1,linkedin.com/jobs
+201,EY,Data Analyst,Noida,Remote,2025-03-28,Company Website,1-2 Years,ETL;Python;Statistics;Communication;Pandas,Shortlisted,Resume_V1,2025-04-19,No Follow Up Date,7.1,company-careers.example
+202,Genpact,Business Analyst,Remote,Onsite,2026-07-26,Indeed,Fresher,Communication;Python;Statistics,Interview,Resume_V2,2026-08-09,2026-08-02,6.3,indeed.com
+203,Deloitte,Business Analyst,Mumbai,Hybrid,2026-07-27,Naukri,2-3 Years,ETL;SQL;Pandas;Tableau;Python,Applied,Resume_V1,No Date Finalized,No Follow Up Date,3.0,naukri.com
+204,Persistent Systems,Business Analyst,Remote,Hybrid,2025-08-20,Naukri,0-1 Years,Tableau;SQL;Excel,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,10.2,naukri.com
+205,Tech Mahindra,Data Operations Analyst,Remote,Hybrid,2025-07-05,Internshala,2-3 Years,Data Visualization;Excel;Pandas,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,6.9,internshala.com
+206,Genpact,Business Intelligence Analyst,Hyderabad,Remote,2026-07-01,Company Website,3-5 Years,Statistics;Data Visualization;ETL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,11.4,company-careers.example
+207,Cognizant,Power BI Developer,Chennai,Onsite,2025-09-14,Internshala,0-1 Years,ETL;SQL;Tableau,Applied,Resume_V2,No Date Finalized,2025-09-28,3.7,internshala.com
+208,Tech Mahindra,Business Intelligence Analyst,Pune,Hybrid,2025-04-04,Company Website,0-1 Years,Excel;Pandas;Communication;Power BI,Offer,Resume_V1,2025-04-16,No Follow Up Date,8.4,company-careers.example
+209,Flipkart,Business Analyst,Chennai,Hybrid,2025-11-23,Indeed,3-5 Years,Python;Excel;Tableau,Offer,Resume_V1,2025-12-24,No Follow Up Date,13.1,indeed.com
+210,Wipro,Data Analyst,Mumbai,Hybrid,2025-03-23,Internshala,3-5 Years,Communication;ETL;Pandas;Excel;Python,Applied,Resume_V2,No Date Finalized,2025-03-30,5.5,internshala.com
+211,TCS,Reporting Analyst,Mumbai,Onsite,2025-03-06,Internshala,2-3 Years,Excel;ETL;Power BI;Statistics;SQL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,6.1,internshala.com
+212,KPMG,Power BI Developer,Bangalore,Hybrid,2025-03-29,Internshala,Fresher,Pandas;Data Visualization;Excel,Shortlisted,Resume_V2,2025-05-08,2025-04-17,9.9,internshala.com
+213,Cognizant,Data Operations Analyst,Chennai,Onsite,2025-09-04,Indeed,0-1 Years,Excel;Statistics;ETL,Interview,Resume_V1,2025-09-29,2025-09-25,11.9,indeed.com
+214,Paytm,Business Intelligence Analyst,Kolkata,Hybrid,2025-03-06,Naukri,1-2 Years,Power BI;Excel;Statistics,Interview,Resume_V1,2025-04-10,2025-03-18,13.3,naukri.com
+215,Genpact,Reporting Analyst,Hyderabad,Hybrid,2026-10-25,Indeed,2-3 Years,SQL;Statistics;Pandas;Power BI,Applied,Resume_V2,No Date Finalized,2026-10-29,11.1,indeed.com
+216,EY,Power BI Developer,Delhi,Hybrid,2026-06-16,LinkedIn,3-5 Years,Communication;Python;Tableau;ETL,Applied,Resume_V3,No Date Finalized,2026-07-02,3.9,linkedin.com/jobs
+217,Genpact,Reporting Analyst,Kolkata,Onsite,2026-03-13,LinkedIn,0-1 Years,Statistics;Pandas;Tableau;Communication;Excel,Applied,Resume_V1,No Date Finalized,2026-03-30,3.6,linkedin.com/jobs
+218,KPMG,Reporting Analyst,Gurgaon,Onsite,2025-05-27,Company Website,Fresher,Python;SQL;Power BI,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,11.5,company-careers.example
+219,Tech Mahindra,Junior Data Analyst,Bangalore,Onsite,2025-06-07,LinkedIn,0-1 Years,Python;ETL;Statistics;Power BI;Communication,Interview,Resume_V2,2025-07-12,2025-06-24,10.1,linkedin.com/jobs
+220,Flipkart,MIS Analyst,Pune,Remote,2026-06-15,Indeed,Fresher,Data Visualization;Power BI;Tableau;Statistics,Applied,Resume_V2,No Date Finalized,No Follow Up Date,13.1,indeed.com
+221,Deloitte,Power BI Developer,Hyderabad,Onsite,2025-06-26,Company Website,0-1 Years,Statistics;Communication;SQL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,9.0,company-careers.example
+222,KPMG,Data Operations Analyst,Kolkata,Remote,2026-06-05,Naukri,3-5 Years,Data Visualization;Excel;Statistics,Applied,Resume_V1,No Date Finalized,No Follow Up Date,9.0,naukri.com
+223,Amazon,Data Operations Analyst,Kolkata,Hybrid,2025-03-09,Company Website,0-1 Years,Pandas;Communication;SQL;Data Visualization;Python,Applied,Resume_V3,No Date Finalized,No Follow Up Date,10.0,company-careers.example
+224,Tech Mahindra,Reporting Analyst,Kolkata,Hybrid,2026-10-18,Company Website,Fresher,Excel;SQL;Python;Data Visualization;ETL,Interview,Resume_V2,2026-11-16,No Follow Up Date,4.6,company-careers.example
+225,Persistent Systems,Reporting Analyst,Remote,Remote,2025-07-21,Internshala,Fresher,SQL;ETL;Python;Tableau;Pandas,Interview,Resume_V1,2025-08-12,2025-08-02,4.5,internshala.com
+226,Swiggy,Power BI Developer,Delhi,Hybrid,2025-02-16,Internshala,0-1 Years,Power BI;Pandas;Excel;Communication,Offer,Resume_V3,2025-03-17,No Follow Up Date,12.8,internshala.com
+227,HCLTech,Reporting Analyst,Noida,Onsite,2026-02-20,Naukri,1-2 Years,Pandas;Data Visualization;ETL;SQL,Applied,Resume_V2,No Date Finalized,2026-02-24,6.6,naukri.com
+228,Tech Mahindra,Business Analyst,Pune,Remote,2025-05-14,Internshala,1-2 Years,SQL;Statistics;Power BI;Data Visualization;Excel,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,5.8,internshala.com
+229,Paytm,Data Operations Analyst,Chennai,Hybrid,2026-09-23,Naukri,2-3 Years,Communication;Statistics;Power BI;Pandas,Applied,Resume_V1,No Date Finalized,No Follow Up Date,4.6,naukri.com
+230,Flipkart,Data Operations Analyst,Delhi,Onsite,2025-04-03,Company Website,Fresher,Power BI;Statistics;Excel,Offer,Resume_V1,2025-04-24,No Follow Up Date,3.4,company-careers.example
+231,KPMG,Power BI Developer,Pune,Hybrid,2026-03-18,Company Website,3-5 Years,Excel;Pandas;Communication;Tableau,Applied,Resume_V2,No Date Finalized,2026-04-01,9.1,company-careers.example
+232,EY,Reporting Analyst,Hyderabad,Remote,2026-07-18,Internshala,3-5 Years,Python;SQL;Pandas,Applied,Resume_V3,No Date Finalized,No Follow Up Date,7.0,internshala.com
+233,Genpact,Power BI Developer,Remote,Hybrid,2026-02-16,Company Website,3-5 Years,Data Visualization;Python;ETL;Communication;Tableau,Shortlisted,Resume_V3,2026-03-03,No Follow Up Date,6.4,company-careers.example
+234,TCS,Data Operations Analyst,Delhi,Onsite,2026-06-30,Indeed,3-5 Years,SQL;Pandas;Tableau;ETL,Shortlisted,Resume_V3,No Date Finalized,2026-07-03,12.9,indeed.com
+235,Wipro,MIS Analyst,Bangalore,Hybrid,2025-08-22,Internshala,1-2 Years,Python;Power BI;Excel;Tableau,Interview,Resume_V2,2025-09-14,2025-09-10,13.4,internshala.com
+236,Flipkart,Business Intelligence Analyst,Noida,Remote,2025-06-05,Internshala,2-3 Years,Excel;Python;Power BI;Tableau,Applied,Resume_V3,No Date Finalized,2025-06-24,6.4,internshala.com
+237,Deloitte,Power BI Developer,Mumbai,Onsite,2025-12-17,Indeed,2-3 Years,Data Visualization;Power BI;ETL;Python;Tableau,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,6.1,indeed.com
+238,HCLTech,Power BI Developer,Bangalore,Hybrid,2026-05-07,Indeed,Fresher,SQL;ETL;Pandas;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,12.0,indeed.com
+239,Zomato,MIS Analyst,Mumbai,Remote,2026-03-29,Internshala,3-5 Years,ETL;Tableau;Python;Excel,Interview,Resume_V1,2026-04-26,2026-04-07,9.7,internshala.com
+240,Flipkart,Data Operations Analyst,Mumbai,Hybrid,2026-10-16,Company Website,1-2 Years,Python;Excel;Communication,Applied,Resume_V2,No Date Finalized,2026-10-29,7.4,company-careers.example
+241,Cognizant,Data Analyst,Gurgaon,Hybrid,2026-10-24,Internshala,0-1 Years,ETL;Excel;Python,Applied,Resume_V3,No Date Finalized,No Follow Up Date,7.5,internshala.com
+242,Swiggy,Data Operations Analyst,Hyderabad,Onsite,2025-10-24,LinkedIn,2-3 Years,Communication;SQL;Statistics;Python,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,7.9,linkedin.com/jobs
+243,EY,Power BI Developer,Remote,Onsite,2025-07-17,Indeed,0-1 Years,Data Visualization;Tableau;Python,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,3.0,indeed.com
+244,Cognizant,Business Analyst,Chennai,Hybrid,2026-09-18,Company Website,0-1 Years,ETL;Statistics;SQL;Power BI,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,10.3,company-careers.example
+245,Tech Mahindra,Data Analyst,Pune,Hybrid,2025-09-25,Indeed,1-2 Years,Communication;Excel;Tableau;Statistics,Applied,Resume_V1,No Date Finalized,2025-10-06,6.8,indeed.com
+246,HCLTech,Data Operations Analyst,Hyderabad,Hybrid,2026-02-20,Indeed,3-5 Years,SQL;Tableau;Statistics;ETL;Communication,Interview,Resume_V2,2026-03-26,No Follow Up Date,5.3,indeed.com
+247,KPMG,Junior Data Analyst,Remote,Remote,2026-03-02,Naukri,Fresher,Communication;SQL;Data Visualization,Interview,Resume_V3,2026-04-05,2026-03-22,8.7,naukri.com
+248,Paytm,Data Operations Analyst,Bangalore,Hybrid,2026-06-02,Indeed,0-1 Years,Data Visualization;SQL;Power BI;Statistics;Tableau,Applied,Resume_V3,No Date Finalized,2026-06-10,8.3,indeed.com
+249,Zomato,Junior Data Analyst,Bangalore,Hybrid,2026-03-02,Indeed,1-2 Years,Excel;Pandas;Tableau;ETL;Communication,Shortlisted,Resume_V3,2026-04-07,No Follow Up Date,11.2,indeed.com
+250,LTIMindtree,Reporting Analyst,Gurgaon,Hybrid,2025-03-07,Company Website,2-3 Years,Tableau;Pandas;Python,Shortlisted,Resume_V2,2025-03-18,No Follow Up Date,11.4,company-careers.example
+251,Tech Mahindra,Data Analyst,Bangalore,Hybrid,2025-03-24,Naukri,2-3 Years,Statistics;SQL;Python;Tableau;Power BI,Interview,Resume_V3,2025-04-19,No Follow Up Date,8.7,naukri.com
+252,Persistent Systems,Data Analyst,Mumbai,Remote,2026-07-12,Naukri,Fresher,Power BI;SQL;Excel;Pandas,Shortlisted,Resume_V1,2026-08-02,2026-07-26,10.2,naukri.com
+253,Capgemini,Data Analyst,Hyderabad,Onsite,2026-09-01,LinkedIn,1-2 Years,Excel;Pandas;Data Visualization,Applied,Resume_V1,No Date Finalized,No Follow Up Date,5.4,linkedin.com/jobs
+254,IBM,Data Analyst,Kolkata,Onsite,2026-08-13,Indeed,0-1 Years,Tableau;Python;Power BI,Applied,Resume_V3,No Date Finalized,No Follow Up Date,7.4,indeed.com
+255,Swiggy,Data Operations Analyst,Mumbai,Remote,2026-03-14,Company Website,1-2 Years,Statistics;Pandas;ETL;SQL;Python,Shortlisted,Resume_V3,2026-04-12,No Follow Up Date,7.0,company-careers.example
+256,EY,Junior Data Analyst,Chennai,Hybrid,2025-05-28,LinkedIn,Fresher,Pandas;Communication;Python;Power BI;SQL,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,5.7,linkedin.com/jobs
+257,EY,Power BI Developer,Bangalore,Remote,2025-07-15,LinkedIn,0-1 Years,Communication;ETL;Power BI,Applied,Resume_V3,No Date Finalized,2025-07-19,8.2,linkedin.com/jobs
+258,Genpact,Data Operations Analyst,Kolkata,Onsite,2025-05-01,Internshala,1-2 Years,Power BI;Pandas;Communication;Tableau;Python,Interview,Resume_V2,2025-05-30,2025-05-11,11.5,internshala.com
+259,LTIMindtree,Data Analyst,Remote,Remote,2025-09-25,Company Website,0-1 Years,Data Visualization;Statistics;Power BI,Applied,Resume_V1,No Date Finalized,No Follow Up Date,7.0,company-careers.example
+260,Tech Mahindra,Data Operations Analyst,Kolkata,Onsite,2025-09-25,Indeed,1-2 Years,Power BI;Statistics;Communication,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,7.1,indeed.com
+261,Flipkart,Business Analyst,Kolkata,Onsite,2026-05-16,Company Website,Fresher,Python;Statistics;Communication;SQL,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,10.9,company-careers.example
+262,HCLTech,Data Analyst,Mumbai,Onsite,2025-02-04,LinkedIn,2-3 Years,Excel;Communication;Pandas;SQL;Statistics,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,5.4,linkedin.com/jobs
+263,TCS,Power BI Developer,Kolkata,Hybrid,2025-03-03,Company Website,Fresher,Data Visualization;Excel;ETL;Tableau;Pandas,Interview,Resume_V3,2025-03-29,No Follow Up Date,7.4,company-careers.example
+264,Persistent Systems,Power BI Developer,Noida,Hybrid,2026-03-17,Naukri,2-3 Years,SQL;ETL;Python,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,5.5,naukri.com
+265,Infosys,Junior Data Analyst,Gurgaon,Hybrid,2026-01-18,Company Website,2-3 Years,Power BI;Communication;Tableau;Statistics;Excel,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,10.1,company-careers.example
+266,Tech Mahindra,MIS Analyst,Remote,Hybrid,2026-05-03,LinkedIn,1-2 Years,Pandas;Statistics;SQL;Tableau,Applied,Resume_V1,No Date Finalized,2026-05-11,13.1,linkedin.com/jobs
+267,Genpact,Junior Data Analyst,Delhi,Remote,2025-03-18,Internshala,3-5 Years,Excel;Python;Statistics;Communication;SQL,Interview,Resume_V1,2025-03-31,No Follow Up Date,9.4,internshala.com
+268,Accenture,Reporting Analyst,Bangalore,Remote,2026-08-04,Company Website,2-3 Years,ETL;Statistics;Pandas;Data Visualization;Communication,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.4,company-careers.example
+269,Flipkart,MIS Analyst,Noida,Onsite,2025-03-19,Internshala,2-3 Years,Statistics;Excel;Tableau;Pandas,Applied,Resume_V2,No Date Finalized,No Follow Up Date,13.9,internshala.com
+270,HCLTech,Business Intelligence Analyst,Noida,Hybrid,2025-07-10,Naukri,Fresher,SQL;Communication;Tableau;ETL;Power BI,Interview,Resume_V1,2025-08-05,2025-07-22,10.8,naukri.com
+271,Swiggy,Business Intelligence Analyst,Pune,Remote,2025-01-06,Indeed,Fresher,SQL;Python;Communication;Data Visualization,Offer,Resume_V2,2025-01-25,No Follow Up Date,7.6,indeed.com
+272,Swiggy,MIS Analyst,Remote,Onsite,2026-07-22,Indeed,0-1 Years,Excel;Tableau;Pandas;Power BI,Applied,Resume_V3,No Date Finalized,No Follow Up Date,11.5,indeed.com
+273,Deloitte,Data Operations Analyst,Pune,Hybrid,2026-01-25,Company Website,1-2 Years,SQL;Python;Pandas,Applied,Resume_V1,No Date Finalized,2026-02-05,5.9,company-careers.example
+274,EY,Data Operations Analyst,Noida,Hybrid,2026-10-03,Indeed,3-5 Years,Pandas;Statistics;Communication,Shortlisted,Resume_V1,No Date Finalized,2026-10-10,11.8,indeed.com
+275,Flipkart,MIS Analyst,Noida,Hybrid,2025-11-04,Naukri,1-2 Years,Statistics;Python;Pandas;ETL,Applied,Resume_V2,No Date Finalized,No Follow Up Date,6.1,naukri.com
+276,Capgemini,Data Operations Analyst,Delhi,Onsite,2026-01-09,Internshala,Fresher,Python;ETL;Excel;Statistics;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,13.4,internshala.com
+277,Genpact,Business Intelligence Analyst,Kolkata,Remote,2026-05-27,Naukri,1-2 Years,Pandas;Communication;SQL;Power BI;Tableau,Applied,Resume_V3,No Date Finalized,2026-06-07,8.2,naukri.com
+278,EY,Business Intelligence Analyst,Pune,Remote,2026-07-04,Indeed,Fresher,Communication;Excel;Pandas,Interview,Resume_V2,2026-08-07,2026-07-14,13.6,indeed.com
+279,Zomato,Business Analyst,Noida,Remote,2025-08-16,Internshala,2-3 Years,Data Visualization;Statistics;Pandas,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,8.0,internshala.com
+280,Paytm,Data Operations Analyst,Noida,Hybrid,2025-10-30,LinkedIn,Fresher,Python;Statistics;Tableau;Communication;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,11.6,linkedin.com/jobs
+281,Cognizant,Reporting Analyst,Kolkata,Hybrid,2026-04-09,LinkedIn,2-3 Years,SQL;Python;Power BI;Tableau,Applied,Resume_V1,No Date Finalized,2026-04-15,4.8,linkedin.com/jobs
+282,TCS,MIS Analyst,Mumbai,Hybrid,2026-02-19,Company Website,Fresher,Excel;Power BI;Data Visualization;Tableau,Interview,Resume_V3,2026-03-01,No Follow Up Date,7.6,company-careers.example
+283,IBM,Data Operations Analyst,Kolkata,Onsite,2025-04-15,Internshala,1-2 Years,Statistics;Communication;Power BI,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,7.9,internshala.com
+284,Tech Mahindra,Power BI Developer,Pune,Remote,2026-02-02,Company Website,1-2 Years,Python;Tableau;SQL;Statistics;Data Visualization,Interview,Resume_V3,2026-02-25,2026-02-16,6.3,company-careers.example
+285,Flipkart,Power BI Developer,Hyderabad,Remote,2025-05-25,Company Website,1-2 Years,Data Visualization;ETL;Python,Shortlisted,Resume_V2,2025-06-09,No Follow Up Date,9.0,company-careers.example
+286,Flipkart,Business Intelligence Analyst,Chennai,Hybrid,2026-09-27,Company Website,0-1 Years,Power BI;Pandas;Data Visualization,Applied,Resume_V1,No Date Finalized,2026-09-30,7.4,company-careers.example
+287,Amazon,Data Operations Analyst,Kolkata,Onsite,2026-08-02,Indeed,Fresher,Tableau;Power BI;Communication,Applied,Resume_V3,No Date Finalized,No Follow Up Date,4.7,indeed.com
+288,Wipro,MIS Analyst,Delhi,Remote,2025-04-27,Internshala,2-3 Years,Data Visualization;ETL;Power BI,Applied,Resume_V2,No Date Finalized,2025-05-11,13.9,internshala.com
+289,KPMG,Business Intelligence Analyst,Hyderabad,Onsite,2025-12-23,LinkedIn,0-1 Years,SQL;Power BI;ETL;Pandas,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,11.1,linkedin.com/jobs
+290,Deloitte,Power BI Developer,Remote,Hybrid,2025-07-31,Internshala,3-5 Years,ETL;Tableau;Python;Data Visualization,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,13.8,internshala.com
+291,EY,MIS Analyst,Gurgaon,Hybrid,2025-04-08,Company Website,0-1 Years,Tableau;Python;ETL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,5.6,company-careers.example
+292,Flipkart,Reporting Analyst,Remote,Remote,2026-10-10,LinkedIn,Fresher,SQL;Pandas;Tableau;Statistics;Python,Applied,Resume_V3,No Date Finalized,2026-10-27,7.9,linkedin.com/jobs
+293,Deloitte,Reporting Analyst,Kolkata,Onsite,2026-04-15,Internshala,0-1 Years,Power BI;Pandas;Communication;Data Visualization,Interview,Resume_V3,2026-05-12,2026-04-20,5.8,internshala.com
+294,Cognizant,Data Operations Analyst,Chennai,Remote,2026-05-12,LinkedIn,2-3 Years,SQL;Data Visualization;Excel,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.2,linkedin.com/jobs
+295,KPMG,Business Analyst,Bangalore,Hybrid,2025-05-16,Indeed,1-2 Years,Tableau;SQL;Statistics,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,5.6,indeed.com
+296,EY,Junior Data Analyst,Gurgaon,Onsite,2025-08-28,LinkedIn,0-1 Years,Communication;Power BI;Data Visualization,Shortlisted,Resume_V2,2025-09-10,2025-09-15,2.9,linkedin.com/jobs
+297,HCLTech,Business Analyst,Pune,Onsite,2025-03-14,LinkedIn,3-5 Years,Statistics;Tableau;Python;Power BI,Applied,Resume_V1,No Date Finalized,2025-03-20,11.5,linkedin.com/jobs
+298,HCLTech,Junior Data Analyst,Remote,Onsite,2026-09-17,Naukri,2-3 Years,Communication;Data Visualization;Power BI;Excel,Interview,Resume_V2,2026-10-06,2026-09-26,12.8,naukri.com
+299,Deloitte,MIS Analyst,Kolkata,Onsite,2026-03-16,LinkedIn,3-5 Years,ETL;Tableau;Excel,Applied,Resume_V1,No Date Finalized,2026-03-27,12.3,linkedin.com/jobs
+300,Paytm,Data Analyst,Noida,Hybrid,2026-02-06,Company Website,0-1 Years,SQL;Power BI;Data Visualization;Statistics,Applied,Resume_V2,No Date Finalized,2026-02-16,9.5,company-careers.example
+301,Infosys,Data Analyst,Gurgaon,Onsite,2026-08-06,LinkedIn,1-2 Years,Communication;SQL;Excel,Shortlisted,Resume_V3,No Date Finalized,2026-08-24,5.7,linkedin.com/jobs
+302,Paytm,MIS Analyst,Hyderabad,Onsite,2026-05-29,Company Website,1-2 Years,Pandas;SQL;Python;Data Visualization;Excel,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,6.3,company-careers.example
+303,LTIMindtree,Junior Data Analyst,Chennai,Onsite,2026-08-24,LinkedIn,3-5 Years,Pandas;Power BI;Excel;SQL,Interview,Resume_V1,2026-09-24,No Follow Up Date,3.8,linkedin.com/jobs
+304,KPMG,Power BI Developer,Hyderabad,Hybrid,2025-11-13,LinkedIn,0-1 Years,Python;Excel;Communication,Interview,Resume_V3,2025-12-09,No Follow Up Date,8.4,linkedin.com/jobs
+305,Zomato,Junior Data Analyst,Chennai,Hybrid,2025-10-03,LinkedIn,3-5 Years,Pandas;Tableau;SQL;Python,Interview,Resume_V2,2025-10-11,No Follow Up Date,10.8,linkedin.com/jobs
+306,Flipkart,Reporting Analyst,Gurgaon,Remote,2025-02-26,LinkedIn,0-1 Years,SQL;Power BI;Excel;Data Visualization;Pandas,Shortlisted,Resume_V1,No Date Finalized,2025-03-09,5.5,linkedin.com/jobs
+307,EY,Power BI Developer,Pune,Onsite,2026-07-21,Company Website,1-2 Years,Statistics;Power BI;Pandas,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,13.1,company-careers.example
+308,EY,Junior Data Analyst,Kolkata,Hybrid,2026-05-30,LinkedIn,Fresher,SQL;Data Visualization;Tableau;Pandas,Interview,Resume_V2,2026-06-05,2026-06-18,12.3,linkedin.com/jobs
+309,Capgemini,MIS Analyst,Hyderabad,Remote,2025-07-25,Internshala,2-3 Years,Data Visualization;Statistics;Communication,Applied,Resume_V1,No Date Finalized,No Follow Up Date,14.0,internshala.com
+310,Tech Mahindra,Business Intelligence Analyst,Chennai,Remote,2025-08-27,LinkedIn,0-1 Years,Excel;Pandas;Tableau;Communication,Shortlisted,Resume_V3,No Date Finalized,No Follow Up Date,5.1,linkedin.com/jobs
+311,HCLTech,Business Intelligence Analyst,Pune,Onsite,2025-10-14,Internshala,3-5 Years,Statistics;Data Visualization;SQL;Tableau,Applied,Resume_V1,No Date Finalized,No Follow Up Date,3.9,internshala.com
+312,Capgemini,Business Analyst,Remote,Remote,2026-03-22,Indeed,0-1 Years,Statistics;Communication;Data Visualization;Python,Interview,Resume_V1,2026-03-31,2026-04-02,5.4,indeed.com
+313,Deloitte,Data Analyst,Mumbai,Hybrid,2025-06-18,Company Website,0-1 Years,Data Visualization;Tableau;SQL;Excel,Shortlisted,Resume_V1,2025-07-02,2025-06-27,4.6,company-careers.example
+314,Genpact,Data Operations Analyst,Kolkata,Onsite,2025-09-12,Company Website,3-5 Years,Excel;Tableau;ETL;Pandas;SQL,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,3.1,company-careers.example
+315,Accenture,Power BI Developer,Pune,Remote,2025-04-07,LinkedIn,Fresher,Python;Power BI;Pandas,Shortlisted,Resume_V1,No Date Finalized,2025-04-10,7.0,linkedin.com/jobs
+316,Genpact,Business Intelligence Analyst,Hyderabad,Hybrid,2026-10-24,LinkedIn,0-1 Years,Communication;Pandas;ETL,Shortlisted,Resume_V1,2026-11-21,2026-11-10,8.4,linkedin.com/jobs
+317,Flipkart,Data Analyst,Pune,Hybrid,2025-10-09,LinkedIn,2-3 Years,Communication;Power BI;Tableau;ETL;Pandas,Applied,Resume_V1,No Date Finalized,No Follow Up Date,12.7,linkedin.com/jobs
+318,KPMG,Data Operations Analyst,Kolkata,Hybrid,2026-03-06,Internshala,1-2 Years,ETL;Excel;Pandas,Applied,Resume_V3,No Date Finalized,No Follow Up Date,11.6,internshala.com
+319,Zomato,MIS Analyst,Hyderabad,Remote,2026-05-30,Indeed,0-1 Years,Power BI;Excel;Tableau;ETL;Communication,Applied,Resume_V3,No Date Finalized,2026-06-02,8.7,indeed.com
+320,Cognizant,Business Analyst,Mumbai,Onsite,2025-09-04,LinkedIn,1-2 Years,Communication;Pandas;Statistics,Applied,Resume_V3,No Date Finalized,No Follow Up Date,13.3,linkedin.com/jobs
+321,Cognizant,Data Operations Analyst,Bangalore,Remote,2026-01-03,Indeed,Fresher,Communication;Python;Power BI;Pandas;Data Visualization,Offer,Resume_V1,2026-01-08,No Follow Up Date,8.9,indeed.com
+322,EY,Data Analyst,Bangalore,Remote,2026-09-09,Indeed,3-5 Years,Power BI;Python;Statistics;Data Visualization;SQL,Applied,Resume_V3,No Date Finalized,2026-09-12,13.1,indeed.com
+323,Deloitte,Reporting Analyst,Hyderabad,Remote,2025-05-26,Internshala,2-3 Years,SQL;Statistics;Pandas;Tableau,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,3.9,internshala.com
+324,Genpact,Power BI Developer,Delhi,Remote,2026-05-14,Internshala,0-1 Years,Communication;Statistics;Power BI;ETL;Tableau,Interview,Resume_V3,2026-05-24,No Follow Up Date,11.9,internshala.com
+325,Persistent Systems,MIS Analyst,Remote,Remote,2025-01-02,Internshala,2-3 Years,Communication;Excel;Python;Tableau,Offer,Resume_V1,2025-02-06,No Follow Up Date,6.4,internshala.com
+326,Accenture,Reporting Analyst,Delhi,Remote,2025-12-06,Naukri,Fresher,SQL;Statistics;Data Visualization;Excel;Python,Interview,Resume_V1,2025-12-18,2025-12-19,5.1,naukri.com
+327,Zomato,MIS Analyst,Hyderabad,Hybrid,2026-01-31,Company Website,Fresher,Statistics;ETL;Pandas;Excel,Shortlisted,Resume_V1,2026-02-17,No Follow Up Date,12.1,company-careers.example
+328,Accenture,Reporting Analyst,Remote,Onsite,2025-10-29,LinkedIn,2-3 Years,Python;Pandas;Communication;Statistics,Applied,Resume_V3,No Date Finalized,2025-11-04,3.6,linkedin.com/jobs
+329,Capgemini,Business Intelligence Analyst,Kolkata,Onsite,2025-02-01,Company Website,3-5 Years,Excel;SQL;Statistics,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,5.1,company-careers.example
+330,Deloitte,Data Operations Analyst,Mumbai,Remote,2025-10-16,Internshala,Fresher,Data Visualization;Python;Excel;ETL;Communication,Applied,Resume_V1,No Date Finalized,2025-10-31,7.6,internshala.com
+331,Genpact,Business Analyst,Noida,Hybrid,2025-06-24,Indeed,1-2 Years,Data Visualization;Communication;Tableau;Excel,Interview,Resume_V1,2025-07-01,2025-06-30,10.0,indeed.com
+332,Wipro,Junior Data Analyst,Noida,Onsite,2026-04-02,Naukri,2-3 Years,Communication;Excel;Python;Pandas,Applied,Resume_V3,No Date Finalized,2026-04-13,10.6,naukri.com
+333,Infosys,Business Analyst,Pune,Hybrid,2025-08-21,Company Website,0-1 Years,Data Visualization;Power BI;Communication;Python;Excel,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,7.2,company-careers.example
+334,HCLTech,Power BI Developer,Noida,Onsite,2025-08-05,Naukri,Fresher,Pandas;SQL;Communication,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,5.1,naukri.com
+335,HCLTech,Junior Data Analyst,Pune,Onsite,2026-02-02,Internshala,Fresher,Excel;ETL;Pandas;Communication,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,7.4,internshala.com
+336,Genpact,Business Analyst,Remote,Onsite,2026-07-03,Company Website,2-3 Years,Pandas;Data Visualization;ETL;Excel,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.7,company-careers.example
+337,Deloitte,Power BI Developer,Delhi,Hybrid,2026-02-10,Indeed,Fresher,Power BI;Excel;Data Visualization;Python;Pandas,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,3.0,indeed.com
+338,LTIMindtree,Data Operations Analyst,Kolkata,Hybrid,2025-05-18,Indeed,Fresher,Pandas;SQL;Power BI;Data Visualization,Applied,Resume_V3,No Date Finalized,No Follow Up Date,5.2,indeed.com
+339,Capgemini,Data Analyst,Mumbai,Remote,2025-06-12,Company Website,2-3 Years,ETL;Excel;Python,Applied,Resume_V1,No Date Finalized,No Follow Up Date,5.0,company-careers.example
+340,Amazon,Business Analyst,Chennai,Onsite,2026-01-05,Internshala,3-5 Years,SQL;Excel;Power BI;Python,Interview,Resume_V2,2026-01-18,2026-01-22,8.3,internshala.com
+341,Capgemini,MIS Analyst,Mumbai,Onsite,2025-12-19,LinkedIn,0-1 Years,Excel;Pandas;Communication;SQL,Applied,Resume_V2,No Date Finalized,No Follow Up Date,12.4,linkedin.com/jobs
+342,Deloitte,Power BI Developer,Gurgaon,Hybrid,2026-10-30,Company Website,1-2 Years,Python;Excel;Power BI,Applied,Resume_V2,No Date Finalized,2026-11-02,5.6,company-careers.example
+343,KPMG,Power BI Developer,Delhi,Onsite,2025-09-16,Internshala,Fresher,Communication;SQL;Excel;Tableau,Applied,Resume_V2,No Date Finalized,2025-10-05,14.0,internshala.com
+344,Infosys,Business Intelligence Analyst,Noida,Onsite,2025-03-07,Indeed,0-1 Years,Tableau;Power BI;Python;Communication,Applied,Resume_V3,No Date Finalized,2025-03-20,11.4,indeed.com
+345,Swiggy,Data Operations Analyst,Noida,Onsite,2025-01-27,Company Website,1-2 Years,Excel;Power BI;Statistics;Data Visualization,Interview,Resume_V1,2025-02-10,2025-02-12,10.8,company-careers.example
+346,Tech Mahindra,Power BI Developer,Gurgaon,Hybrid,2026-07-26,Indeed,1-2 Years,ETL;Python;Statistics;Data Visualization;Excel,Applied,Resume_V2,No Date Finalized,2026-08-02,5.3,indeed.com
+347,Paytm,Junior Data Analyst,Gurgaon,Onsite,2026-08-23,Company Website,1-2 Years,Communication;SQL;Data Visualization,Applied,Resume_V2,No Date Finalized,No Follow Up Date,12.8,company-careers.example
+348,Amazon,Business Analyst,Noida,Onsite,2025-02-25,Naukri,0-1 Years,Power BI;Statistics;Pandas,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,13.9,naukri.com
+349,Cognizant,Business Analyst,Chennai,Remote,2026-05-15,Indeed,0-1 Years,Excel;Communication;Data Visualization;Python;SQL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,11.3,indeed.com
+350,TCS,Reporting Analyst,Kolkata,Remote,2026-03-21,Company Website,Fresher,Excel;ETL;Power BI,Interview,Resume_V3,2026-04-07,2026-04-08,11.0,company-careers.example
+351,Infosys,Power BI Developer,Delhi,Hybrid,2025-01-05,Indeed,3-5 Years,SQL;Pandas;Tableau,Interview,Resume_V3,2025-01-17,2025-01-19,4.7,indeed.com
+352,Genpact,Data Analyst,Mumbai,Remote,2026-06-21,Naukri,0-1 Years,Data Visualization;Statistics;Power BI;SQL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,13.4,naukri.com
+353,TCS,Data Analyst,Pune,Hybrid,2025-01-23,Company Website,2-3 Years,Tableau;ETL;Excel;Communication;Data Visualization,Interview,Resume_V2,2025-02-02,2025-01-27,10.2,company-careers.example
+354,HCLTech,Business Intelligence Analyst,Pune,Onsite,2025-05-07,Indeed,3-5 Years,SQL;ETL;Tableau;Data Visualization,Shortlisted,Resume_V1,No Date Finalized,2025-05-10,9.6,indeed.com
+355,LTIMindtree,Power BI Developer,Hyderabad,Remote,2025-10-17,Internshala,3-5 Years,Tableau;ETL;Power BI,Applied,Resume_V2,No Date Finalized,2025-10-26,6.8,internshala.com
+356,Accenture,Junior Data Analyst,Delhi,Onsite,2025-08-01,LinkedIn,0-1 Years,SQL;Communication;Data Visualization;ETL;Excel,Interview,Resume_V2,2025-08-21,2025-08-04,11.5,linkedin.com/jobs
+357,Infosys,Data Analyst,Hyderabad,Onsite,2025-10-31,LinkedIn,0-1 Years,Statistics;Communication;Pandas;ETL,Applied,Resume_V2,No Date Finalized,2025-11-08,4.1,linkedin.com/jobs
+358,Genpact,Data Operations Analyst,Delhi,Hybrid,2026-01-02,Internshala,2-3 Years,SQL;Statistics;ETL;Communication,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,4.1,internshala.com
+359,Zomato,Data Operations Analyst,Remote,Onsite,2026-10-27,Naukri,2-3 Years,Python;Excel;Communication,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.0,naukri.com
+360,IBM,Reporting Analyst,Bangalore,Onsite,2026-09-18,Naukri,3-5 Years,Data Visualization;SQL;Pandas;Power BI,Applied,Resume_V3,No Date Finalized,2026-09-21,3.3,naukri.com
+361,KPMG,Business Intelligence Analyst,Hyderabad,Onsite,2026-08-14,Indeed,3-5 Years,ETL;SQL;Pandas;Statistics;Data Visualization,Interview,Resume_V1,2026-08-26,No Follow Up Date,5.6,indeed.com
+362,IBM,Data Analyst,Kolkata,Remote,2025-01-12,Company Website,3-5 Years,SQL;Data Visualization;Statistics,Interview,Resume_V3,2025-01-22,2025-01-30,5.5,company-careers.example
+363,Flipkart,Data Analyst,Pune,Hybrid,2026-01-23,Company Website,2-3 Years,Data Visualization;SQL;Communication;Power BI;Python,Applied,Resume_V1,No Date Finalized,2026-02-09,4.1,company-careers.example
+364,EY,Reporting Analyst,Bangalore,Remote,2026-07-25,Internshala,2-3 Years,Tableau;ETL;Power BI;Statistics;Pandas,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,7.9,internshala.com
+365,Tech Mahindra,Data Analyst,Noida,Hybrid,2026-07-28,Internshala,1-2 Years,Statistics;Data Visualization;SQL;Excel,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,11.3,internshala.com
+366,Capgemini,Junior Data Analyst,Gurgaon,Remote,2026-06-19,Company Website,2-3 Years,Pandas;SQL;Tableau,Applied,Resume_V1,No Date Finalized,2026-06-27,9.6,company-careers.example
+367,Infosys,Business Intelligence Analyst,Remote,Hybrid,2025-12-13,LinkedIn,3-5 Years,Data Visualization;ETL;Python;Power BI,Applied,Resume_V1,No Date Finalized,2026-01-03,2.8,linkedin.com/jobs
+368,Tech Mahindra,Power BI Developer,Gurgaon,Hybrid,2026-08-16,LinkedIn,1-2 Years,Communication;Statistics;Pandas;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,13.8,linkedin.com/jobs
+369,Deloitte,Reporting Analyst,Hyderabad,Onsite,2025-05-17,Internshala,0-1 Years,ETL;Statistics;Power BI;SQL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,5.1,internshala.com
+370,Paytm,Junior Data Analyst,Bangalore,Hybrid,2026-07-10,Indeed,0-1 Years,Data Visualization;Pandas;Tableau;ETL;Power BI,Interview,Resume_V1,2026-07-25,No Follow Up Date,11.9,indeed.com
+371,Capgemini,Data Analyst,Noida,Hybrid,2025-02-27,Naukri,Fresher,Tableau;Python;Excel;Statistics,Applied,Resume_V3,No Date Finalized,No Follow Up Date,11.6,naukri.com
+372,Genpact,Business Intelligence Analyst,Gurgaon,Onsite,2026-07-30,Internshala,1-2 Years,Power BI;ETL;Tableau;Statistics,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,10.2,internshala.com
+373,Deloitte,Data Operations Analyst,Hyderabad,Onsite,2025-02-25,Naukri,Fresher,Statistics;ETL;Power BI;Pandas;Communication,Applied,Resume_V1,No Date Finalized,2025-03-14,13.6,naukri.com
+374,Amazon,Business Analyst,Bangalore,Remote,2025-06-27,Indeed,1-2 Years,Tableau;Python;ETL;Communication;Data Visualization,Interview,Resume_V3,2025-07-05,2025-07-13,2.9,indeed.com
+375,Tech Mahindra,Business Analyst,Kolkata,Remote,2025-02-22,Internshala,3-5 Years,Tableau;Data Visualization;Statistics;Excel;ETL,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,6.4,internshala.com
+376,Flipkart,Data Analyst,Pune,Onsite,2026-03-02,Indeed,1-2 Years,Statistics;Tableau;Power BI;Pandas,Shortlisted,Resume_V2,2026-03-31,2026-03-11,9.7,indeed.com
+377,Wipro,Business Intelligence Analyst,Delhi,Onsite,2025-09-04,Internshala,1-2 Years,Excel;Statistics;Pandas,Offer,Resume_V1,2025-09-28,No Follow Up Date,13.1,internshala.com
+378,Capgemini,Reporting Analyst,Kolkata,Remote,2026-06-14,Indeed,Fresher,ETL;Data Visualization;Communication;Excel;Python,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,12.9,indeed.com
+379,Accenture,Business Analyst,Bangalore,Hybrid,2026-07-05,Company Website,1-2 Years,Power BI;ETL;Pandas,Shortlisted,Resume_V1,No Date Finalized,2026-07-14,10.0,company-careers.example
+380,Amazon,Business Intelligence Analyst,Gurgaon,Hybrid,2025-03-31,Internshala,Fresher,Communication;Power BI;Tableau,Applied,Resume_V2,No Date Finalized,2025-04-11,7.4,internshala.com
+381,Deloitte,Junior Data Analyst,Delhi,Hybrid,2025-05-02,Internshala,2-3 Years,SQL;Statistics;Communication,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,6.0,internshala.com
+382,Swiggy,Business Analyst,Pune,Remote,2025-02-01,Internshala,Fresher,Python;Tableau;Statistics;Excel,Shortlisted,Resume_V3,No Date Finalized,2025-02-16,9.0,internshala.com
+383,Paytm,Business Analyst,Hyderabad,Remote,2026-09-03,Indeed,0-1 Years,Statistics;Power BI;Pandas,Applied,Resume_V3,No Date Finalized,2026-09-08,12.9,indeed.com
+384,Wipro,MIS Analyst,Remote,Hybrid,2025-09-16,LinkedIn,1-2 Years,Data Visualization;ETL;SQL;Python;Statistics,Applied,Resume_V2,No Date Finalized,2025-10-07,3.6,linkedin.com/jobs
+385,Zomato,Business Analyst,Remote,Onsite,2025-05-12,Naukri,1-2 Years,Data Visualization;Communication;Statistics;Tableau,Interview,Resume_V2,2025-05-24,2025-05-17,10.2,naukri.com
+386,KPMG,Power BI Developer,Chennai,Onsite,2026-03-15,Company Website,Fresher,Statistics;Python;Communication;Power BI,Applied,Resume_V1,No Date Finalized,2026-03-25,8.0,company-careers.example
+387,Paytm,Data Analyst,Remote,Onsite,2026-10-24,Internshala,2-3 Years,Tableau;SQL;ETL,Interview,Resume_V3,2026-11-24,2026-10-31,12.8,internshala.com
+388,Zomato,Power BI Developer,Hyderabad,Hybrid,2025-08-06,Indeed,3-5 Years,ETL;Data Visualization;Python;Communication;Power BI,Offer,Resume_V3,2025-08-28,No Follow Up Date,5.3,indeed.com
+389,Zomato,Business Analyst,Chennai,Hybrid,2025-04-03,Internshala,Fresher,Python;ETL;Communication;Power BI;SQL,Applied,Resume_V1,No Date Finalized,2025-04-13,4.8,internshala.com
+390,Infosys,Data Analyst,Noida,Remote,2026-05-15,LinkedIn,3-5 Years,Power BI;ETL;Statistics;Communication;Pandas,Applied,Resume_V3,No Date Finalized,2026-05-25,13.1,linkedin.com/jobs
+391,Accenture,Power BI Developer,Gurgaon,Remote,2025-10-08,Indeed,3-5 Years,ETL;Python;Pandas;Statistics;Power BI,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,6.9,indeed.com
+392,Accenture,Power BI Developer,Mumbai,Remote,2025-12-28,Indeed,0-1 Years,Data Visualization;Excel;Python;Power BI,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.7,indeed.com
+393,Cognizant,Business Intelligence Analyst,Bangalore,Remote,2026-01-06,Company Website,Fresher,SQL;Data Visualization;ETL;Power BI,Interview,Resume_V1,2026-02-06,2026-01-16,5.2,company-careers.example
+394,Genpact,Data Analyst,Delhi,Remote,2026-08-11,LinkedIn,0-1 Years,Python;Excel;Communication;Data Visualization;SQL,Interview,Resume_V2,2026-08-20,No Follow Up Date,8.6,linkedin.com/jobs
+395,Cognizant,Power BI Developer,Hyderabad,Onsite,2026-09-14,Company Website,1-2 Years,Power BI;Pandas;Python,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,11.7,company-careers.example
+396,Persistent Systems,Junior Data Analyst,Hyderabad,Hybrid,2026-09-03,LinkedIn,3-5 Years,Power BI;ETL;Pandas,Interview,Resume_V3,2026-09-15,2026-09-10,12.1,linkedin.com/jobs
+397,Swiggy,Data Analyst,Gurgaon,Onsite,2025-02-09,Internshala,2-3 Years,SQL;Communication;Data Visualization;Statistics;ETL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,12.9,internshala.com
+398,Tech Mahindra,Junior Data Analyst,Delhi,Onsite,2025-02-14,Company Website,3-5 Years,Communication;SQL;Pandas;ETL,Interview,Resume_V2,2025-03-04,2025-03-04,5.7,company-careers.example
+399,EY,Business Intelligence Analyst,Noida,Remote,2025-09-21,LinkedIn,0-1 Years,ETL;SQL;Excel;Power BI;Statistics,Applied,Resume_V2,No Date Finalized,No Follow Up Date,5.1,linkedin.com/jobs
+400,Swiggy,Data Operations Analyst,Hyderabad,Hybrid,2026-10-30,Company Website,3-5 Years,Statistics;Tableau;Pandas;Data Visualization;SQL,Interview,Resume_V3,2026-11-12,No Follow Up Date,7.4,company-careers.example
+401,Wipro,MIS Analyst,Kolkata,Hybrid,2026-05-11,Company Website,1-2 Years,Python;SQL;Power BI;Data Visualization;Statistics,Applied,Resume_V3,No Date Finalized,2026-05-25,13.4,company-careers.example
+402,IBM,MIS Analyst,Noida,Remote,2026-09-21,LinkedIn,3-5 Years,Python;Data Visualization;Pandas,Interview,Resume_V1,2026-10-18,2026-10-06,3.8,linkedin.com/jobs
+403,Amazon,Data Analyst,Mumbai,Onsite,2026-01-29,Internshala,3-5 Years,ETL;Tableau;Excel;Pandas;SQL,Offer,Resume_V2,2026-02-15,No Follow Up Date,10.0,internshala.com
+404,Cognizant,Junior Data Analyst,Delhi,Hybrid,2025-07-19,Internshala,1-2 Years,Power BI;Python;Excel;ETL;SQL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,10.1,internshala.com
+405,IBM,MIS Analyst,Remote,Remote,2026-02-09,LinkedIn,2-3 Years,ETL;Tableau;Statistics,Applied,Resume_V2,No Date Finalized,2026-02-12,6.7,linkedin.com/jobs
+406,IBM,Power BI Developer,Chennai,Hybrid,2026-08-12,LinkedIn,3-5 Years,SQL;ETL;Tableau;Python;Excel,Applied,Resume_V2,No Date Finalized,2026-08-31,11.8,linkedin.com/jobs
+407,Tech Mahindra,MIS Analyst,Noida,Hybrid,2025-09-07,Company Website,1-2 Years,Excel;Data Visualization;SQL;Python;Communication,Interview,Resume_V3,2025-10-12,No Follow Up Date,7.1,company-careers.example
+408,Cognizant,Data Operations Analyst,Noida,Hybrid,2026-07-03,Naukri,0-1 Years,SQL;Pandas;Statistics;Excel,Applied,Resume_V3,No Date Finalized,No Follow Up Date,9.0,naukri.com
+409,Tech Mahindra,MIS Analyst,Mumbai,Onsite,2025-10-03,Naukri,1-2 Years,Power BI;Communication;ETL;Pandas,Applied,Resume_V1,No Date Finalized,No Follow Up Date,5.8,naukri.com
+410,EY,Data Operations Analyst,Remote,Hybrid,2025-04-20,Internshala,2-3 Years,ETL;Excel;Data Visualization,Applied,Resume_V1,No Date Finalized,2025-05-08,7.0,internshala.com
+411,Infosys,Reporting Analyst,Gurgaon,Onsite,2026-06-08,Naukri,0-1 Years,ETL;Pandas;Data Visualization,Applied,Resume_V2,No Date Finalized,2026-06-29,13.3,naukri.com
+412,IBM,Business Analyst,Kolkata,Hybrid,2025-05-04,LinkedIn,0-1 Years,Power BI;Pandas;SQL;Python;ETL,Interview,Resume_V2,2025-05-23,2025-05-07,9.7,linkedin.com/jobs
+413,KPMG,Reporting Analyst,Gurgaon,Hybrid,2026-04-28,Indeed,2-3 Years,Python;Data Visualization;Pandas;SQL,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,7.5,indeed.com
+414,Capgemini,Business Analyst,Hyderabad,Hybrid,2026-08-09,Naukri,Fresher,Tableau;Power BI;Pandas,Applied,Resume_V1,No Date Finalized,No Follow Up Date,12.4,naukri.com
+415,Infosys,Business Intelligence Analyst,Pune,Onsite,2026-03-08,Internshala,0-1 Years,Statistics;Data Visualization;Tableau;Python;ETL,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,12.4,internshala.com
+416,Swiggy,Power BI Developer,Noida,Remote,2025-08-09,Company Website,2-3 Years,SQL;Data Visualization;Statistics;Python;Pandas,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,6.8,company-careers.example
+417,Deloitte,Reporting Analyst,Noida,Onsite,2025-12-26,Internshala,3-5 Years,Communication;ETL;Python,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,13.8,internshala.com
+418,EY,Business Intelligence Analyst,Remote,Onsite,2026-04-03,Company Website,2-3 Years,Tableau;Data Visualization;Python;Pandas;SQL,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,10.0,company-careers.example
+419,Paytm,Data Operations Analyst,Gurgaon,Remote,2025-03-23,Indeed,0-1 Years,Tableau;Pandas;Communication;Power BI;Python,Applied,Resume_V1,No Date Finalized,2025-04-05,11.2,indeed.com
+420,Flipkart,Data Analyst,Bangalore,Hybrid,2025-05-09,Naukri,3-5 Years,Pandas;SQL;ETL,Interview,Resume_V1,2025-06-04,2025-05-14,3.5,naukri.com
+421,HCLTech,Business Analyst,Bangalore,Remote,2025-04-17,Indeed,1-2 Years,Power BI;Tableau;Data Visualization,Applied,Resume_V2,No Date Finalized,2025-05-02,9.8,indeed.com
+422,Zomato,Business Intelligence Analyst,Kolkata,Onsite,2026-05-03,Internshala,3-5 Years,Python;ETL;Communication;Tableau,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,9.5,internshala.com
+423,HCLTech,Reporting Analyst,Delhi,Hybrid,2025-12-22,Company Website,3-5 Years,Python;Tableau;Excel;Data Visualization,Shortlisted,Resume_V1,2026-01-03,2026-01-05,8.7,company-careers.example
+424,Swiggy,Reporting Analyst,Mumbai,Hybrid,2026-05-19,Indeed,3-5 Years,Pandas;Tableau;Power BI,Offer,Resume_V2,2026-06-08,No Follow Up Date,11.7,indeed.com
+425,Paytm,Power BI Developer,Delhi,Onsite,2026-02-09,Company Website,3-5 Years,Power BI;Tableau;SQL;Communication,Applied,Resume_V2,No Date Finalized,No Follow Up Date,9.8,company-careers.example
+426,Flipkart,MIS Analyst,Noida,Remote,2026-02-27,Indeed,0-1 Years,Data Visualization;Communication;Tableau,Applied,Resume_V1,No Date Finalized,2026-03-06,10.6,indeed.com
+427,TCS,Data Operations Analyst,Mumbai,Hybrid,2026-07-02,Indeed,2-3 Years,Python;Data Visualization;Excel;SQL,Applied,Resume_V2,No Date Finalized,No Follow Up Date,3.8,indeed.com
+428,Genpact,Junior Data Analyst,Kolkata,Hybrid,2026-05-26,Company Website,0-1 Years,Excel;Statistics;SQL;Pandas;Data Visualization,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,3.4,company-careers.example
+429,Infosys,MIS Analyst,Chennai,Onsite,2025-09-14,LinkedIn,Fresher,Power BI;Pandas;Data Visualization,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,5.6,linkedin.com/jobs
+430,Capgemini,Reporting Analyst,Bangalore,Onsite,2025-08-02,Naukri,0-1 Years,Excel;ETL;SQL;Python;Power BI,Shortlisted,Resume_V1,No Date Finalized,2025-08-15,10.0,naukri.com
+431,Zomato,Data Operations Analyst,Remote,Remote,2025-08-30,Internshala,1-2 Years,Pandas;Power BI;Excel,Interview,Resume_V1,2025-09-14,2025-09-10,13.7,internshala.com
+432,Tech Mahindra,Reporting Analyst,Kolkata,Onsite,2025-09-12,LinkedIn,1-2 Years,Statistics;Python;SQL,Applied,Resume_V2,No Date Finalized,2025-09-25,4.2,linkedin.com/jobs
+433,Flipkart,MIS Analyst,Remote,Remote,2025-07-17,Indeed,3-5 Years,Data Visualization;Communication;Tableau,Applied,Resume_V2,No Date Finalized,2025-07-24,8.9,indeed.com
+434,Swiggy,Reporting Analyst,Chennai,Remote,2025-11-28,Internshala,3-5 Years,Python;SQL;Communication;Power BI;Data Visualization,Interview,Resume_V2,2025-12-11,No Follow Up Date,12.0,internshala.com
+435,Swiggy,Business Intelligence Analyst,Mumbai,Onsite,2025-07-09,Internshala,2-3 Years,Communication;Power BI;Statistics;Data Visualization,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,3.5,internshala.com
+436,HCLTech,Business Analyst,Bangalore,Remote,2025-06-07,LinkedIn,Fresher,ETL;SQL;Excel,Interview,Resume_V2,2025-06-22,2025-06-20,12.2,linkedin.com/jobs
+437,Accenture,Data Analyst,Mumbai,Onsite,2025-07-16,Company Website,2-3 Years,Data Visualization;ETL;Tableau;Excel;Python,Applied,Resume_V1,No Date Finalized,No Follow Up Date,5.3,company-careers.example
+438,Persistent Systems,Power BI Developer,Kolkata,Remote,2026-04-25,LinkedIn,Fresher,ETL;Pandas;Statistics;Communication,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,10.7,linkedin.com/jobs
+439,Paytm,MIS Analyst,Remote,Onsite,2025-03-21,Internshala,0-1 Years,SQL;Power BI;Pandas,Offer,Resume_V3,2025-04-25,No Follow Up Date,4.9,internshala.com
+440,Paytm,Reporting Analyst,Hyderabad,Onsite,2026-07-26,Indeed,3-5 Years,Data Visualization;Pandas;SQL;Communication;ETL,Applied,Resume_V2,No Date Finalized,2026-08-16,9.0,indeed.com
+441,Swiggy,MIS Analyst,Gurgaon,Onsite,2025-12-27,Indeed,1-2 Years,Pandas;Communication;Statistics;Tableau,Offer,Resume_V2,2026-01-18,No Follow Up Date,5.5,indeed.com
+442,Tech Mahindra,MIS Analyst,Noida,Remote,2026-04-09,Internshala,1-2 Years,ETL;Python;Tableau,Shortlisted,Resume_V3,2026-04-18,No Follow Up Date,2.9,internshala.com
+443,Tech Mahindra,MIS Analyst,Delhi,Hybrid,2026-06-08,Company Website,Fresher,Python;Communication;Tableau;ETL,Shortlisted,Resume_V3,No Date Finalized,2026-06-12,12.8,company-careers.example
+444,Infosys,Business Intelligence Analyst,Pune,Remote,2026-02-14,Indeed,1-2 Years,Python;Data Visualization;SQL;Tableau,Interview,Resume_V2,2026-02-25,No Follow Up Date,10.0,indeed.com
+445,EY,Business Analyst,Noida,Onsite,2026-03-21,Naukri,0-1 Years,Communication;Excel;Pandas;ETL;Python,Applied,Resume_V1,No Date Finalized,No Follow Up Date,8.7,naukri.com
+446,HCLTech,Business Analyst,Noida,Remote,2025-02-21,Internshala,2-3 Years,ETL;SQL;Power BI;Data Visualization;Python,Interview,Resume_V3,2025-03-10,No Follow Up Date,11.6,internshala.com
+447,Capgemini,MIS Analyst,Mumbai,Remote,2025-02-20,Naukri,1-2 Years,ETL;Power BI;Data Visualization;Communication,Shortlisted,Resume_V2,2025-03-24,2025-02-27,10.1,naukri.com
+448,TCS,Power BI Developer,Hyderabad,Hybrid,2025-11-28,Company Website,3-5 Years,Statistics;Power BI;Communication;Python,Interview,Resume_V2,2025-12-21,2025-12-14,9.5,company-careers.example
+449,Persistent Systems,Business Analyst,Delhi,Remote,2026-10-01,Naukri,1-2 Years,Statistics;Python;SQL;Excel;Communication,Applied,Resume_V3,No Date Finalized,2026-10-11,3.4,naukri.com
+450,Swiggy,Data Operations Analyst,Remote,Onsite,2025-04-24,Naukri,0-1 Years,ETL;Power BI;Communication;Tableau;Pandas,Applied,Resume_V3,No Date Finalized,2025-05-07,11.2,naukri.com
+451,Persistent Systems,Power BI Developer,Bangalore,Hybrid,2025-01-19,Internshala,Fresher,Tableau;Python;Excel,Applied,Resume_V1,No Date Finalized,No Follow Up Date,6.0,internshala.com
+452,Genpact,Junior Data Analyst,Noida,Hybrid,2026-02-02,Indeed,3-5 Years,Excel;Tableau;Pandas,Interview,Resume_V3,2026-02-28,No Follow Up Date,5.4,indeed.com
+453,Genpact,Business Analyst,Bangalore,Hybrid,2025-04-01,Internshala,1-2 Years,Excel;Communication;Power BI;Tableau;Python,Applied,Resume_V2,No Date Finalized,2025-04-18,6.5,internshala.com
+454,Swiggy,Power BI Developer,Mumbai,Remote,2026-10-03,Internshala,1-2 Years,Excel;Tableau;Pandas;Data Visualization,Applied,Resume_V2,No Date Finalized,No Follow Up Date,13.9,internshala.com
+455,Persistent Systems,Reporting Analyst,Chennai,Onsite,2025-05-21,Company Website,0-1 Years,Communication;Python;Pandas,Applied,Resume_V1,No Date Finalized,2025-05-31,13.7,company-careers.example
+456,Zomato,Business Analyst,Noida,Remote,2026-10-31,Naukri,3-5 Years,ETL;Python;Pandas;Data Visualization,Applied,Resume_V3,No Date Finalized,2026-11-09,4.4,naukri.com
+457,IBM,Business Analyst,Mumbai,Remote,2025-05-02,Naukri,0-1 Years,Excel;Statistics;Pandas;Power BI;Python,Applied,Resume_V1,No Date Finalized,No Follow Up Date,7.8,naukri.com
+458,Accenture,Data Operations Analyst,Hyderabad,Onsite,2025-01-27,Internshala,3-5 Years,Tableau;Power BI;ETL;SQL;Statistics,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,3.1,internshala.com
+459,TCS,Power BI Developer,Gurgaon,Remote,2026-10-28,Company Website,0-1 Years,Python;Communication;Power BI;SQL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,3.2,company-careers.example
+460,Infosys,Business Intelligence Analyst,Noida,Hybrid,2025-03-09,Company Website,3-5 Years,Data Visualization;Statistics;Communication;SQL;Power BI,Applied,Resume_V3,No Date Finalized,No Follow Up Date,7.3,company-careers.example
+461,Tech Mahindra,Business Intelligence Analyst,Bangalore,Onsite,2026-08-09,LinkedIn,2-3 Years,SQL;Data Visualization;ETL;Pandas;Excel,Interview,Resume_V3,2026-08-30,No Follow Up Date,12.6,linkedin.com/jobs
+462,Amazon,Business Analyst,Gurgaon,Hybrid,2026-10-08,Naukri,3-5 Years,Data Visualization;Pandas;Tableau;ETL,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,12.1,naukri.com
+463,Swiggy,Business Analyst,Gurgaon,Hybrid,2026-06-14,Company Website,1-2 Years,ETL;SQL;Python,Offer,Resume_V2,2026-07-03,No Follow Up Date,11.5,company-careers.example
+464,Cognizant,Junior Data Analyst,Pune,Remote,2025-01-26,Naukri,2-3 Years,SQL;Tableau;Statistics;Data Visualization,Applied,Resume_V3,No Date Finalized,No Follow Up Date,10.1,naukri.com
+465,Zomato,Business Analyst,Hyderabad,Remote,2026-01-07,Internshala,0-1 Years,Python;Pandas;ETL;Excel;SQL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,13.0,internshala.com
+466,IBM,Data Analyst,Chennai,Hybrid,2025-02-22,Indeed,2-3 Years,Python;SQL;Communication;ETL;Excel,Applied,Resume_V3,No Date Finalized,2025-03-11,9.8,indeed.com
+467,Tech Mahindra,Power BI Developer,Remote,Onsite,2025-01-06,Company Website,3-5 Years,Pandas;Data Visualization;SQL;Tableau,Interview,Resume_V1,2025-01-26,2025-01-27,9.5,company-careers.example
+468,Infosys,Junior Data Analyst,Gurgaon,Remote,2025-02-20,LinkedIn,0-1 Years,Excel;Tableau;Statistics,Applied,Resume_V3,No Date Finalized,2025-03-06,13.1,linkedin.com/jobs
+469,EY,Reporting Analyst,Gurgaon,Remote,2025-10-19,Internshala,2-3 Years,Python;Data Visualization;Statistics;Excel;Pandas,Interview,Resume_V3,2025-11-15,No Follow Up Date,11.4,internshala.com
+470,Wipro,Junior Data Analyst,Chennai,Onsite,2025-03-08,Indeed,3-5 Years,Pandas;ETL;Power BI;Statistics;SQL,Applied,Resume_V3,No Date Finalized,2025-03-19,9.7,indeed.com
+471,Persistent Systems,MIS Analyst,Delhi,Remote,2025-10-22,Internshala,Fresher,Python;Data Visualization;ETL;Power BI,Shortlisted,Resume_V1,No Date Finalized,2025-11-12,11.8,internshala.com
+472,Capgemini,Data Analyst,Mumbai,Onsite,2025-01-25,Naukri,1-2 Years,Pandas;Communication;Excel;Python;ETL,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,9.1,naukri.com
+473,Persistent Systems,Data Analyst,Hyderabad,Remote,2025-03-11,LinkedIn,1-2 Years,Statistics;Communication;Pandas,Applied,Resume_V2,No Date Finalized,2025-03-24,10.9,linkedin.com/jobs
+474,Swiggy,Reporting Analyst,Chennai,Hybrid,2026-05-06,LinkedIn,Fresher,Python;Data Visualization;Communication;Statistics;Power BI,Offer,Resume_V3,2026-06-05,No Follow Up Date,12.8,linkedin.com/jobs
+475,HCLTech,Power BI Developer,Bangalore,Hybrid,2025-11-03,LinkedIn,2-3 Years,Communication;Statistics;ETL,Interview,Resume_V3,2025-11-29,2025-11-23,3.5,linkedin.com/jobs
+476,EY,Data Analyst,Delhi,Hybrid,2026-07-02,Internshala,Fresher,Pandas;Python;SQL;Communication;ETL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,10.7,internshala.com
+477,Infosys,MIS Analyst,Pune,Hybrid,2025-09-01,Indeed,3-5 Years,ETL;Tableau;Python,Applied,Resume_V1,No Date Finalized,No Follow Up Date,4.1,indeed.com
+478,Wipro,Business Analyst,Mumbai,Onsite,2026-05-10,Naukri,Fresher,Data Visualization;ETL;Tableau;Pandas,Offer,Resume_V2,2026-05-19,No Follow Up Date,6.5,naukri.com
+479,Deloitte,Data Analyst,Remote,Hybrid,2026-02-01,LinkedIn,0-1 Years,Communication;SQL;Statistics;Power BI;Excel,Interview,Resume_V2,2026-02-22,2026-02-13,4.0,linkedin.com/jobs
+480,Persistent Systems,Junior Data Analyst,Mumbai,Onsite,2025-07-25,Company Website,1-2 Years,SQL;Tableau;Python;Communication;Data Visualization,Applied,Resume_V3,No Date Finalized,2025-08-07,4.1,company-careers.example
+481,Swiggy,Data Operations Analyst,Bangalore,Remote,2025-11-23,Indeed,Fresher,Power BI;Python;SQL;ETL;Tableau,Applied,Resume_V2,No Date Finalized,No Follow Up Date,12.8,indeed.com
+482,Capgemini,Junior Data Analyst,Chennai,Onsite,2025-02-21,Company Website,0-1 Years,Communication;Data Visualization;Statistics,Applied,Resume_V1,No Date Finalized,2025-03-09,6.3,company-careers.example
+483,Genpact,Business Analyst,Noida,Hybrid,2026-04-25,Company Website,2-3 Years,Power BI;Python;Tableau,Applied,Resume_V2,No Date Finalized,2026-05-12,13.0,company-careers.example
+484,Genpact,Junior Data Analyst,Noida,Onsite,2025-01-31,Company Website,Fresher,Tableau;Statistics;Python,Applied,Resume_V2,No Date Finalized,2025-02-18,8.5,company-careers.example
+485,Zomato,Business Intelligence Analyst,Gurgaon,Onsite,2026-06-30,Internshala,1-2 Years,Data Visualization;Pandas;SQL,Shortlisted,Resume_V3,No Date Finalized,2026-07-10,6.6,internshala.com
+486,Amazon,Business Analyst,Delhi,Hybrid,2025-08-30,Internshala,Fresher,SQL;Data Visualization;Statistics;Tableau,Applied,Resume_V3,No Date Finalized,No Follow Up Date,3.9,internshala.com
+487,Zomato,Data Analyst,Hyderabad,Onsite,2025-04-22,Company Website,0-1 Years,Data Visualization;Excel;SQL;Communication,Interview,Resume_V2,2025-05-16,No Follow Up Date,12.0,company-careers.example
+488,Deloitte,Business Intelligence Analyst,Noida,Remote,2026-06-29,Company Website,3-5 Years,Power BI;Statistics;Tableau,Applied,Resume_V1,No Date Finalized,No Follow Up Date,9.2,company-careers.example
+489,Infosys,Data Analyst,Kolkata,Hybrid,2026-09-19,Company Website,Fresher,Tableau;Excel;Statistics,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,12.9,company-careers.example
+490,Cognizant,Data Operations Analyst,Hyderabad,Remote,2025-02-01,Company Website,3-5 Years,Statistics;Pandas;ETL;Power BI;Data Visualization,Applied,Resume_V2,No Date Finalized,No Follow Up Date,8.9,company-careers.example
+491,HCLTech,Data Operations Analyst,Gurgaon,Remote,2026-01-04,Naukri,Fresher,Python;Communication;Excel;Data Visualization,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,10.1,naukri.com
+492,Amazon,Business Intelligence Analyst,Noida,Remote,2026-10-20,Company Website,0-1 Years,Communication;Pandas;Python;Power BI;Tableau,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,7.6,company-careers.example
+493,Zomato,Data Operations Analyst,Noida,Remote,2026-09-12,Internshala,3-5 Years,Pandas;ETL;Statistics;Excel,Applied,Resume_V2,No Date Finalized,2026-09-22,13.8,internshala.com
+494,Accenture,Power BI Developer,Remote,Remote,2025-03-23,Indeed,1-2 Years,ETL;SQL;Communication;Data Visualization,Applied,Resume_V3,No Date Finalized,No Follow Up Date,8.1,indeed.com
+495,Persistent Systems,Power BI Developer,Remote,Hybrid,2025-01-12,Company Website,Fresher,Tableau;Communication;Python;Excel,Shortlisted,Resume_V3,No Date Finalized,2025-01-25,10.6,company-careers.example
+496,Accenture,Power BI Developer,Delhi,Remote,2026-04-30,Internshala,3-5 Years,Tableau;Data Visualization;SQL,Interview,Resume_V2,2026-05-23,2026-05-12,4.2,internshala.com
+497,Cognizant,Power BI Developer,Mumbai,Hybrid,2025-10-09,LinkedIn,0-1 Years,SQL;Python;ETL;Statistics;Power BI,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,6.9,linkedin.com/jobs
+498,Amazon,Business Analyst,Mumbai,Onsite,2025-02-03,Internshala,1-2 Years,Data Visualization;Pandas;ETL,Applied,Resume_V1,No Date Finalized,2025-02-10,5.5,internshala.com
+499,Swiggy,MIS Analyst,Gurgaon,Onsite,2026-10-20,LinkedIn,2-3 Years,Data Visualization;Pandas;Communication,Applied,Resume_V2,No Date Finalized,No Follow Up Date,6.2,linkedin.com/jobs
+500,Infosys,Junior Data Analyst,Kolkata,Onsite,2025-09-26,LinkedIn,1-2 Years,Data Visualization;Pandas;Statistics;Tableau,Applied,Resume_V2,No Date Finalized,No Follow Up Date,10.4,linkedin.com/jobs
+501,Genpact,Data Operations Analyst,Mumbai,Onsite,2026-09-18,Indeed,3-5 Years,Tableau;Communication;SQL;Python,Offer,Resume_V1,2026-10-20,No Follow Up Date,10.1,indeed.com
+502,LTIMindtree,Junior Data Analyst,Kolkata,Remote,2026-06-17,Naukri,2-3 Years,ETL;Excel;Communication;Pandas,Applied,Resume_V2,No Date Finalized,No Follow Up Date,3.6,naukri.com
+503,Wipro,Junior Data Analyst,Remote,Remote,2025-08-13,Internshala,2-3 Years,Excel;Power BI;SQL,Interview,Resume_V3,2025-08-26,2025-08-16,10.7,internshala.com
+504,IBM,Business Intelligence Analyst,Noida,Hybrid,2026-10-26,Naukri,0-1 Years,Tableau;Data Visualization;SQL;Statistics,Interview,Resume_V1,2026-11-30,2026-11-01,7.9,naukri.com
+505,Amazon,Junior Data Analyst,Chennai,Remote,2025-10-11,Company Website,3-5 Years,Statistics;Excel;Tableau;Pandas,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,5.8,company-careers.example
+506,Zomato,Power BI Developer,Chennai,Remote,2025-07-02,Naukri,2-3 Years,SQL;Data Visualization;Tableau;Excel;Pandas,Interview,Resume_V1,2025-07-10,2025-07-18,3.6,naukri.com
+507,Flipkart,Data Operations Analyst,Gurgaon,Hybrid,2026-10-31,Indeed,Fresher,Statistics;Pandas;Excel,Interview,Resume_V3,2026-12-04,2026-11-15,8.6,indeed.com
+508,Deloitte,Business Intelligence Analyst,Bangalore,Onsite,2025-08-20,Company Website,Fresher,Communication;ETL;Statistics,Applied,Resume_V2,No Date Finalized,No Follow Up Date,6.5,company-careers.example
+509,Infosys,Business Intelligence Analyst,Mumbai,Hybrid,2026-07-02,Indeed,2-3 Years,Data Visualization;Tableau;Power BI,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.8,indeed.com
+510,Zomato,MIS Analyst,Chennai,Hybrid,2026-10-08,Naukri,Fresher,Excel;Power BI;Communication,Interview,Resume_V3,2026-10-28,2026-10-25,10.9,naukri.com
+511,Infosys,Business Intelligence Analyst,Pune,Remote,2026-10-21,LinkedIn,3-5 Years,Statistics;Excel;Communication,Applied,Resume_V2,No Date Finalized,2026-11-07,11.6,linkedin.com/jobs
+512,Persistent Systems,Data Analyst,Mumbai,Onsite,2026-07-04,LinkedIn,0-1 Years,Python;Data Visualization;Excel,Applied,Resume_V1,No Date Finalized,No Follow Up Date,8.1,linkedin.com/jobs
+513,Persistent Systems,MIS Analyst,Pune,Remote,2025-06-26,Company Website,2-3 Years,Python;SQL;ETL;Excel;Power BI,Interview,Resume_V2,2025-07-29,2025-07-02,9.5,company-careers.example
+514,EY,Junior Data Analyst,Pune,Hybrid,2026-02-16,Internshala,0-1 Years,Python;Statistics;Power BI;Pandas;Excel,Applied,Resume_V2,No Date Finalized,No Follow Up Date,9.4,internshala.com
+515,TCS,Data Operations Analyst,Pune,Remote,2025-06-22,Internshala,Fresher,Python;SQL;Pandas,Interview,Resume_V1,2025-07-14,2025-07-02,11.5,internshala.com
+516,Amazon,Business Intelligence Analyst,Mumbai,Remote,2025-04-02,Company Website,3-5 Years,Data Visualization;Python;Power BI;SQL;Statistics,Interview,Resume_V3,2025-04-25,No Follow Up Date,5.8,company-careers.example
+517,Paytm,Junior Data Analyst,Remote,Hybrid,2025-02-08,Indeed,3-5 Years,Pandas;Excel;Power BI;SQL,Interview,Resume_V3,2025-03-07,2025-02-13,4.1,indeed.com
+518,Infosys,Data Analyst,Noida,Hybrid,2025-08-13,Naukri,0-1 Years,Python;Data Visualization;ETL,Shortlisted,Resume_V2,No Date Finalized,2025-08-17,4.8,naukri.com
+519,TCS,Data Operations Analyst,Kolkata,Remote,2025-09-15,Company Website,Fresher,SQL;Excel;Python,Applied,Resume_V1,No Date Finalized,No Follow Up Date,4.6,company-careers.example
+520,LTIMindtree,MIS Analyst,Gurgaon,Remote,2026-04-01,Naukri,Fresher,Statistics;Power BI;SQL,Interview,Resume_V2,2026-04-16,2026-04-14,5.5,naukri.com
+521,KPMG,Power BI Developer,Mumbai,Hybrid,2026-08-23,Naukri,0-1 Years,Statistics;Python;Data Visualization;Communication,Shortlisted,Resume_V1,No Date Finalized,2026-09-09,5.0,naukri.com
+522,Persistent Systems,Business Analyst,Remote,Onsite,2026-08-06,Company Website,0-1 Years,Python;Statistics;Power BI;Communication,Applied,Resume_V1,No Date Finalized,2026-08-23,9.6,company-careers.example
+523,LTIMindtree,MIS Analyst,Mumbai,Hybrid,2026-02-26,Company Website,2-3 Years,Communication;Data Visualization;ETL,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,5.9,company-careers.example
+524,Infosys,Data Operations Analyst,Kolkata,Remote,2025-08-16,Internshala,2-3 Years,Communication;Excel;Pandas,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,13.8,internshala.com
+525,Capgemini,Business Analyst,Noida,Hybrid,2026-02-08,Company Website,0-1 Years,Power BI;SQL;Excel;Statistics,Shortlisted,Resume_V3,No Date Finalized,No Follow Up Date,11.0,company-careers.example
+526,Genpact,Business Analyst,Noida,Onsite,2025-04-03,Naukri,2-3 Years,Data Visualization;Excel;Communication;Power BI;SQL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,12.6,naukri.com
+527,Persistent Systems,MIS Analyst,Pune,Onsite,2026-10-11,Company Website,1-2 Years,Statistics;ETL;Excel;Python;Power BI,Applied,Resume_V3,No Date Finalized,No Follow Up Date,11.2,company-careers.example
+528,Swiggy,Junior Data Analyst,Kolkata,Onsite,2025-02-26,LinkedIn,0-1 Years,Statistics;Data Visualization;Excel;Python,Shortlisted,Resume_V1,No Date Finalized,2025-03-02,6.9,linkedin.com/jobs
+529,LTIMindtree,Power BI Developer,Bangalore,Remote,2025-12-09,Internshala,1-2 Years,Power BI;Communication;Statistics;Python;Pandas,Applied,Resume_V2,No Date Finalized,2025-12-27,8.4,internshala.com
+530,Amazon,Junior Data Analyst,Pune,Hybrid,2026-04-09,Internshala,0-1 Years,Data Visualization;Statistics;SQL;Communication,Shortlisted,Resume_V2,No Date Finalized,2026-04-29,12.8,internshala.com
+531,Swiggy,Business Analyst,Chennai,Hybrid,2025-03-20,Company Website,2-3 Years,Power BI;ETL;Excel,Applied,Resume_V2,No Date Finalized,2025-03-27,6.1,company-careers.example
+532,Flipkart,Data Operations Analyst,Chennai,Hybrid,2026-10-23,Naukri,3-5 Years,Statistics;Pandas;Communication;Data Visualization;ETL,Applied,Resume_V1,No Date Finalized,2026-10-26,11.6,naukri.com
+533,Cognizant,Business Analyst,Kolkata,Hybrid,2025-11-10,Indeed,0-1 Years,Excel;Python;Statistics;ETL,Applied,Resume_V1,No Date Finalized,2025-11-28,7.9,indeed.com
+534,Swiggy,Data Analyst,Noida,Hybrid,2025-06-07,Internshala,0-1 Years,Data Visualization;Tableau;Statistics,Applied,Resume_V2,No Date Finalized,2025-06-20,4.9,internshala.com
+535,Swiggy,Reporting Analyst,Delhi,Hybrid,2026-04-05,Company Website,1-2 Years,Python;Data Visualization;Statistics;SQL,Shortlisted,Resume_V3,2026-05-01,2026-04-08,2.8,company-careers.example
+536,Wipro,Power BI Developer,Bangalore,Hybrid,2025-05-31,Company Website,3-5 Years,SQL;Data Visualization;Excel;Communication,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,10.4,company-careers.example
+537,Amazon,Junior Data Analyst,Kolkata,Hybrid,2026-04-02,Internshala,0-1 Years,Power BI;Tableau;Communication;Excel;Pandas,Applied,Resume_V2,No Date Finalized,2026-04-11,8.8,internshala.com
+538,Deloitte,Reporting Analyst,Noida,Hybrid,2025-11-22,Indeed,2-3 Years,Python;Pandas;Statistics;Power BI,Interview,Resume_V3,2025-12-13,No Follow Up Date,7.0,indeed.com
+539,HCLTech,Junior Data Analyst,Hyderabad,Remote,2025-03-31,Company Website,1-2 Years,Tableau;Python;Pandas;Statistics,Applied,Resume_V2,No Date Finalized,No Follow Up Date,12.8,company-careers.example
+540,LTIMindtree,Business Analyst,Kolkata,Hybrid,2026-06-22,LinkedIn,3-5 Years,Pandas;SQL;Excel;Power BI;Statistics,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,13.0,linkedin.com/jobs
+541,Amazon,MIS Analyst,Bangalore,Remote,2025-07-24,Company Website,0-1 Years,Tableau;Communication;Data Visualization,Applied,Resume_V2,No Date Finalized,2025-08-13,9.1,company-careers.example
+542,Tech Mahindra,Data Analyst,Pune,Hybrid,2025-11-04,Company Website,2-3 Years,Tableau;Pandas;Python,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,8.3,company-careers.example
+543,IBM,Business Analyst,Remote,Remote,2026-09-06,Indeed,0-1 Years,Data Visualization;SQL;Statistics;Tableau;Communication,Interview,Resume_V2,2026-09-29,2026-09-22,9.2,indeed.com
+544,KPMG,Data Analyst,Delhi,Hybrid,2026-04-18,Naukri,3-5 Years,Python;Excel;Tableau;Communication,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,7.5,naukri.com
+545,Deloitte,Power BI Developer,Noida,Remote,2025-03-20,Internshala,3-5 Years,ETL;Statistics;Communication,Shortlisted,Resume_V3,No Date Finalized,2025-03-26,12.1,internshala.com
+546,LTIMindtree,Reporting Analyst,Hyderabad,Remote,2025-12-27,LinkedIn,0-1 Years,ETL;Tableau;Statistics,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,11.5,linkedin.com/jobs
+547,Wipro,Business Analyst,Bangalore,Hybrid,2026-05-31,Internshala,1-2 Years,ETL;Communication;SQL;Power BI;Pandas,Applied,Resume_V2,No Date Finalized,2026-06-20,13.1,internshala.com
+548,HCLTech,MIS Analyst,Delhi,Remote,2026-01-07,Indeed,0-1 Years,Tableau;Excel;SQL,Applied,Resume_V1,No Date Finalized,2026-01-26,5.3,indeed.com
+549,Paytm,Data Analyst,Chennai,Remote,2025-03-22,Company Website,1-2 Years,Excel;Power BI;SQL;Communication,Shortlisted,Resume_V1,No Date Finalized,2025-03-25,11.7,company-careers.example
+550,HCLTech,Power BI Developer,Remote,Hybrid,2025-03-09,LinkedIn,1-2 Years,Power BI;Communication;Python;Statistics;Data Visualization,Applied,Resume_V1,No Date Finalized,2025-03-15,3.1,linkedin.com/jobs
+551,TCS,MIS Analyst,Mumbai,Hybrid,2026-05-28,Internshala,0-1 Years,ETL;SQL;Communication,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,12.0,internshala.com
+552,Cognizant,Data Operations Analyst,Pune,Remote,2025-01-05,LinkedIn,1-2 Years,ETL;Data Visualization;Statistics,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,10.6,linkedin.com/jobs
+553,KPMG,Power BI Developer,Kolkata,Onsite,2026-03-11,Indeed,Fresher,Data Visualization;SQL;Python,Applied,Resume_V1,No Date Finalized,2026-03-17,8.4,indeed.com
+554,Accenture,Data Operations Analyst,Noida,Remote,2025-12-02,Indeed,Fresher,Data Visualization;Power BI;Pandas;Python;ETL,Shortlisted,Resume_V3,2026-01-07,No Follow Up Date,4.9,indeed.com
+555,Cognizant,Junior Data Analyst,Noida,Remote,2026-05-19,LinkedIn,1-2 Years,Pandas;Communication;SQL,Interview,Resume_V1,2026-06-05,2026-05-24,11.1,linkedin.com/jobs
+556,Zomato,Power BI Developer,Gurgaon,Hybrid,2026-09-02,Company Website,2-3 Years,Power BI;Pandas;Data Visualization,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,5.9,company-careers.example
+557,Flipkart,MIS Analyst,Hyderabad,Remote,2026-09-10,Company Website,Fresher,Tableau;Python;Data Visualization;Excel;Pandas,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,5.6,company-careers.example
+558,Deloitte,Junior Data Analyst,Pune,Onsite,2025-02-24,Company Website,3-5 Years,Excel;Python;Pandas;Tableau;Statistics,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,6.5,company-careers.example
+559,Infosys,Business Intelligence Analyst,Pune,Hybrid,2026-04-23,Company Website,2-3 Years,Tableau;ETL;Statistics;Pandas;Communication,Applied,Resume_V2,No Date Finalized,No Follow Up Date,8.9,company-careers.example
+560,Flipkart,Junior Data Analyst,Remote,Onsite,2026-01-21,Indeed,2-3 Years,Python;Data Visualization;Pandas;SQL;Communication,Shortlisted,Resume_V3,2026-02-08,No Follow Up Date,10.8,indeed.com
+561,Persistent Systems,Reporting Analyst,Delhi,Hybrid,2026-07-22,Naukri,Fresher,Excel;Pandas;Tableau;Power BI;Data Visualization,Interview,Resume_V1,2026-08-14,2026-08-11,13.7,naukri.com
+562,KPMG,Business Intelligence Analyst,Noida,Remote,2026-08-28,Indeed,0-1 Years,Communication;Excel;Statistics;Power BI;ETL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,7.6,indeed.com
+563,Infosys,Data Operations Analyst,Gurgaon,Onsite,2025-08-29,Indeed,3-5 Years,Statistics;Python;Excel,Interview,Resume_V2,2025-09-21,2025-09-03,8.8,indeed.com
+564,Flipkart,Junior Data Analyst,Mumbai,Hybrid,2025-10-01,Indeed,2-3 Years,Communication;Pandas;Statistics;Tableau,Applied,Resume_V3,No Date Finalized,2025-10-04,3.9,indeed.com
+565,Deloitte,Business Intelligence Analyst,Mumbai,Onsite,2025-12-14,Naukri,Fresher,SQL;ETL;Power BI;Python,Applied,Resume_V3,No Date Finalized,2025-12-30,5.8,naukri.com
+566,Deloitte,Power BI Developer,Gurgaon,Onsite,2026-08-16,Internshala,3-5 Years,Data Visualization;Pandas;Power BI;Python;Excel,Applied,Resume_V2,No Date Finalized,2026-08-21,10.1,internshala.com
+567,Cognizant,Data Operations Analyst,Mumbai,Onsite,2025-07-24,Company Website,2-3 Years,ETL;Python;Excel;Statistics;Pandas,Applied,Resume_V2,No Date Finalized,2025-08-12,8.6,company-careers.example
+568,HCLTech,Power BI Developer,Gurgaon,Hybrid,2026-10-16,Company Website,1-2 Years,Excel;ETL;Power BI;Python;Data Visualization,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,4.5,company-careers.example
+569,Capgemini,Data Analyst,Mumbai,Hybrid,2026-10-12,Naukri,2-3 Years,Communication;Power BI;Pandas;SQL,Applied,Resume_V2,No Date Finalized,2026-10-24,4.1,naukri.com
+570,IBM,Business Analyst,Bangalore,Onsite,2026-07-28,Company Website,2-3 Years,Excel;Power BI;Python;Data Visualization;SQL,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,3.1,company-careers.example
+571,Accenture,Business Intelligence Analyst,Hyderabad,Remote,2025-02-26,LinkedIn,Fresher,Communication;Tableau;SQL;Power BI,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,12.8,linkedin.com/jobs
+572,EY,Reporting Analyst,Remote,Onsite,2026-05-28,Internshala,2-3 Years,Tableau;Data Visualization;SQL;ETL;Communication,Offer,Resume_V3,2026-06-18,No Follow Up Date,4.2,internshala.com
+573,IBM,Data Analyst,Chennai,Onsite,2025-08-30,Naukri,1-2 Years,Python;Power BI;Tableau,Offer,Resume_V3,2025-09-10,No Follow Up Date,7.7,naukri.com
+574,TCS,Data Analyst,Bangalore,Onsite,2025-04-26,Indeed,0-1 Years,Statistics;Data Visualization;Communication,Applied,Resume_V2,No Date Finalized,2025-05-06,12.0,indeed.com
+575,Genpact,Power BI Developer,Delhi,Remote,2026-07-20,Indeed,0-1 Years,SQL;ETL;Power BI;Pandas;Data Visualization,Applied,Resume_V2,No Date Finalized,No Follow Up Date,7.2,indeed.com
+576,Flipkart,Data Operations Analyst,Gurgaon,Hybrid,2025-08-04,Naukri,2-3 Years,Statistics;Pandas;Excel;Python,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,12.5,naukri.com
+577,Cognizant,Data Operations Analyst,Hyderabad,Remote,2025-06-14,Internshala,2-3 Years,ETL;Statistics;Data Visualization;Communication;Excel,Interview,Resume_V1,2025-07-05,2025-06-30,11.3,internshala.com
+578,LTIMindtree,Reporting Analyst,Chennai,Hybrid,2026-10-06,LinkedIn,0-1 Years,Power BI;ETL;Python,Applied,Resume_V2,No Date Finalized,No Follow Up Date,12.3,linkedin.com/jobs
+579,Genpact,MIS Analyst,Bangalore,Remote,2025-06-27,Naukri,3-5 Years,Pandas;Statistics;Python,Interview,Resume_V3,2025-07-28,2025-07-09,7.2,naukri.com
+580,IBM,Business Analyst,Pune,Hybrid,2026-09-19,Naukri,0-1 Years,Python;Excel;Pandas;Tableau,Interview,Resume_V3,2026-10-23,2026-10-06,7.6,naukri.com
+581,IBM,Power BI Developer,Chennai,Hybrid,2025-05-01,Company Website,0-1 Years,Power BI;Communication;ETL,Applied,Resume_V2,No Date Finalized,2025-05-18,13.4,company-careers.example
+582,IBM,MIS Analyst,Remote,Hybrid,2025-07-31,Company Website,0-1 Years,Pandas;Python;Excel,Interview,Resume_V2,2025-08-31,2025-08-09,6.1,company-careers.example
+583,Persistent Systems,Power BI Developer,Pune,Remote,2026-08-20,Naukri,3-5 Years,Pandas;Power BI;Communication;Statistics,Interview,Resume_V1,2026-09-08,2026-09-07,7.5,naukri.com
+584,Deloitte,Business Intelligence Analyst,Noida,Remote,2025-02-23,Internshala,3-5 Years,Communication;Excel;ETL;Python;Tableau,Applied,Resume_V1,No Date Finalized,2025-03-09,9.7,internshala.com
+585,HCLTech,Power BI Developer,Pune,Hybrid,2026-08-18,Indeed,Fresher,Python;SQL;Statistics;Data Visualization,Applied,Resume_V1,No Date Finalized,2026-09-05,8.7,indeed.com
+586,IBM,Reporting Analyst,Gurgaon,Remote,2026-05-27,Indeed,1-2 Years,Statistics;Pandas;Tableau;Python;Data Visualization,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,12.1,indeed.com
+587,Infosys,Data Operations Analyst,Delhi,Remote,2026-05-19,Naukri,2-3 Years,Data Visualization;Excel;Power BI;SQL;ETL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,5.4,naukri.com
+588,Wipro,Business Analyst,Pune,Hybrid,2025-04-29,Company Website,Fresher,Data Visualization;Statistics;Communication,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,7.9,company-careers.example
+589,Accenture,MIS Analyst,Chennai,Onsite,2025-10-18,Indeed,Fresher,Communication;Power BI;Excel;Tableau;Pandas,Applied,Resume_V2,No Date Finalized,2025-11-06,4.8,indeed.com
+590,Amazon,Data Operations Analyst,Chennai,Onsite,2025-01-27,LinkedIn,1-2 Years,Statistics;SQL;Communication;ETL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,3.1,linkedin.com/jobs
+591,Deloitte,Reporting Analyst,Bangalore,Onsite,2025-01-06,Indeed,Fresher,Communication;Python;Power BI;Pandas;Excel,Applied,Resume_V3,No Date Finalized,2025-01-23,11.8,indeed.com
+592,Genpact,Power BI Developer,Hyderabad,Remote,2026-09-09,Naukri,1-2 Years,SQL;Excel;Power BI;Communication,Applied,Resume_V2,No Date Finalized,2026-09-17,7.2,naukri.com
+593,Flipkart,Power BI Developer,Remote,Onsite,2026-03-19,Indeed,2-3 Years,SQL;Statistics;Power BI;Data Visualization;Pandas,Interview,Resume_V1,2026-04-22,2026-03-26,12.7,indeed.com
+594,EY,Data Operations Analyst,Mumbai,Onsite,2026-03-09,Internshala,0-1 Years,Pandas;Communication;SQL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,3.3,internshala.com
+595,Deloitte,MIS Analyst,Kolkata,Hybrid,2026-06-24,Company Website,1-2 Years,Data Visualization;Tableau;Python,Interview,Resume_V3,2026-07-15,2026-07-11,13.8,company-careers.example
+596,Accenture,Data Analyst,Pune,Onsite,2025-02-18,Company Website,2-3 Years,SQL;Data Visualization;Tableau;Python,Shortlisted,Resume_V1,No Date Finalized,2025-03-09,5.7,company-careers.example
+597,Amazon,Data Operations Analyst,Remote,Hybrid,2025-07-06,LinkedIn,1-2 Years,Pandas;Tableau;Statistics,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,9.4,linkedin.com/jobs
+598,TCS,Business Analyst,Chennai,Hybrid,2025-08-05,Internshala,2-3 Years,SQL;Pandas;Excel;Data Visualization,Applied,Resume_V3,No Date Finalized,No Follow Up Date,7.2,internshala.com
+599,Capgemini,Junior Data Analyst,Bangalore,Onsite,2026-09-09,Internshala,0-1 Years,Pandas;Tableau;SQL;Data Visualization,Interview,Resume_V1,2026-09-23,No Follow Up Date,4.3,internshala.com
+600,TCS,Junior Data Analyst,Hyderabad,Remote,2025-08-03,Naukri,2-3 Years,Tableau;Data Visualization;Python,Shortlisted,Resume_V2,2025-08-25,2025-08-23,8.1,naukri.com
+601,LTIMindtree,Business Intelligence Analyst,Chennai,Onsite,2026-04-28,Naukri,3-5 Years,Communication;Pandas;Excel;Python,Applied,Resume_V3,No Date Finalized,2026-05-08,2.9,naukri.com
+602,Paytm,Data Analyst,Gurgaon,Onsite,2026-07-22,LinkedIn,1-2 Years,Pandas;Data Visualization;ETL;SQL,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,10.8,linkedin.com/jobs
+603,TCS,Business Analyst,Delhi,Onsite,2025-03-07,Company Website,0-1 Years,Data Visualization;Statistics;Communication,Applied,Resume_V2,No Date Finalized,No Follow Up Date,10.6,company-careers.example
+604,LTIMindtree,Reporting Analyst,Chennai,Remote,2025-12-19,Indeed,3-5 Years,Data Visualization;Python;Tableau;Statistics;Pandas,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,7.2,indeed.com
+605,LTIMindtree,Data Operations Analyst,Delhi,Remote,2025-10-17,Naukri,0-1 Years,Power BI;Python;Data Visualization,Interview,Resume_V3,2025-10-24,No Follow Up Date,3.9,naukri.com
+606,Paytm,Data Analyst,Pune,Hybrid,2025-02-18,Indeed,2-3 Years,Statistics;Python;ETL;Pandas,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,12.4,indeed.com
+607,IBM,Business Analyst,Kolkata,Onsite,2026-09-25,Company Website,Fresher,Statistics;Communication;Excel;Pandas,Applied,Resume_V3,No Date Finalized,No Follow Up Date,12.6,company-careers.example
+608,Cognizant,Junior Data Analyst,Mumbai,Hybrid,2025-02-21,Company Website,0-1 Years,SQL;Communication;Excel,Offer,Resume_V3,2025-03-12,No Follow Up Date,8.5,company-careers.example
+609,LTIMindtree,Data Analyst,Mumbai,Hybrid,2025-10-27,Naukri,1-2 Years,Statistics;Communication;Python;Excel;SQL,Interview,Resume_V2,2025-11-25,2025-11-02,7.7,naukri.com
+610,LTIMindtree,Business Intelligence Analyst,Gurgaon,Hybrid,2026-06-02,Indeed,3-5 Years,Power BI;Python;Pandas;Data Visualization;SQL,Applied,Resume_V3,No Date Finalized,2026-06-18,4.3,indeed.com
+611,Genpact,Business Analyst,Gurgaon,Remote,2026-01-06,Naukri,2-3 Years,ETL;SQL;Communication,Offer,Resume_V1,2026-01-25,No Follow Up Date,6.6,naukri.com
+612,KPMG,Data Analyst,Delhi,Onsite,2026-10-19,Internshala,3-5 Years,Pandas;Communication;Tableau;Statistics,Applied,Resume_V1,No Date Finalized,No Follow Up Date,11.1,internshala.com
+613,Genpact,Business Analyst,Kolkata,Onsite,2026-02-18,Company Website,1-2 Years,Tableau;SQL;Excel,Shortlisted,Resume_V1,2026-03-25,No Follow Up Date,8.8,company-careers.example
+614,Deloitte,Business Intelligence Analyst,Kolkata,Remote,2025-04-06,Naukri,Fresher,Excel;ETL;Tableau,Shortlisted,Resume_V2,2025-05-04,No Follow Up Date,5.5,naukri.com
+615,Zomato,MIS Analyst,Noida,Hybrid,2025-09-23,Company Website,1-2 Years,Communication;Excel;Data Visualization;Python,Interview,Resume_V3,2025-10-09,2025-09-29,13.8,company-careers.example
+616,LTIMindtree,Business Intelligence Analyst,Pune,Remote,2026-08-10,LinkedIn,Fresher,ETL;Power BI;Statistics;Communication,Interview,Resume_V2,2026-09-06,2026-08-20,3.9,linkedin.com/jobs
+617,LTIMindtree,Data Operations Analyst,Chennai,Onsite,2025-05-14,Company Website,2-3 Years,ETL;Communication;Pandas;Data Visualization;Python,Shortlisted,Resume_V1,2025-06-13,No Follow Up Date,9.3,company-careers.example
+618,Cognizant,Reporting Analyst,Pune,Onsite,2025-05-28,Internshala,2-3 Years,Power BI;Data Visualization;ETL,Shortlisted,Resume_V1,No Date Finalized,2025-06-16,3.2,internshala.com
+619,Flipkart,Data Analyst,Hyderabad,Remote,2025-05-04,Naukri,3-5 Years,Statistics;Tableau;Communication,Applied,Resume_V2,No Date Finalized,2025-05-23,6.2,naukri.com
+620,KPMG,Junior Data Analyst,Bangalore,Hybrid,2025-02-19,Indeed,2-3 Years,Python;Data Visualization;Excel,Offer,Resume_V3,2025-03-05,No Follow Up Date,4.2,indeed.com
+621,Amazon,Data Operations Analyst,Hyderabad,Onsite,2025-11-14,Company Website,1-2 Years,Communication;Python;ETL;Tableau;Statistics,Interview,Resume_V1,2025-12-17,2025-11-29,8.0,company-careers.example
+622,TCS,Power BI Developer,Kolkata,Onsite,2026-10-02,Indeed,Fresher,Excel;Data Visualization;Tableau;Statistics;Communication,Interview,Resume_V3,2026-10-20,2026-10-17,12.5,indeed.com
+623,TCS,Junior Data Analyst,Kolkata,Remote,2026-07-27,Internshala,Fresher,Excel;ETL;Power BI;Pandas;Data Visualization,Applied,Resume_V2,No Date Finalized,No Follow Up Date,8.4,internshala.com
+624,Flipkart,Data Analyst,Noida,Hybrid,2025-07-30,Internshala,0-1 Years,SQL;ETL;Statistics;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,9.4,internshala.com
+625,Deloitte,Business Analyst,Hyderabad,Hybrid,2025-01-25,Indeed,Fresher,Tableau;SQL;ETL;Excel,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,8.9,indeed.com
+626,Infosys,Power BI Developer,Gurgaon,Remote,2025-11-11,Naukri,1-2 Years,Communication;Statistics;Python,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,3.1,naukri.com
+627,Zomato,MIS Analyst,Chennai,Onsite,2026-02-27,Indeed,3-5 Years,SQL;Excel;Power BI;Communication,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,11.2,indeed.com
+628,TCS,Power BI Developer,Kolkata,Onsite,2025-04-28,Company Website,Fresher,Data Visualization;Excel;Pandas,Applied,Resume_V1,No Date Finalized,2025-05-18,9.9,company-careers.example
+629,Cognizant,MIS Analyst,Kolkata,Hybrid,2026-07-23,Company Website,3-5 Years,ETL;Power BI;Python,Interview,Resume_V2,2026-08-01,2026-08-08,7.0,company-careers.example
+630,Genpact,Reporting Analyst,Mumbai,Onsite,2025-02-12,Naukri,3-5 Years,Excel;Data Visualization;Tableau,Applied,Resume_V2,No Date Finalized,2025-02-24,9.5,naukri.com
+631,IBM,Business Intelligence Analyst,Mumbai,Onsite,2025-02-16,Indeed,3-5 Years,Pandas;SQL;Python,Applied,Resume_V2,No Date Finalized,2025-02-21,10.9,indeed.com
+632,Persistent Systems,Reporting Analyst,Bangalore,Onsite,2025-12-17,Indeed,0-1 Years,Statistics;Communication;Power BI,Interview,Resume_V3,2026-01-15,No Follow Up Date,7.9,indeed.com
+633,Accenture,Data Analyst,Chennai,Onsite,2025-01-03,Naukri,Fresher,ETL;Data Visualization;Pandas;Tableau,Interview,Resume_V2,2025-01-08,No Follow Up Date,3.7,naukri.com
+634,Capgemini,Data Operations Analyst,Bangalore,Remote,2026-01-21,Indeed,Fresher,Python;Excel;SQL;Power BI,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,6.9,indeed.com
+635,Persistent Systems,MIS Analyst,Bangalore,Remote,2026-01-02,Indeed,2-3 Years,Power BI;Communication;Data Visualization;Python;Excel,Applied,Resume_V1,No Date Finalized,No Follow Up Date,5.9,indeed.com
+636,HCLTech,Power BI Developer,Remote,Remote,2025-10-12,Internshala,3-5 Years,Communication;Python;SQL;Tableau;Data Visualization,Interview,Resume_V3,2025-11-01,2025-10-21,11.2,internshala.com
+637,Infosys,Reporting Analyst,Gurgaon,Hybrid,2025-10-08,Internshala,1-2 Years,Tableau;ETL;Data Visualization;Excel;Power BI,Applied,Resume_V1,No Date Finalized,No Follow Up Date,10.0,internshala.com
+638,Genpact,MIS Analyst,Noida,Remote,2026-06-15,Naukri,3-5 Years,Tableau;Pandas;Data Visualization,Shortlisted,Resume_V1,2026-06-24,No Follow Up Date,6.3,naukri.com
+639,Accenture,Junior Data Analyst,Bangalore,Hybrid,2025-08-20,Company Website,2-3 Years,Power BI;Communication;Python,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,6.5,company-careers.example
+640,Infosys,Reporting Analyst,Kolkata,Remote,2026-08-30,Indeed,Fresher,Power BI;SQL;Data Visualization;ETL,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,13.5,indeed.com
+641,Accenture,Business Analyst,Bangalore,Hybrid,2026-09-27,LinkedIn,Fresher,Excel;Pandas;Statistics,Shortlisted,Resume_V2,2026-11-01,No Follow Up Date,12.8,linkedin.com/jobs
+642,LTIMindtree,MIS Analyst,Remote,Onsite,2026-09-18,Internshala,3-5 Years,Tableau;Pandas;ETL,Interview,Resume_V1,2026-09-25,2026-09-22,3.9,internshala.com
+643,Capgemini,Junior Data Analyst,Pune,Remote,2026-04-10,Internshala,3-5 Years,SQL;Statistics;Excel;Power BI;Tableau,Applied,Resume_V3,No Date Finalized,No Follow Up Date,6.5,internshala.com
+644,Amazon,Business Analyst,Mumbai,Remote,2025-03-11,Naukri,Fresher,ETL;Tableau;Statistics;Power BI;Pandas,Interview,Resume_V1,2025-04-11,2025-04-01,10.9,naukri.com
+645,Deloitte,Reporting Analyst,Bangalore,Onsite,2025-05-11,Indeed,3-5 Years,ETL;Python;Communication;Power BI;Data Visualization,Applied,Resume_V3,No Date Finalized,2025-05-25,9.6,indeed.com
+646,Accenture,Reporting Analyst,Mumbai,Onsite,2025-05-29,LinkedIn,2-3 Years,Statistics;Power BI;ETL;Communication,Applied,Resume_V3,No Date Finalized,2025-06-18,13.0,linkedin.com/jobs
+647,Amazon,Data Analyst,Chennai,Remote,2026-04-24,Internshala,Fresher,Communication;Tableau;Pandas;Python,Interview,Resume_V3,2026-05-09,No Follow Up Date,4.6,internshala.com
+648,TCS,Reporting Analyst,Bangalore,Remote,2025-08-17,Naukri,1-2 Years,Statistics;Pandas;Power BI;Data Visualization,Interview,Resume_V1,2025-09-05,No Follow Up Date,4.9,naukri.com
+649,Tech Mahindra,Power BI Developer,Hyderabad,Hybrid,2026-07-23,Internshala,3-5 Years,Excel;Communication;Power BI;SQL,Applied,Resume_V1,No Date Finalized,2026-08-01,6.0,internshala.com
+650,Capgemini,Power BI Developer,Chennai,Remote,2025-07-02,LinkedIn,1-2 Years,Python;Pandas;SQL,Applied,Resume_V2,No Date Finalized,2025-07-13,6.6,linkedin.com/jobs
+651,Capgemini,Business Intelligence Analyst,Noida,Hybrid,2025-06-25,Internshala,3-5 Years,SQL;Communication;Python;ETL,Offer,Resume_V2,2025-07-25,No Follow Up Date,11.7,internshala.com
+652,IBM,Business Analyst,Kolkata,Onsite,2026-10-14,Naukri,2-3 Years,Tableau;Python;Statistics;SQL;Excel,Applied,Resume_V1,No Date Finalized,2026-11-04,9.8,naukri.com
+653,Paytm,Reporting Analyst,Chennai,Onsite,2025-03-25,Internshala,2-3 Years,Python;ETL;Pandas,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,11.2,internshala.com
+654,Capgemini,Data Operations Analyst,Mumbai,Hybrid,2025-11-26,Company Website,0-1 Years,Tableau;Pandas;Excel;SQL,Interview,Resume_V2,2025-12-17,No Follow Up Date,5.3,company-careers.example
+655,Accenture,Power BI Developer,Chennai,Onsite,2026-03-12,Internshala,1-2 Years,Statistics;Tableau;SQL,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.3,internshala.com
+656,EY,Power BI Developer,Gurgaon,Remote,2026-08-21,Company Website,0-1 Years,Data Visualization;Pandas;ETL;Python,Applied,Resume_V2,No Date Finalized,2026-09-03,11.8,company-careers.example
+657,Wipro,Junior Data Analyst,Pune,Hybrid,2025-08-28,Indeed,Fresher,ETL;Communication;SQL;Pandas;Python,Applied,Resume_V3,No Date Finalized,2025-09-02,13.2,indeed.com
+658,Swiggy,Power BI Developer,Bangalore,Hybrid,2025-07-25,Indeed,1-2 Years,Tableau;Power BI;Python;Pandas,Applied,Resume_V2,No Date Finalized,No Follow Up Date,11.2,indeed.com
+659,Capgemini,Data Operations Analyst,Mumbai,Onsite,2026-02-18,Internshala,3-5 Years,Excel;Data Visualization;Python;Pandas;Power BI,Offer,Resume_V3,2026-03-21,No Follow Up Date,5.3,internshala.com
+660,Swiggy,Data Analyst,Noida,Remote,2026-04-25,Indeed,3-5 Years,Pandas;Communication;Power BI,Interview,Resume_V1,2026-05-14,2026-04-30,7.7,indeed.com
+661,Genpact,Power BI Developer,Noida,Onsite,2025-11-09,Company Website,Fresher,Statistics;Communication;Power BI;Data Visualization;Pandas,Offer,Resume_V3,2025-11-14,No Follow Up Date,10.5,company-careers.example
+662,Genpact,MIS Analyst,Chennai,Remote,2025-02-02,Indeed,1-2 Years,Communication;Pandas;ETL;SQL;Power BI,Offer,Resume_V3,2025-02-11,No Follow Up Date,3.5,indeed.com
+663,Accenture,Business Intelligence Analyst,Delhi,Remote,2026-04-08,Internshala,0-1 Years,Excel;Data Visualization;Communication,Interview,Resume_V2,2026-04-22,2026-04-14,4.9,internshala.com
+664,Wipro,Business Analyst,Kolkata,Hybrid,2026-06-21,LinkedIn,2-3 Years,Statistics;Pandas;ETL,Applied,Resume_V3,No Date Finalized,2026-07-10,4.6,linkedin.com/jobs
+665,Flipkart,Business Analyst,Remote,Onsite,2025-03-12,Naukri,1-2 Years,Power BI;Tableau;Pandas,Applied,Resume_V3,No Date Finalized,No Follow Up Date,12.0,naukri.com
+666,Zomato,Data Operations Analyst,Chennai,Hybrid,2025-07-27,Naukri,3-5 Years,SQL;Pandas;Power BI;Tableau,Shortlisted,Resume_V1,No Date Finalized,2025-07-30,6.5,naukri.com
+667,Persistent Systems,Business Intelligence Analyst,Chennai,Hybrid,2025-04-04,Company Website,0-1 Years,Tableau;Pandas;Python;Power BI,Applied,Resume_V3,No Date Finalized,No Follow Up Date,5.6,company-careers.example
+668,Accenture,MIS Analyst,Chennai,Hybrid,2026-08-06,LinkedIn,3-5 Years,Python;Tableau;ETL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,10.3,linkedin.com/jobs
+669,TCS,Junior Data Analyst,Chennai,Hybrid,2026-01-13,Company Website,1-2 Years,Python;Tableau;Power BI;ETL,Applied,Resume_V3,No Date Finalized,2026-01-26,3.3,company-careers.example
+670,HCLTech,Reporting Analyst,Chennai,Hybrid,2026-02-13,Company Website,2-3 Years,Excel;Tableau;SQL,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,10.7,company-careers.example
+671,Swiggy,Business Intelligence Analyst,Hyderabad,Remote,2025-03-26,Naukri,Fresher,Excel;SQL;Python,Shortlisted,Resume_V3,2025-04-30,2025-04-06,6.1,naukri.com
+672,Paytm,Junior Data Analyst,Gurgaon,Onsite,2025-10-07,LinkedIn,1-2 Years,ETL;Power BI;Data Visualization;Statistics;Excel,Applied,Resume_V2,No Date Finalized,2025-10-16,12.2,linkedin.com/jobs
+673,LTIMindtree,Data Analyst,Bangalore,Hybrid,2025-02-23,Naukri,0-1 Years,Statistics;Power BI;ETL,Interview,Resume_V3,2025-03-01,No Follow Up Date,3.8,naukri.com
+674,EY,MIS Analyst,Remote,Remote,2025-03-06,Naukri,3-5 Years,Python;Excel;Pandas;Tableau;ETL,Applied,Resume_V2,No Date Finalized,No Follow Up Date,11.9,naukri.com
+675,Capgemini,Data Operations Analyst,Mumbai,Remote,2026-03-15,Indeed,1-2 Years,Excel;Pandas;Statistics,Applied,Resume_V3,No Date Finalized,2026-03-29,2.9,indeed.com
+676,Zomato,Business Analyst,Delhi,Remote,2026-10-01,Company Website,3-5 Years,Communication;Data Visualization;SQL;Statistics,Applied,Resume_V2,No Date Finalized,2026-10-10,8.8,company-careers.example
+677,Persistent Systems,Data Operations Analyst,Gurgaon,Onsite,2026-10-09,Naukri,0-1 Years,Python;Statistics;Data Visualization;Excel,Interview,Resume_V3,2026-11-04,No Follow Up Date,6.6,naukri.com
+678,KPMG,Data Operations Analyst,Delhi,Remote,2026-08-25,Indeed,0-1 Years,Pandas;Power BI;SQL,Interview,Resume_V2,2026-08-30,2026-08-31,3.5,indeed.com
+679,Infosys,Business Intelligence Analyst,Delhi,Remote,2025-07-29,Internshala,0-1 Years,Statistics;Python;Tableau;ETL,Interview,Resume_V3,2025-08-10,No Follow Up Date,10.0,internshala.com
+680,Accenture,Data Operations Analyst,Pune,Remote,2025-12-06,Naukri,Fresher,Power BI;Pandas;Statistics;SQL;Communication,Applied,Resume_V3,No Date Finalized,2025-12-10,9.9,naukri.com
+681,Accenture,Business Intelligence Analyst,Chennai,Hybrid,2025-05-25,LinkedIn,0-1 Years,Communication;ETL;Power BI,Offer,Resume_V3,2025-06-03,No Follow Up Date,5.4,linkedin.com/jobs
+682,Flipkart,Junior Data Analyst,Noida,Hybrid,2025-07-22,Indeed,2-3 Years,Communication;Data Visualization;Power BI;Python,Applied,Resume_V1,No Date Finalized,2025-08-01,12.5,indeed.com
+683,Deloitte,Business Analyst,Kolkata,Onsite,2026-04-28,Naukri,0-1 Years,Excel;Pandas;ETL;Data Visualization,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,3.7,naukri.com
+684,TCS,Data Analyst,Kolkata,Onsite,2026-01-25,LinkedIn,1-2 Years,Python;Data Visualization;Power BI;SQL,Shortlisted,Resume_V2,No Date Finalized,2026-02-12,13.1,linkedin.com/jobs
+685,Accenture,Business Intelligence Analyst,Bangalore,Remote,2026-02-19,Company Website,2-3 Years,Statistics;Pandas;Data Visualization;Python;Communication,Offer,Resume_V3,2026-03-26,No Follow Up Date,13.9,company-careers.example
+686,Tech Mahindra,MIS Analyst,Chennai,Remote,2025-06-16,Indeed,1-2 Years,Data Visualization;Statistics;Excel;ETL;Power BI,Applied,Resume_V3,No Date Finalized,2025-06-27,13.2,indeed.com
+687,Genpact,Business Intelligence Analyst,Remote,Remote,2025-01-29,Naukri,3-5 Years,Power BI;Python;Excel;Data Visualization,Interview,Resume_V1,2025-02-23,2025-02-15,11.4,naukri.com
+688,Wipro,Reporting Analyst,Hyderabad,Hybrid,2026-03-10,Internshala,0-1 Years,Pandas;Tableau;Communication;Data Visualization;Statistics,Applied,Resume_V3,No Date Finalized,2026-03-22,12.5,internshala.com
+689,Deloitte,Business Intelligence Analyst,Hyderabad,Remote,2026-02-12,Company Website,1-2 Years,SQL;Communication;Pandas,Interview,Resume_V1,2026-02-17,No Follow Up Date,8.7,company-careers.example
+690,Capgemini,Power BI Developer,Gurgaon,Hybrid,2025-05-18,Company Website,3-5 Years,Power BI;Python;Communication;Excel;Statistics,Applied,Resume_V1,No Date Finalized,2025-05-24,4.8,company-careers.example
+691,Flipkart,Junior Data Analyst,Bangalore,Remote,2026-10-14,LinkedIn,1-2 Years,SQL;Statistics;Excel;Tableau,Applied,Resume_V1,No Date Finalized,2026-10-29,5.4,linkedin.com/jobs
+692,Paytm,Power BI Developer,Chennai,Hybrid,2026-08-20,LinkedIn,1-2 Years,Power BI;ETL;Excel,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,7.0,linkedin.com/jobs
+693,KPMG,Reporting Analyst,Pune,Remote,2026-03-16,Indeed,2-3 Years,Power BI;Statistics;Pandas;Communication,Applied,Resume_V3,No Date Finalized,No Follow Up Date,9.6,indeed.com
+694,Persistent Systems,Data Operations Analyst,Kolkata,Hybrid,2026-02-16,LinkedIn,0-1 Years,SQL;ETL;Tableau;Statistics;Communication,Interview,Resume_V1,2026-03-21,No Follow Up Date,6.9,linkedin.com/jobs
+695,Tech Mahindra,Data Operations Analyst,Gurgaon,Onsite,2026-10-16,Indeed,3-5 Years,Statistics;Excel;Communication,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,10.4,indeed.com
+696,Zomato,Data Analyst,Hyderabad,Hybrid,2025-12-23,LinkedIn,Fresher,Pandas;Tableau;Power BI;Statistics;SQL,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,12.5,linkedin.com/jobs
+697,Tech Mahindra,MIS Analyst,Mumbai,Remote,2026-07-16,Company Website,Fresher,Data Visualization;SQL;Communication,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,10.2,company-careers.example
+698,IBM,Data Operations Analyst,Pune,Onsite,2026-03-22,LinkedIn,0-1 Years,Statistics;Pandas;Tableau,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,5.3,linkedin.com/jobs
+699,Genpact,Business Intelligence Analyst,Mumbai,Remote,2026-10-11,Indeed,1-2 Years,Communication;SQL;Statistics,Interview,Resume_V1,2026-10-18,No Follow Up Date,7.0,indeed.com
+700,Zomato,Data Analyst,Delhi,Remote,2025-10-25,Naukri,3-5 Years,SQL;Statistics;Python;Pandas;Data Visualization,Applied,Resume_V3,No Date Finalized,2025-11-15,13.5,naukri.com
+701,Swiggy,Data Operations Analyst,Noida,Remote,2025-07-14,Company Website,1-2 Years,Statistics;Python;Power BI;Excel,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,7.2,company-careers.example
+702,Zomato,Data Operations Analyst,Mumbai,Hybrid,2026-05-27,Naukri,1-2 Years,Excel;Statistics;Tableau;Data Visualization;ETL,Interview,Resume_V3,2026-06-05,No Follow Up Date,4.2,naukri.com
+703,Genpact,Power BI Developer,Hyderabad,Remote,2026-01-21,Naukri,3-5 Years,Power BI;Communication;Excel;Pandas;SQL,Applied,Resume_V2,No Date Finalized,No Follow Up Date,12.4,naukri.com
+704,Capgemini,Business Intelligence Analyst,Pune,Remote,2025-12-12,Company Website,1-2 Years,ETL;Tableau;Communication,Shortlisted,Resume_V3,No Date Finalized,2025-12-27,10.6,company-careers.example
+705,HCLTech,MIS Analyst,Mumbai,Onsite,2025-02-25,Indeed,0-1 Years,Python;Communication;Data Visualization;Statistics,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,8.2,indeed.com
+706,Cognizant,Data Analyst,Pune,Hybrid,2026-10-29,Internshala,2-3 Years,Python;Pandas;ETL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,10.4,internshala.com
+707,Genpact,Data Operations Analyst,Delhi,Onsite,2025-02-23,Internshala,3-5 Years,Python;Pandas;Power BI;Excel,Applied,Resume_V1,No Date Finalized,2025-03-08,4.1,internshala.com
+708,Wipro,Junior Data Analyst,Pune,Hybrid,2026-10-31,LinkedIn,3-5 Years,Pandas;Tableau;Data Visualization;Python,Interview,Resume_V1,2026-11-29,No Follow Up Date,2.9,linkedin.com/jobs
+709,HCLTech,Junior Data Analyst,Noida,Remote,2025-01-24,Internshala,3-5 Years,Pandas;Data Visualization;Communication,Interview,Resume_V1,2025-02-16,2025-01-30,6.1,internshala.com
+710,Zomato,Junior Data Analyst,Mumbai,Onsite,2026-02-20,LinkedIn,Fresher,ETL;Communication;Data Visualization;Excel,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,8.6,linkedin.com/jobs
+711,Accenture,Power BI Developer,Bangalore,Remote,2026-09-06,Indeed,Fresher,Excel;Python;Power BI,Interview,Resume_V3,2026-09-11,No Follow Up Date,10.1,indeed.com
+712,Amazon,Business Analyst,Remote,Hybrid,2025-11-02,LinkedIn,1-2 Years,Tableau;Excel;Communication,Applied,Resume_V3,No Date Finalized,2025-11-18,10.2,linkedin.com/jobs
+713,Capgemini,Business Analyst,Remote,Onsite,2025-12-27,LinkedIn,0-1 Years,Excel;Power BI;Python,Interview,Resume_V3,2026-01-17,2026-01-02,6.2,linkedin.com/jobs
+714,Cognizant,Business Intelligence Analyst,Chennai,Remote,2026-01-03,Company Website,1-2 Years,ETL;Tableau;Communication,Applied,Resume_V3,No Date Finalized,No Follow Up Date,7.1,company-careers.example
+715,Zomato,Business Analyst,Gurgaon,Remote,2026-03-12,Internshala,1-2 Years,SQL;Tableau;Power BI,Offer,Resume_V2,2026-03-21,No Follow Up Date,10.8,internshala.com
+716,Accenture,Reporting Analyst,Pune,Hybrid,2026-01-24,LinkedIn,1-2 Years,SQL;ETL;Communication;Statistics,Applied,Resume_V2,No Date Finalized,No Follow Up Date,8.9,linkedin.com/jobs
+717,Wipro,Junior Data Analyst,Hyderabad,Onsite,2025-05-30,Naukri,1-2 Years,Excel;SQL;Pandas;ETL,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,7.0,naukri.com
+718,Genpact,Business Analyst,Noida,Onsite,2026-05-17,Indeed,3-5 Years,Tableau;SQL;Excel;ETL;Python,Applied,Resume_V3,No Date Finalized,2026-06-07,13.4,indeed.com
+719,HCLTech,Business Analyst,Hyderabad,Hybrid,2026-09-01,Company Website,3-5 Years,Communication;Python;Tableau;Excel,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,10.5,company-careers.example
+720,Amazon,Power BI Developer,Delhi,Hybrid,2025-10-01,Indeed,3-5 Years,Power BI;Pandas;Data Visualization;SQL;Communication,Applied,Resume_V3,No Date Finalized,No Follow Up Date,13.8,indeed.com
+721,Accenture,Business Analyst,Remote,Remote,2025-08-23,Indeed,Fresher,Statistics;SQL;ETL;Excel,Applied,Resume_V3,No Date Finalized,No Follow Up Date,11.0,indeed.com
+722,Swiggy,Junior Data Analyst,Gurgaon,Remote,2025-10-20,Company Website,3-5 Years,ETL;Python;Data Visualization;Power BI;Tableau,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,10.5,company-careers.example
+723,Paytm,MIS Analyst,Hyderabad,Remote,2025-01-08,Naukri,1-2 Years,ETL;Excel;Data Visualization;SQL;Statistics,Interview,Resume_V1,2025-02-04,2025-01-22,13.2,naukri.com
+724,Tech Mahindra,Junior Data Analyst,Delhi,Hybrid,2026-06-11,Company Website,2-3 Years,Statistics;SQL;Communication,Applied,Resume_V2,No Date Finalized,2026-06-29,13.0,company-careers.example
+725,Flipkart,Data Analyst,Noida,Remote,2025-09-29,Internshala,3-5 Years,Power BI;Tableau;Excel;Communication,Applied,Resume_V2,No Date Finalized,No Follow Up Date,12.8,internshala.com
+726,Accenture,Business Analyst,Gurgaon,Remote,2025-12-03,Naukri,2-3 Years,Statistics;Excel;SQL;Power BI,Applied,Resume_V1,No Date Finalized,2025-12-17,8.3,naukri.com
+727,LTIMindtree,Business Analyst,Kolkata,Hybrid,2025-06-09,Indeed,Fresher,Data Visualization;Pandas;Statistics,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,6.2,indeed.com
+728,Genpact,Business Intelligence Analyst,Noida,Remote,2026-03-26,LinkedIn,0-1 Years,Power BI;SQL;Communication;Python,Applied,Resume_V3,No Date Finalized,2026-04-11,3.3,linkedin.com/jobs
+729,HCLTech,Reporting Analyst,Gurgaon,Onsite,2025-07-23,Indeed,2-3 Years,Pandas;Data Visualization;ETL,Offer,Resume_V1,2025-08-27,No Follow Up Date,11.8,indeed.com
+730,Tech Mahindra,Data Analyst,Noida,Hybrid,2025-04-23,LinkedIn,3-5 Years,Python;Statistics;Excel,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,11.4,linkedin.com/jobs
+731,IBM,MIS Analyst,Gurgaon,Remote,2025-01-09,Naukri,2-3 Years,Python;ETL;Communication;SQL;Data Visualization,Shortlisted,Resume_V3,2025-02-16,2025-01-25,11.4,naukri.com
+732,Capgemini,Business Analyst,Gurgaon,Remote,2025-04-16,Naukri,3-5 Years,Python;Power BI;SQL;Data Visualization;ETL,Interview,Resume_V1,2025-05-07,No Follow Up Date,3.2,naukri.com
+733,Flipkart,Data Analyst,Kolkata,Hybrid,2025-04-04,Company Website,Fresher,ETL;Tableau;Power BI;SQL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,6.6,company-careers.example
+734,Infosys,Reporting Analyst,Mumbai,Hybrid,2025-04-23,Company Website,2-3 Years,Statistics;Excel;Python,Applied,Resume_V2,No Date Finalized,2025-05-07,3.3,company-careers.example
+735,Swiggy,Business Analyst,Noida,Hybrid,2026-09-14,Indeed,1-2 Years,Tableau;SQL;ETL;Statistics,Applied,Resume_V3,No Date Finalized,2026-10-02,3.0,indeed.com
+736,Capgemini,MIS Analyst,Chennai,Remote,2026-08-27,LinkedIn,Fresher,Python;SQL;Excel,Shortlisted,Resume_V3,2026-09-20,2026-09-11,9.4,linkedin.com/jobs
+737,IBM,Reporting Analyst,Noida,Hybrid,2026-09-26,Naukri,Fresher,Python;Excel;Communication;SQL;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,9.0,naukri.com
+738,Zomato,Data Analyst,Mumbai,Onsite,2025-03-11,LinkedIn,2-3 Years,Communication;Tableau;Python,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,6.0,linkedin.com/jobs
+739,Genpact,Business Intelligence Analyst,Remote,Hybrid,2026-06-30,LinkedIn,0-1 Years,Data Visualization;ETL;Pandas,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,9.1,linkedin.com/jobs
+740,Deloitte,Power BI Developer,Kolkata,Remote,2025-01-04,Internshala,0-1 Years,ETL;Communication;Tableau;Python,Applied,Resume_V1,No Date Finalized,2025-01-07,12.3,internshala.com
+741,Capgemini,Junior Data Analyst,Bangalore,Onsite,2025-02-16,Indeed,1-2 Years,Tableau;Excel;Power BI,Shortlisted,Resume_V3,2025-03-04,No Follow Up Date,13.9,indeed.com
+742,Persistent Systems,Power BI Developer,Noida,Remote,2026-09-12,Indeed,Fresher,ETL;Tableau;Python,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,7.4,indeed.com
+743,Persistent Systems,MIS Analyst,Chennai,Remote,2025-08-13,Internshala,1-2 Years,Communication;SQL;Pandas;Statistics;Python,Interview,Resume_V2,2025-08-26,2025-08-16,12.5,internshala.com
+744,Flipkart,Junior Data Analyst,Chennai,Remote,2025-07-28,Company Website,2-3 Years,Data Visualization;Power BI;Pandas,Interview,Resume_V1,2025-08-27,No Follow Up Date,6.9,company-careers.example
+745,Persistent Systems,MIS Analyst,Pune,Remote,2025-06-30,Indeed,Fresher,Tableau;Python;ETL,Applied,Resume_V2,No Date Finalized,2025-07-08,12.0,indeed.com
+746,TCS,Data Analyst,Hyderabad,Remote,2025-09-09,Naukri,Fresher,Excel;SQL;Pandas;Power BI;Communication,Shortlisted,Resume_V2,No Date Finalized,2025-09-28,4.0,naukri.com
+747,Accenture,MIS Analyst,Hyderabad,Hybrid,2025-05-27,LinkedIn,3-5 Years,SQL;ETL;Statistics,Offer,Resume_V2,2025-06-20,No Follow Up Date,12.4,linkedin.com/jobs
+748,Deloitte,Junior Data Analyst,Kolkata,Hybrid,2025-06-17,LinkedIn,0-1 Years,Tableau;ETL;SQL;Excel;Pandas,Applied,Resume_V1,No Date Finalized,2025-06-27,4.0,linkedin.com/jobs
+749,Wipro,Data Operations Analyst,Hyderabad,Remote,2025-08-18,Indeed,0-1 Years,Tableau;Power BI;Pandas;Statistics;Data Visualization,Applied,Resume_V1,No Date Finalized,2025-08-25,12.0,indeed.com
+750,EY,Business Analyst,Gurgaon,Remote,2025-10-16,LinkedIn,1-2 Years,SQL;Excel;Python;Communication,Applied,Resume_V3,No Date Finalized,No Follow Up Date,7.6,linkedin.com/jobs
+751,EY,Business Analyst,Gurgaon,Hybrid,2025-10-21,Indeed,2-3 Years,SQL;Excel;Python;Pandas,Applied,Resume_V1,No Date Finalized,2025-11-08,10.1,indeed.com
+752,KPMG,Reporting Analyst,Chennai,Hybrid,2025-04-26,Naukri,2-3 Years,Statistics;Python;ETL,Interview,Resume_V3,2025-05-31,No Follow Up Date,11.4,naukri.com
+753,Tech Mahindra,Business Intelligence Analyst,Pune,Onsite,2026-02-28,Company Website,2-3 Years,ETL;Data Visualization;Communication;Tableau,Interview,Resume_V3,2026-03-25,2026-03-10,8.8,company-careers.example
+754,TCS,Reporting Analyst,Kolkata,Hybrid,2026-08-15,Naukri,0-1 Years,SQL;Power BI;Statistics;Excel;Communication,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,13.9,naukri.com
+755,Tech Mahindra,Data Analyst,Hyderabad,Remote,2025-03-03,Naukri,0-1 Years,Data Visualization;Python;Pandas;SQL,Offer,Resume_V2,2025-03-19,No Follow Up Date,5.2,naukri.com
+756,HCLTech,Junior Data Analyst,Mumbai,Remote,2025-01-27,Internshala,Fresher,Data Visualization;Python;Excel,Interview,Resume_V3,2025-02-14,2025-02-02,4.4,internshala.com
+757,TCS,Power BI Developer,Pune,Remote,2026-03-03,Internshala,Fresher,Tableau;Data Visualization;Pandas;Statistics;Python,Applied,Resume_V3,No Date Finalized,2026-03-10,7.8,internshala.com
+758,Tech Mahindra,Business Intelligence Analyst,Hyderabad,Hybrid,2025-02-02,Company Website,Fresher,Data Visualization;ETL;Tableau;Communication,Interview,Resume_V3,2025-02-12,2025-02-05,8.4,company-careers.example
+759,Swiggy,Junior Data Analyst,Chennai,Hybrid,2026-01-22,Naukri,1-2 Years,Power BI;Pandas;Excel;SQL;Communication,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,4.9,naukri.com
+760,Persistent Systems,Reporting Analyst,Bangalore,Remote,2026-10-20,Indeed,1-2 Years,Pandas;Power BI;Tableau;Excel;Communication,Applied,Resume_V1,No Date Finalized,2026-10-24,3.7,indeed.com
+761,Accenture,Data Analyst,Remote,Hybrid,2026-07-09,Indeed,Fresher,ETL;Power BI;Excel,Applied,Resume_V1,No Date Finalized,2026-07-12,5.5,indeed.com
+762,KPMG,Business Analyst,Pune,Hybrid,2025-11-19,Indeed,2-3 Years,ETL;Power BI;Statistics;Pandas,Applied,Resume_V3,No Date Finalized,2025-12-03,7.2,indeed.com
+763,Infosys,Power BI Developer,Hyderabad,Remote,2026-05-31,Naukri,2-3 Years,Communication;Pandas;Data Visualization,Applied,Resume_V1,No Date Finalized,No Follow Up Date,9.4,naukri.com
+764,KPMG,Business Intelligence Analyst,Bangalore,Onsite,2026-10-03,Naukri,2-3 Years,Python;Communication;Statistics;Power BI;SQL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,6.6,naukri.com
+765,HCLTech,Power BI Developer,Kolkata,Remote,2025-08-02,Internshala,2-3 Years,Python;Data Visualization;SQL,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,11.8,internshala.com
+766,Cognizant,Data Operations Analyst,Delhi,Hybrid,2026-04-11,Naukri,1-2 Years,Tableau;Statistics;ETL,Applied,Resume_V2,No Date Finalized,No Follow Up Date,3.8,naukri.com
+767,Persistent Systems,Business Analyst,Chennai,Hybrid,2026-10-28,LinkedIn,3-5 Years,Data Visualization;Excel;Statistics;Pandas;Python,Offer,Resume_V3,2026-12-02,No Follow Up Date,7.3,linkedin.com/jobs
+768,Swiggy,Data Analyst,Hyderabad,Remote,2025-11-18,Internshala,1-2 Years,Tableau;Excel;ETL;Statistics,Applied,Resume_V2,No Date Finalized,No Follow Up Date,11.7,internshala.com
+769,Amazon,Junior Data Analyst,Pune,Remote,2025-06-12,Company Website,Fresher,SQL;Statistics;Data Visualization;Power BI;ETL,Interview,Resume_V2,2025-07-14,2025-06-27,8.8,company-careers.example
+770,Swiggy,Business Analyst,Chennai,Remote,2026-03-20,Indeed,0-1 Years,Data Visualization;Power BI;Communication;Excel;Python,Applied,Resume_V2,No Date Finalized,2026-04-02,7.9,indeed.com
+771,Capgemini,Data Analyst,Gurgaon,Hybrid,2026-08-05,Company Website,1-2 Years,Statistics;Pandas;Data Visualization,Applied,Resume_V3,No Date Finalized,No Follow Up Date,5.2,company-careers.example
+772,Cognizant,Data Analyst,Pune,Hybrid,2025-06-30,LinkedIn,1-2 Years,Data Visualization;Pandas;Power BI;Statistics,Applied,Resume_V2,No Date Finalized,2025-07-15,12.8,linkedin.com/jobs
+773,Zomato,Business Intelligence Analyst,Bangalore,Onsite,2025-06-18,Company Website,3-5 Years,ETL;Python;Pandas;Communication,Applied,Resume_V1,No Date Finalized,No Follow Up Date,13.0,company-careers.example
+774,EY,Junior Data Analyst,Gurgaon,Hybrid,2025-03-21,Indeed,3-5 Years,Statistics;Excel;Python;Power BI;SQL,Interview,Resume_V3,2025-04-13,No Follow Up Date,8.4,indeed.com
+775,LTIMindtree,Business Analyst,Remote,Hybrid,2025-01-04,Naukri,0-1 Years,Data Visualization;SQL;Excel;ETL;Statistics,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,13.8,naukri.com
+776,Deloitte,Junior Data Analyst,Chennai,Onsite,2025-08-03,Internshala,2-3 Years,Statistics;Communication;Excel,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,6.2,internshala.com
+777,Swiggy,Business Analyst,Kolkata,Hybrid,2026-02-25,Company Website,2-3 Years,Statistics;SQL;Python;Power BI;Pandas,Applied,Resume_V2,No Date Finalized,No Follow Up Date,7.0,company-careers.example
+778,LTIMindtree,Junior Data Analyst,Chennai,Onsite,2026-03-24,LinkedIn,3-5 Years,SQL;Communication;Excel,Interview,Resume_V3,2026-04-20,No Follow Up Date,9.7,linkedin.com/jobs
+779,Wipro,MIS Analyst,Chennai,Remote,2025-04-13,LinkedIn,1-2 Years,Tableau;Pandas;Power BI;SQL;Data Visualization,Interview,Resume_V2,2025-05-04,No Follow Up Date,9.0,linkedin.com/jobs
+780,IBM,Power BI Developer,Gurgaon,Onsite,2026-02-27,Company Website,0-1 Years,Statistics;Power BI;Tableau,Offer,Resume_V1,2026-03-24,No Follow Up Date,5.8,company-careers.example
+781,Tech Mahindra,Business Intelligence Analyst,Mumbai,Onsite,2026-03-01,Internshala,2-3 Years,Communication;Statistics;ETL;SQL;Tableau,Applied,Resume_V1,No Date Finalized,2026-03-15,13.9,internshala.com
+782,HCLTech,Junior Data Analyst,Remote,Hybrid,2026-08-15,Company Website,1-2 Years,ETL;Python;Pandas;SQL,Shortlisted,Resume_V3,No Date Finalized,2026-08-23,3.9,company-careers.example
+783,Zomato,Business Analyst,Bangalore,Onsite,2025-06-12,LinkedIn,3-5 Years,Excel;Pandas;Communication,Offer,Resume_V1,2025-06-23,No Follow Up Date,9.8,linkedin.com/jobs
+784,Deloitte,MIS Analyst,Kolkata,Remote,2026-08-09,Naukri,2-3 Years,Statistics;Python;Power BI;Communication,Applied,Resume_V2,No Date Finalized,No Follow Up Date,12.9,naukri.com
+785,HCLTech,Power BI Developer,Delhi,Remote,2025-02-22,LinkedIn,Fresher,Communication;SQL;ETL;Power BI;Tableau,Applied,Resume_V1,No Date Finalized,No Follow Up Date,4.2,linkedin.com/jobs
+786,Accenture,MIS Analyst,Gurgaon,Hybrid,2026-05-22,Naukri,1-2 Years,SQL;Data Visualization;Excel;Power BI,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,3.6,naukri.com
+787,KPMG,Data Operations Analyst,Remote,Onsite,2026-04-07,Naukri,3-5 Years,Excel;Python;Communication;Data Visualization,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,13.7,naukri.com
+788,KPMG,Junior Data Analyst,Mumbai,Remote,2025-06-12,Internshala,1-2 Years,ETL;Communication;Python,Shortlisted,Resume_V1,2025-06-26,2025-06-15,5.2,internshala.com
+789,Swiggy,Power BI Developer,Chennai,Onsite,2025-08-14,Naukri,2-3 Years,Tableau;Data Visualization;Power BI;Excel,Applied,Resume_V2,No Date Finalized,No Follow Up Date,6.7,naukri.com
+790,Zomato,Power BI Developer,Hyderabad,Remote,2026-06-09,Naukri,2-3 Years,Python;Power BI;Tableau;ETL,Offer,Resume_V2,2026-07-13,No Follow Up Date,4.0,naukri.com
+791,KPMG,Reporting Analyst,Pune,Hybrid,2026-04-02,Internshala,0-1 Years,Communication;Pandas;ETL,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,5.0,internshala.com
+792,Cognizant,Reporting Analyst,Mumbai,Remote,2026-06-08,Indeed,0-1 Years,Excel;SQL;Python;Pandas,Applied,Resume_V3,No Date Finalized,2026-06-27,6.4,indeed.com
+793,Zomato,Reporting Analyst,Mumbai,Onsite,2026-01-16,LinkedIn,Fresher,Statistics;Excel;Communication,Applied,Resume_V2,No Date Finalized,No Follow Up Date,5.2,linkedin.com/jobs
+794,EY,MIS Analyst,Mumbai,Remote,2025-10-18,Indeed,2-3 Years,Communication;SQL;Pandas;Statistics;Power BI,Interview,Resume_V2,2025-11-08,2025-11-07,6.4,indeed.com
+795,Zomato,Business Intelligence Analyst,Mumbai,Onsite,2025-02-17,Company Website,Fresher,SQL;Data Visualization;Python,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,9.5,company-careers.example
+796,Paytm,Data Analyst,Noida,Onsite,2025-01-19,LinkedIn,Fresher,Tableau;Python;Pandas;Excel,Interview,Resume_V1,2025-02-20,No Follow Up Date,12.8,linkedin.com/jobs
+797,EY,Data Operations Analyst,Remote,Remote,2026-04-27,Indeed,2-3 Years,Statistics;Communication;Pandas;Excel,Applied,Resume_V2,No Date Finalized,No Follow Up Date,9.0,indeed.com
+798,EY,Business Intelligence Analyst,Mumbai,Remote,2026-04-11,Indeed,Fresher,SQL;Excel;Power BI;ETL;Pandas,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,4.4,indeed.com
+799,Deloitte,Junior Data Analyst,Delhi,Hybrid,2026-01-13,Internshala,3-5 Years,Excel;Tableau;Communication,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,4.0,internshala.com
+800,Wipro,MIS Analyst,Remote,Hybrid,2025-10-04,LinkedIn,2-3 Years,Statistics;Python;Pandas,Interview,Resume_V2,2025-11-07,2025-10-21,9.9,linkedin.com/jobs
+801,KPMG,MIS Analyst,Mumbai,Onsite,2025-11-26,Company Website,Fresher,SQL;Tableau;ETL,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,10.8,company-careers.example
+802,Zomato,Reporting Analyst,Delhi,Onsite,2026-05-22,Company Website,2-3 Years,Power BI;Data Visualization;SQL;Python,Applied,Resume_V3,No Date Finalized,2026-05-31,5.1,company-careers.example
+803,Persistent Systems,MIS Analyst,Gurgaon,Remote,2025-06-07,LinkedIn,Fresher,Power BI;Statistics;Pandas,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,13.7,linkedin.com/jobs
+804,Amazon,Business Analyst,Delhi,Remote,2026-03-10,LinkedIn,2-3 Years,Data Visualization;SQL;ETL,Applied,Resume_V3,No Date Finalized,2026-03-31,5.5,linkedin.com/jobs
+805,KPMG,Junior Data Analyst,Bangalore,Onsite,2026-06-28,Naukri,2-3 Years,ETL;Pandas;Statistics;Excel,Shortlisted,Resume_V3,2026-07-10,2026-07-07,7.7,naukri.com
+806,Tech Mahindra,Junior Data Analyst,Mumbai,Remote,2026-03-09,Internshala,Fresher,ETL;Data Visualization;Pandas;Excel,Applied,Resume_V1,No Date Finalized,2026-03-17,10.4,internshala.com
+807,Tech Mahindra,Power BI Developer,Chennai,Remote,2026-08-13,Indeed,0-1 Years,Communication;Pandas;ETL,Applied,Resume_V1,No Date Finalized,2026-08-19,7.2,indeed.com
+808,Tech Mahindra,Business Analyst,Noida,Onsite,2025-12-22,LinkedIn,Fresher,Python;ETL;Data Visualization,Interview,Resume_V1,2026-01-18,No Follow Up Date,11.1,linkedin.com/jobs
+809,Cognizant,Data Analyst,Remote,Hybrid,2025-07-11,Company Website,2-3 Years,Statistics;Excel;Python;Data Visualization,Applied,Resume_V3,No Date Finalized,2025-07-14,12.7,company-careers.example
+810,Wipro,Power BI Developer,Noida,Hybrid,2025-01-02,Internshala,2-3 Years,Tableau;Power BI;Python;Pandas;SQL,Shortlisted,Resume_V3,2025-01-16,2025-01-05,11.5,internshala.com
+811,Deloitte,Reporting Analyst,Kolkata,Onsite,2025-12-26,Indeed,3-5 Years,Data Visualization;Tableau;Statistics;Power BI;Excel,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,12.1,indeed.com
+812,Zomato,Business Intelligence Analyst,Noida,Remote,2025-04-26,Naukri,Fresher,Power BI;Python;Statistics;Communication,Applied,Resume_V1,No Date Finalized,2025-04-29,3.1,naukri.com
+813,IBM,Power BI Developer,Mumbai,Remote,2026-01-22,Company Website,3-5 Years,Python;Tableau;Statistics;Communication;Power BI,Interview,Resume_V3,2026-02-26,2026-02-11,9.4,company-careers.example
+814,Flipkart,Business Analyst,Chennai,Onsite,2025-12-18,LinkedIn,0-1 Years,Data Visualization;Statistics;Tableau;Excel,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,13.7,linkedin.com/jobs
+815,Deloitte,Junior Data Analyst,Bangalore,Hybrid,2025-10-24,Indeed,1-2 Years,Tableau;Excel;Data Visualization,Interview,Resume_V1,2025-11-19,2025-11-11,3.3,indeed.com
+816,Swiggy,Business Analyst,Pune,Onsite,2026-03-17,LinkedIn,1-2 Years,Python;Statistics;Tableau;Pandas,Applied,Resume_V1,No Date Finalized,No Follow Up Date,12.4,linkedin.com/jobs
+817,Wipro,Power BI Developer,Delhi,Onsite,2025-07-21,Company Website,1-2 Years,Power BI;Pandas;ETL;Communication,Shortlisted,Resume_V1,No Date Finalized,2025-07-25,13.6,company-careers.example
+818,Deloitte,Junior Data Analyst,Delhi,Onsite,2026-08-01,Naukri,2-3 Years,Power BI;Tableau;Python;Communication;ETL,Shortlisted,Resume_V3,No Date Finalized,No Follow Up Date,5.0,naukri.com
+819,Paytm,Reporting Analyst,Chennai,Hybrid,2025-07-07,Company Website,2-3 Years,Python;ETL;Data Visualization,Applied,Resume_V2,No Date Finalized,No Follow Up Date,10.6,company-careers.example
+820,HCLTech,Power BI Developer,Mumbai,Onsite,2026-03-07,Company Website,3-5 Years,ETL;Excel;Pandas,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,3.8,company-careers.example
+821,Amazon,Data Operations Analyst,Bangalore,Remote,2025-05-11,Indeed,Fresher,Pandas;Python;Communication,Interview,Resume_V2,2025-06-13,No Follow Up Date,10.3,indeed.com
+822,Paytm,Data Analyst,Mumbai,Onsite,2026-10-28,Indeed,0-1 Years,Data Visualization;Statistics;Excel;Communication;ETL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,9.3,indeed.com
+823,Wipro,Junior Data Analyst,Bangalore,Remote,2026-05-23,Naukri,3-5 Years,Tableau;Excel;Data Visualization;Communication,Applied,Resume_V1,No Date Finalized,No Follow Up Date,10.5,naukri.com
+824,Cognizant,MIS Analyst,Kolkata,Hybrid,2026-06-17,LinkedIn,3-5 Years,Data Visualization;Pandas;Excel;Communication;Python,Applied,Resume_V3,No Date Finalized,2026-07-05,7.3,linkedin.com/jobs
+825,Tech Mahindra,Business Analyst,Kolkata,Onsite,2026-03-26,Internshala,3-5 Years,Pandas;Python;Excel,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.9,internshala.com
+826,Amazon,Business Intelligence Analyst,Gurgaon,Remote,2026-05-03,Company Website,Fresher,Tableau;Pandas;ETL;Statistics,Shortlisted,Resume_V2,2026-05-16,No Follow Up Date,11.8,company-careers.example
+827,KPMG,Business Analyst,Chennai,Onsite,2026-04-14,Indeed,2-3 Years,Communication;Data Visualization;Excel,Applied,Resume_V2,No Date Finalized,2026-05-05,13.0,indeed.com
+828,Accenture,Business Analyst,Hyderabad,Hybrid,2025-01-10,Indeed,3-5 Years,ETL;Power BI;Statistics;Data Visualization;Tableau,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,7.2,indeed.com
+829,Cognizant,Power BI Developer,Hyderabad,Onsite,2026-04-16,Company Website,1-2 Years,Data Visualization;Pandas;Communication,Interview,Resume_V3,2026-05-16,2026-04-28,9.6,company-careers.example
+830,Wipro,Data Operations Analyst,Chennai,Hybrid,2026-08-18,Company Website,0-1 Years,Excel;Communication;Python,Applied,Resume_V3,No Date Finalized,No Follow Up Date,5.4,company-careers.example
+831,Accenture,Data Operations Analyst,Noida,Onsite,2025-08-31,Company Website,Fresher,SQL;Excel;Tableau;ETL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,3.2,company-careers.example
+832,Tech Mahindra,MIS Analyst,Hyderabad,Hybrid,2025-11-25,Internshala,3-5 Years,Power BI;Communication;Tableau;ETL;Pandas,Applied,Resume_V1,No Date Finalized,2025-12-02,10.4,internshala.com
+833,LTIMindtree,Junior Data Analyst,Noida,Remote,2025-03-30,LinkedIn,3-5 Years,Excel;Python;Communication,Interview,Resume_V2,2025-04-24,No Follow Up Date,6.8,linkedin.com/jobs
+834,HCLTech,Junior Data Analyst,Chennai,Hybrid,2025-07-14,Internshala,2-3 Years,ETL;Statistics;Communication;Tableau,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,12.9,internshala.com
+835,Swiggy,Reporting Analyst,Bangalore,Remote,2026-08-06,Indeed,1-2 Years,SQL;Data Visualization;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,3.4,indeed.com
+836,Persistent Systems,Power BI Developer,Gurgaon,Onsite,2026-02-04,Naukri,Fresher,SQL;ETL;Power BI;Pandas,Interview,Resume_V3,2026-02-11,No Follow Up Date,8.6,naukri.com
+837,Infosys,Business Analyst,Mumbai,Onsite,2025-04-24,Indeed,1-2 Years,Excel;Communication;Statistics;Power BI;Python,Interview,Resume_V3,2025-05-28,No Follow Up Date,5.0,indeed.com
+838,Accenture,Data Operations Analyst,Hyderabad,Hybrid,2025-03-05,Internshala,Fresher,Excel;Statistics;SQL;Power BI;Tableau,Applied,Resume_V1,No Date Finalized,2025-03-26,11.1,internshala.com
+839,Genpact,Data Analyst,Kolkata,Hybrid,2025-02-06,Naukri,Fresher,Excel;Communication;Power BI,Shortlisted,Resume_V2,2025-03-07,2025-02-18,8.8,naukri.com
+840,KPMG,Reporting Analyst,Mumbai,Hybrid,2026-01-22,Internshala,2-3 Years,SQL;Data Visualization;Communication,Interview,Resume_V1,2026-02-09,No Follow Up Date,12.8,internshala.com
+841,Infosys,Junior Data Analyst,Bangalore,Remote,2025-09-01,Naukri,2-3 Years,ETL;Excel;Communication;Pandas,Applied,Resume_V1,No Date Finalized,No Follow Up Date,10.9,naukri.com
+842,Accenture,Junior Data Analyst,Delhi,Onsite,2025-10-17,Indeed,0-1 Years,Communication;Pandas;Data Visualization,Applied,Resume_V2,No Date Finalized,2025-10-27,10.2,indeed.com
+843,Paytm,Power BI Developer,Noida,Onsite,2026-01-01,Naukri,3-5 Years,Tableau;Statistics;Communication;Pandas,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,10.1,naukri.com
+844,Paytm,MIS Analyst,Delhi,Onsite,2025-04-17,Internshala,3-5 Years,Tableau;SQL;Power BI;ETL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,12.2,internshala.com
+845,TCS,Data Operations Analyst,Bangalore,Hybrid,2025-05-06,Naukri,1-2 Years,Power BI;Data Visualization;ETL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,13.5,naukri.com
+846,Genpact,Data Operations Analyst,Bangalore,Remote,2026-01-29,LinkedIn,0-1 Years,Communication;Pandas;Data Visualization;Excel,Applied,Resume_V2,No Date Finalized,No Follow Up Date,12.5,linkedin.com/jobs
+847,Zomato,MIS Analyst,Bangalore,Hybrid,2025-07-08,LinkedIn,3-5 Years,Statistics;Excel;Communication;Pandas;Python,Interview,Resume_V2,2025-07-30,2025-07-20,11.9,linkedin.com/jobs
+848,Swiggy,Data Operations Analyst,Gurgaon,Onsite,2026-03-14,LinkedIn,3-5 Years,ETL;Pandas;Tableau,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,12.4,linkedin.com/jobs
+849,Swiggy,Power BI Developer,Noida,Onsite,2025-09-24,Naukri,2-3 Years,Tableau;Communication;SQL,Applied,Resume_V1,No Date Finalized,2025-10-04,14.0,naukri.com
+850,Cognizant,Data Operations Analyst,Chennai,Remote,2026-09-23,Internshala,2-3 Years,SQL;Tableau;Statistics,Applied,Resume_V1,No Date Finalized,2026-10-04,12.2,internshala.com
+851,Accenture,Data Operations Analyst,Hyderabad,Hybrid,2026-04-23,Naukri,1-2 Years,Excel;SQL;Tableau;Data Visualization,Applied,Resume_V2,No Date Finalized,2026-05-13,9.0,naukri.com
+852,Paytm,Data Operations Analyst,Remote,Hybrid,2026-05-22,Naukri,Fresher,Excel;Power BI;SQL;Statistics;Communication,Applied,Resume_V3,No Date Finalized,No Follow Up Date,4.9,naukri.com
+853,Wipro,Junior Data Analyst,Kolkata,Hybrid,2025-08-22,Indeed,Fresher,Excel;Statistics;Communication;Tableau,Applied,Resume_V3,No Date Finalized,No Follow Up Date,5.4,indeed.com
+854,Persistent Systems,Reporting Analyst,Noida,Hybrid,2025-03-21,Company Website,1-2 Years,Pandas;Tableau;Python,Applied,Resume_V2,No Date Finalized,2025-04-04,3.1,company-careers.example
+855,Paytm,Reporting Analyst,Mumbai,Hybrid,2025-10-29,Naukri,3-5 Years,Excel;SQL;Power BI;Pandas;Python,Interview,Resume_V1,2025-11-08,2025-11-10,8.5,naukri.com
+856,Wipro,Data Analyst,Remote,Hybrid,2025-06-03,LinkedIn,3-5 Years,Power BI;ETL;Pandas,Applied,Resume_V3,No Date Finalized,No Follow Up Date,8.8,linkedin.com/jobs
+857,EY,Junior Data Analyst,Mumbai,Hybrid,2026-03-28,Indeed,2-3 Years,Statistics;Power BI;Communication,Applied,Resume_V2,No Date Finalized,2026-04-18,5.4,indeed.com
+858,HCLTech,MIS Analyst,Gurgaon,Onsite,2025-03-23,Company Website,3-5 Years,Power BI;Data Visualization;Pandas;SQL;Tableau,Applied,Resume_V3,No Date Finalized,2025-04-06,12.1,company-careers.example
+859,Capgemini,Business Analyst,Chennai,Remote,2025-05-22,LinkedIn,0-1 Years,Pandas;Communication;Python,Interview,Resume_V1,2025-06-21,2025-06-04,9.3,linkedin.com/jobs
+860,Cognizant,Junior Data Analyst,Hyderabad,Onsite,2026-03-05,Company Website,3-5 Years,SQL;Python;Excel;Pandas;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,3.1,company-careers.example
+861,Persistent Systems,Junior Data Analyst,Bangalore,Remote,2026-03-09,Naukri,1-2 Years,Tableau;SQL;Statistics;Pandas;Python,Applied,Resume_V2,No Date Finalized,2026-03-29,9.4,naukri.com
+862,Zomato,Reporting Analyst,Chennai,Hybrid,2026-02-23,Indeed,1-2 Years,Python;Communication;SQL;Data Visualization,Interview,Resume_V2,2026-03-23,No Follow Up Date,12.8,indeed.com
+863,Paytm,Business Intelligence Analyst,Delhi,Hybrid,2025-06-30,LinkedIn,2-3 Years,Tableau;Data Visualization;Statistics,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,3.3,linkedin.com/jobs
+864,KPMG,Power BI Developer,Hyderabad,Remote,2025-07-02,LinkedIn,1-2 Years,Power BI;Pandas;Tableau;Data Visualization;ETL,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,6.3,linkedin.com/jobs
+865,Swiggy,Business Analyst,Bangalore,Onsite,2026-05-14,Internshala,Fresher,Power BI;Tableau;Python,Shortlisted,Resume_V3,No Date Finalized,2026-05-25,3.9,internshala.com
+866,Zomato,Business Intelligence Analyst,Chennai,Onsite,2026-07-05,LinkedIn,0-1 Years,Excel;Statistics;Power BI;Python,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,13.3,linkedin.com/jobs
+867,IBM,Junior Data Analyst,Noida,Remote,2025-10-30,LinkedIn,0-1 Years,Pandas;Data Visualization;Tableau;Excel,Offer,Resume_V3,2025-11-26,No Follow Up Date,12.5,linkedin.com/jobs
+868,Paytm,Reporting Analyst,Mumbai,Onsite,2025-03-18,Company Website,Fresher,ETL;SQL;Statistics;Excel;Power BI,Applied,Resume_V3,No Date Finalized,2025-03-29,3.9,company-careers.example
+869,Flipkart,Power BI Developer,Hyderabad,Remote,2026-10-05,Naukri,Fresher,Power BI;Tableau;Data Visualization;SQL;Communication,Applied,Resume_V3,No Date Finalized,2026-10-20,11.9,naukri.com
+870,Persistent Systems,Business Intelligence Analyst,Remote,Remote,2025-08-08,Internshala,1-2 Years,Python;Excel;Pandas,Applied,Resume_V2,No Date Finalized,2025-08-28,10.5,internshala.com
+871,Flipkart,Power BI Developer,Pune,Remote,2026-06-28,Naukri,Fresher,Data Visualization;Communication;Pandas;Tableau,Interview,Resume_V2,2026-07-08,No Follow Up Date,6.8,naukri.com
+872,EY,Junior Data Analyst,Noida,Onsite,2026-03-06,Indeed,2-3 Years,Pandas;SQL;Python,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,8.0,indeed.com
+873,Paytm,MIS Analyst,Gurgaon,Remote,2025-05-12,Company Website,3-5 Years,Communication;Pandas;Power BI;Excel,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,6.1,company-careers.example
+874,EY,Data Analyst,Delhi,Hybrid,2025-09-25,Company Website,2-3 Years,Tableau;Excel;Communication;Power BI,Interview,Resume_V1,2025-10-13,2025-10-12,11.0,company-careers.example
+875,TCS,Data Analyst,Gurgaon,Remote,2026-08-10,Internshala,1-2 Years,SQL;Statistics;Python,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,9.6,internshala.com
+876,Cognizant,Reporting Analyst,Noida,Hybrid,2026-07-21,Indeed,0-1 Years,Power BI;Python;Pandas;Data Visualization;Statistics,Applied,Resume_V3,No Date Finalized,2026-07-30,5.4,indeed.com
+877,Deloitte,Power BI Developer,Bangalore,Remote,2025-09-12,LinkedIn,0-1 Years,SQL;ETL;Pandas;Data Visualization;Power BI,Offer,Resume_V1,2025-09-18,No Follow Up Date,3.3,linkedin.com/jobs
+878,LTIMindtree,Data Analyst,Bangalore,Onsite,2025-10-06,Company Website,3-5 Years,Tableau;SQL;ETL,Interview,Resume_V3,2025-11-06,No Follow Up Date,3.6,company-careers.example
+879,TCS,Power BI Developer,Delhi,Hybrid,2025-06-05,Company Website,0-1 Years,Communication;Tableau;Statistics,Applied,Resume_V1,No Date Finalized,No Follow Up Date,7.6,company-careers.example
+880,LTIMindtree,Power BI Developer,Chennai,Hybrid,2025-09-28,Internshala,3-5 Years,Pandas;Tableau;Communication;Excel,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,5.3,internshala.com
+881,TCS,Business Intelligence Analyst,Mumbai,Hybrid,2025-09-08,Company Website,1-2 Years,ETL;SQL;Data Visualization;Communication,Applied,Resume_V2,No Date Finalized,No Follow Up Date,9.3,company-careers.example
+882,Flipkart,MIS Analyst,Pune,Remote,2026-07-31,LinkedIn,2-3 Years,ETL;Python;Power BI,Applied,Resume_V3,No Date Finalized,2026-08-07,12.5,linkedin.com/jobs
+883,HCLTech,Data Analyst,Noida,Onsite,2026-04-30,LinkedIn,3-5 Years,Tableau;Pandas;Communication;Statistics,Shortlisted,Resume_V3,No Date Finalized,No Follow Up Date,6.6,linkedin.com/jobs
+884,Tech Mahindra,Reporting Analyst,Chennai,Onsite,2026-02-21,Indeed,2-3 Years,Power BI;ETL;Data Visualization;Tableau;Communication,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,6.3,indeed.com
+885,TCS,Business Analyst,Kolkata,Onsite,2026-07-23,LinkedIn,Fresher,Pandas;SQL;Communication,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.2,linkedin.com/jobs
+886,Swiggy,Business Intelligence Analyst,Gurgaon,Remote,2025-07-22,Company Website,1-2 Years,ETL;Data Visualization;Python,Shortlisted,Resume_V1,No Date Finalized,2025-08-07,11.2,company-careers.example
+887,Capgemini,Reporting Analyst,Kolkata,Onsite,2026-03-22,Indeed,1-2 Years,Statistics;Communication;Python;SQL;Data Visualization,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,8.7,indeed.com
+888,Accenture,Data Analyst,Delhi,Onsite,2026-04-19,Naukri,0-1 Years,Data Visualization;Excel;Statistics;Power BI;SQL,Applied,Resume_V1,No Date Finalized,2026-04-26,4.5,naukri.com
+889,TCS,MIS Analyst,Delhi,Hybrid,2025-04-07,Internshala,2-3 Years,SQL;Statistics;Power BI,Shortlisted,Resume_V3,2025-04-17,No Follow Up Date,6.7,internshala.com
+890,Capgemini,Power BI Developer,Hyderabad,Hybrid,2025-11-10,Indeed,3-5 Years,ETL;Power BI;SQL;Tableau;Data Visualization,Applied,Resume_V1,No Date Finalized,No Follow Up Date,4.0,indeed.com
+891,Flipkart,MIS Analyst,Hyderabad,Remote,2025-05-10,Internshala,0-1 Years,Pandas;Statistics;Tableau;Communication;ETL,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,12.6,internshala.com
+892,Infosys,Business Analyst,Kolkata,Hybrid,2025-04-04,Naukri,2-3 Years,Python;Data Visualization;Excel,Offer,Resume_V3,2025-04-28,No Follow Up Date,6.4,naukri.com
+893,Paytm,Reporting Analyst,Kolkata,Remote,2026-04-29,Naukri,3-5 Years,Pandas;Communication;ETL;Statistics;Power BI,Applied,Resume_V1,No Date Finalized,2026-05-05,6.8,naukri.com
+894,Wipro,Business Intelligence Analyst,Noida,Remote,2025-06-20,Indeed,Fresher,Python;Pandas;Data Visualization;Power BI;Statistics,Offer,Resume_V2,2025-07-21,No Follow Up Date,11.6,indeed.com
+895,TCS,MIS Analyst,Chennai,Hybrid,2026-04-23,Indeed,3-5 Years,Pandas;Power BI;ETL;Data Visualization;Python,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.8,indeed.com
+896,Genpact,Data Analyst,Delhi,Hybrid,2025-01-06,Indeed,Fresher,Excel;Tableau;Communication;Statistics;Python,Interview,Resume_V3,2025-01-21,2025-01-20,10.0,indeed.com
+897,Swiggy,Junior Data Analyst,Bangalore,Hybrid,2025-02-01,Company Website,Fresher,Data Visualization;Communication;Python;Power BI;Statistics,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,12.6,company-careers.example
+898,Infosys,Reporting Analyst,Pune,Onsite,2025-06-06,Naukri,1-2 Years,Pandas;SQL;Excel,Interview,Resume_V1,2025-06-16,No Follow Up Date,7.8,naukri.com
+899,Infosys,Junior Data Analyst,Mumbai,Onsite,2026-09-21,Indeed,0-1 Years,Python;Statistics;Excel;ETL;Power BI,Interview,Resume_V3,2026-10-06,No Follow Up Date,7.5,indeed.com
+900,TCS,Power BI Developer,Delhi,Onsite,2025-10-01,Internshala,1-2 Years,ETL;Pandas;Python,Applied,Resume_V1,No Date Finalized,2025-10-12,9.9,internshala.com
+901,Zomato,Data Analyst,Hyderabad,Remote,2025-12-16,LinkedIn,0-1 Years,SQL;Python;Communication,Shortlisted,Resume_V3,No Date Finalized,2026-01-02,4.9,linkedin.com/jobs
+902,Cognizant,Power BI Developer,Hyderabad,Onsite,2026-01-19,Indeed,1-2 Years,Power BI;Python;Tableau;Excel;Communication,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,10.7,indeed.com
+903,IBM,Junior Data Analyst,Chennai,Hybrid,2025-08-20,Indeed,3-5 Years,Python;Tableau;ETL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,10.6,indeed.com
+904,Capgemini,Business Intelligence Analyst,Noida,Onsite,2025-12-24,Internshala,1-2 Years,Python;Excel;Pandas;SQL,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,8.8,internshala.com
+905,IBM,Data Analyst,Pune,Onsite,2025-12-17,Indeed,0-1 Years,ETL;Power BI;Tableau,Interview,Resume_V2,2026-01-07,No Follow Up Date,5.2,indeed.com
+906,EY,Reporting Analyst,Pune,Remote,2025-05-24,LinkedIn,1-2 Years,SQL;Statistics;Excel;Communication,Shortlisted,Resume_V2,2025-06-24,No Follow Up Date,7.5,linkedin.com/jobs
+907,KPMG,Reporting Analyst,Chennai,Onsite,2025-06-16,Internshala,2-3 Years,Pandas;Communication;Data Visualization;ETL;SQL,Shortlisted,Resume_V2,2025-06-24,2025-07-03,5.6,internshala.com
+908,Genpact,Data Analyst,Hyderabad,Onsite,2025-02-11,Naukri,0-1 Years,SQL;Pandas;ETL;Data Visualization;Python,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,13.5,naukri.com
+909,Infosys,Junior Data Analyst,Delhi,Remote,2026-09-04,Internshala,1-2 Years,Communication;Python;ETL,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,10.2,internshala.com
+910,Capgemini,Business Intelligence Analyst,Pune,Onsite,2026-02-10,Naukri,0-1 Years,Tableau;Communication;SQL,Applied,Resume_V1,No Date Finalized,2026-02-17,4.9,naukri.com
+911,Swiggy,Business Intelligence Analyst,Mumbai,Hybrid,2026-07-23,Indeed,2-3 Years,Data Visualization;Python;Statistics,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,3.9,indeed.com
+912,Deloitte,Business Intelligence Analyst,Remote,Hybrid,2025-09-06,LinkedIn,3-5 Years,Python;Statistics;Communication;Power BI,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,11.5,linkedin.com/jobs
+913,TCS,Business Intelligence Analyst,Pune,Onsite,2025-12-22,Naukri,0-1 Years,Python;Power BI;Statistics;Communication;Pandas,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,8.4,naukri.com
+914,Genpact,Data Operations Analyst,Bangalore,Hybrid,2026-05-27,LinkedIn,2-3 Years,Pandas;Python;Communication;SQL,Applied,Resume_V1,No Date Finalized,2026-06-12,6.0,linkedin.com/jobs
+915,TCS,Business Analyst,Noida,Remote,2025-06-17,Company Website,3-5 Years,Statistics;SQL;Pandas,Applied,Resume_V3,No Date Finalized,2025-06-23,11.8,company-careers.example
+916,Wipro,Data Operations Analyst,Kolkata,Hybrid,2026-01-29,Company Website,2-3 Years,Tableau;Pandas;Communication,Interview,Resume_V3,2026-02-03,2026-02-13,11.1,company-careers.example
+917,Accenture,Business Analyst,Bangalore,Hybrid,2025-12-10,Indeed,3-5 Years,Python;Pandas;ETL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,12.5,indeed.com
+918,Flipkart,Data Operations Analyst,Noida,Remote,2025-07-22,Company Website,3-5 Years,Data Visualization;Tableau;Excel,Shortlisted,Resume_V3,No Date Finalized,No Follow Up Date,4.2,company-careers.example
+919,EY,Power BI Developer,Bangalore,Onsite,2026-01-14,LinkedIn,Fresher,Tableau;Python;Communication;ETL;Power BI,Applied,Resume_V2,No Date Finalized,2026-01-26,3.0,linkedin.com/jobs
+920,Persistent Systems,MIS Analyst,Kolkata,Onsite,2025-02-07,Naukri,2-3 Years,Python;Data Visualization;Pandas;Communication;ETL,Shortlisted,Resume_V1,2025-02-25,2025-02-13,13.7,naukri.com
+921,IBM,Junior Data Analyst,Gurgaon,Remote,2025-03-20,Company Website,0-1 Years,SQL;Statistics;Tableau;Power BI;Pandas,Applied,Resume_V3,No Date Finalized,2025-03-26,3.1,company-careers.example
+922,LTIMindtree,Power BI Developer,Hyderabad,Hybrid,2025-09-25,Internshala,3-5 Years,ETL;Power BI;Excel;Python;Tableau,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,8.1,internshala.com
+923,HCLTech,Power BI Developer,Delhi,Hybrid,2025-02-16,Indeed,3-5 Years,Pandas;Power BI;Excel,Interview,Resume_V3,2025-03-22,2025-02-28,11.6,indeed.com
+924,Persistent Systems,Reporting Analyst,Kolkata,Hybrid,2025-11-22,Naukri,2-3 Years,Communication;Tableau;Data Visualization,Applied,Resume_V3,No Date Finalized,2025-12-05,9.4,naukri.com
+925,Genpact,Data Analyst,Remote,Remote,2025-01-13,Naukri,2-3 Years,Data Visualization;Power BI;Python;Statistics,Applied,Resume_V3,No Date Finalized,2025-01-30,7.2,naukri.com
+926,TCS,Business Analyst,Remote,Onsite,2025-12-20,Internshala,0-1 Years,Tableau;Communication;Statistics;Power BI,Applied,Resume_V3,No Date Finalized,No Follow Up Date,10.4,internshala.com
+927,HCLTech,Business Intelligence Analyst,Remote,Remote,2025-12-27,LinkedIn,Fresher,ETL;Data Visualization;Power BI;Communication,Interview,Resume_V2,2026-01-14,No Follow Up Date,13.1,linkedin.com/jobs
+928,Capgemini,Business Intelligence Analyst,Remote,Hybrid,2025-08-12,Naukri,1-2 Years,Pandas;ETL;Communication,Applied,Resume_V2,No Date Finalized,2025-08-24,6.7,naukri.com
+929,Amazon,Power BI Developer,Chennai,Remote,2026-10-08,Indeed,0-1 Years,ETL;Communication;Pandas;SQL;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,8.3,indeed.com
+930,LTIMindtree,Business Intelligence Analyst,Mumbai,Onsite,2025-10-23,Company Website,Fresher,Python;SQL;Pandas;Tableau;Statistics,Applied,Resume_V3,No Date Finalized,No Follow Up Date,7.5,company-careers.example
+931,Zomato,Data Operations Analyst,Pune,Hybrid,2025-08-18,LinkedIn,Fresher,Communication;Pandas;Excel;Python;Tableau,Applied,Resume_V3,No Date Finalized,No Follow Up Date,5.6,linkedin.com/jobs
+932,Tech Mahindra,Business Analyst,Chennai,Onsite,2026-09-08,Company Website,0-1 Years,ETL;Power BI;Python;Communication;Data Visualization,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,10.9,company-careers.example
+933,Tech Mahindra,Business Analyst,Chennai,Onsite,2025-05-16,Naukri,Fresher,Data Visualization;Communication;Power BI;Statistics;Tableau,Applied,Resume_V3,No Date Finalized,No Follow Up Date,7.8,naukri.com
+934,LTIMindtree,Data Operations Analyst,Gurgaon,Remote,2025-12-06,Naukri,2-3 Years,Data Visualization;SQL;Excel,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,11.2,naukri.com
+935,Genpact,Data Analyst,Noida,Hybrid,2026-07-05,Internshala,3-5 Years,Excel;Data Visualization;ETL;Pandas;Statistics,Applied,Resume_V3,No Date Finalized,No Follow Up Date,3.5,internshala.com
+936,HCLTech,MIS Analyst,Chennai,Remote,2026-10-28,Internshala,1-2 Years,Python;Statistics;Pandas,Shortlisted,Resume_V1,No Date Finalized,2026-11-08,10.2,internshala.com
+937,IBM,Power BI Developer,Remote,Remote,2025-12-04,Naukri,0-1 Years,Statistics;Tableau;Data Visualization;Python,Interview,Resume_V1,2025-12-11,2025-12-22,11.6,naukri.com
+938,Flipkart,Data Operations Analyst,Delhi,Remote,2026-06-19,Internshala,0-1 Years,Tableau;Communication;Python;ETL,Applied,Resume_V1,No Date Finalized,2026-07-03,9.9,internshala.com
+939,IBM,Reporting Analyst,Kolkata,Onsite,2026-09-15,LinkedIn,3-5 Years,Communication;Tableau;Python,Applied,Resume_V2,No Date Finalized,2026-09-25,9.3,linkedin.com/jobs
+940,Paytm,Data Operations Analyst,Hyderabad,Hybrid,2026-05-04,Naukri,2-3 Years,ETL;Statistics;Communication;Power BI;Pandas,Interview,Resume_V1,2026-05-14,No Follow Up Date,10.1,naukri.com
+941,Zomato,Data Analyst,Kolkata,Remote,2025-03-08,Naukri,0-1 Years,Communication;SQL;Power BI;Python,Applied,Resume_V2,No Date Finalized,2025-03-18,8.4,naukri.com
+942,Infosys,Data Operations Analyst,Remote,Onsite,2025-02-03,Internshala,0-1 Years,Tableau;ETL;SQL,Applied,Resume_V1,No Date Finalized,2025-02-16,13.7,internshala.com
+943,IBM,Power BI Developer,Pune,Onsite,2025-09-20,Naukri,0-1 Years,Power BI;Communication;Data Visualization;SQL;Excel,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,13.8,naukri.com
+944,Zomato,Data Operations Analyst,Chennai,Remote,2025-03-07,Internshala,3-5 Years,Excel;Power BI;ETL;SQL,Offer,Resume_V1,2025-03-16,No Follow Up Date,9.4,internshala.com
+945,Capgemini,Junior Data Analyst,Kolkata,Onsite,2025-11-23,LinkedIn,0-1 Years,Data Visualization;SQL;Communication,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,3.7,linkedin.com/jobs
+946,Persistent Systems,Power BI Developer,Chennai,Onsite,2026-05-14,LinkedIn,0-1 Years,Data Visualization;Power BI;Communication;Excel;Python,Applied,Resume_V2,No Date Finalized,2026-05-30,11.3,linkedin.com/jobs
+947,Cognizant,Data Operations Analyst,Bangalore,Hybrid,2026-06-04,Naukri,3-5 Years,Tableau;ETL;Communication;Statistics,Shortlisted,Resume_V2,2026-06-30,2026-06-24,7.7,naukri.com
+948,Wipro,MIS Analyst,Mumbai,Hybrid,2026-05-23,Indeed,3-5 Years,Data Visualization;Statistics;Python,Applied,Resume_V2,No Date Finalized,2026-06-08,5.0,indeed.com
+949,Capgemini,Business Intelligence Analyst,Hyderabad,Remote,2025-11-24,Company Website,3-5 Years,Tableau;Power BI;Python,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,6.4,company-careers.example
+950,Deloitte,Reporting Analyst,Hyderabad,Hybrid,2025-06-10,Internshala,1-2 Years,Tableau;Power BI;Communication;ETL,Applied,Resume_V3,No Date Finalized,2025-06-28,13.3,internshala.com
+951,Genpact,Data Analyst,Gurgaon,Hybrid,2025-12-29,Indeed,0-1 Years,Tableau;Pandas;ETL;Data Visualization,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,7.5,indeed.com
+952,Genpact,Reporting Analyst,Kolkata,Onsite,2025-10-08,Naukri,0-1 Years,Tableau;Communication;Statistics;Excel;Python,Applied,Resume_V1,No Date Finalized,No Follow Up Date,7.6,naukri.com
+953,Flipkart,MIS Analyst,Delhi,Onsite,2026-09-25,Naukri,3-5 Years,Data Visualization;Communication;Excel;Pandas,Shortlisted,Resume_V2,No Date Finalized,2026-10-05,10.2,naukri.com
+954,Accenture,Reporting Analyst,Gurgaon,Remote,2025-03-02,Indeed,0-1 Years,Statistics;Data Visualization;Tableau;Excel;Power BI,Applied,Resume_V3,No Date Finalized,No Follow Up Date,4.3,indeed.com
+955,Accenture,Reporting Analyst,Noida,Hybrid,2025-11-03,Indeed,0-1 Years,ETL;Tableau;Communication;Statistics;Excel,Interview,Resume_V1,2025-11-25,2025-11-13,4.4,indeed.com
+956,Flipkart,Data Analyst,Kolkata,Remote,2025-11-25,Indeed,3-5 Years,Excel;Python;SQL;Statistics;Power BI,Shortlisted,Resume_V2,No Date Finalized,2025-12-06,7.6,indeed.com
+957,Zomato,Junior Data Analyst,Kolkata,Remote,2025-01-17,Indeed,3-5 Years,Data Visualization;Tableau;Statistics;Communication;Excel,Interview,Resume_V1,2025-01-23,No Follow Up Date,11.0,indeed.com
+958,IBM,Data Operations Analyst,Chennai,Onsite,2026-06-10,LinkedIn,0-1 Years,Data Visualization;Power BI;SQL;Pandas;Statistics,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,7.6,linkedin.com/jobs
+959,TCS,Business Intelligence Analyst,Bangalore,Remote,2025-12-05,Indeed,0-1 Years,ETL;Pandas;Excel;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,9.2,indeed.com
+960,Zomato,Reporting Analyst,Remote,Remote,2026-03-14,Internshala,0-1 Years,Statistics;ETL;Data Visualization;Communication;Pandas,Applied,Resume_V1,No Date Finalized,No Follow Up Date,5.0,internshala.com
+961,EY,Reporting Analyst,Mumbai,Onsite,2025-07-31,Internshala,0-1 Years,Python;ETL;Statistics,Applied,Resume_V1,No Date Finalized,2025-08-20,13.5,internshala.com
+962,Amazon,Junior Data Analyst,Gurgaon,Remote,2025-11-07,Naukri,2-3 Years,Statistics;Excel;Python,Applied,Resume_V3,No Date Finalized,No Follow Up Date,12.6,naukri.com
+963,Paytm,Junior Data Analyst,Hyderabad,Remote,2025-08-02,Naukri,Fresher,Pandas;SQL;ETL,Applied,Resume_V2,No Date Finalized,2025-08-17,13.7,naukri.com
+964,Paytm,Junior Data Analyst,Chennai,Remote,2026-09-12,Company Website,Fresher,Power BI;SQL;Statistics,Applied,Resume_V2,No Date Finalized,No Follow Up Date,8.2,company-careers.example
+965,Tech Mahindra,Junior Data Analyst,Gurgaon,Hybrid,2026-03-07,Indeed,Fresher,Tableau;SQL;Pandas;Data Visualization,Applied,Resume_V2,No Date Finalized,No Follow Up Date,10.1,indeed.com
+966,HCLTech,Business Analyst,Chennai,Remote,2026-10-25,LinkedIn,Fresher,Power BI;Python;Excel,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,4.2,linkedin.com/jobs
+967,Paytm,Business Analyst,Hyderabad,Hybrid,2025-08-03,Indeed,Fresher,Communication;Pandas;Python;Power BI,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,4.7,indeed.com
+968,Infosys,Business Analyst,Gurgaon,Remote,2025-01-31,Indeed,3-5 Years,Statistics;Excel;ETL;Python;Data Visualization,Shortlisted,Resume_V2,2025-03-02,No Follow Up Date,12.8,indeed.com
+969,Flipkart,Data Operations Analyst,Gurgaon,Onsite,2026-09-05,Indeed,2-3 Years,SQL;Pandas;Communication,Interview,Resume_V1,2026-09-15,2026-09-08,4.1,indeed.com
+970,Swiggy,Reporting Analyst,Remote,Onsite,2026-09-10,LinkedIn,Fresher,Data Visualization;Communication;Tableau;SQL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,6.4,linkedin.com/jobs
+971,Accenture,Junior Data Analyst,Gurgaon,Hybrid,2026-05-20,Naukri,3-5 Years,ETL;Python;Communication,Interview,Resume_V1,2026-06-21,No Follow Up Date,5.3,naukri.com
+972,KPMG,Business Analyst,Remote,Onsite,2025-09-13,Indeed,Fresher,Data Visualization;ETL;Tableau;Pandas;SQL,Applied,Resume_V3,No Date Finalized,2025-09-25,6.5,indeed.com
+973,TCS,Data Operations Analyst,Chennai,Hybrid,2026-01-30,LinkedIn,0-1 Years,Excel;Power BI;Python,Interview,Resume_V3,2026-03-01,2026-02-07,7.2,linkedin.com/jobs
+974,Paytm,Reporting Analyst,Noida,Remote,2026-08-15,Company Website,1-2 Years,Tableau;ETL;Data Visualization;Excel;Statistics,Applied,Resume_V2,No Date Finalized,No Follow Up Date,5.9,company-careers.example
+975,TCS,Business Analyst,Pune,Remote,2026-05-15,Company Website,2-3 Years,SQL;Statistics;Tableau;Excel;Python,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,7.6,company-careers.example
+976,Paytm,MIS Analyst,Hyderabad,Onsite,2025-05-04,Internshala,0-1 Years,ETL;Python;Pandas,Shortlisted,Resume_V1,2025-06-02,2025-05-20,12.0,internshala.com
+977,Paytm,Business Analyst,Noida,Remote,2025-07-23,Internshala,Fresher,ETL;Excel;Statistics;Tableau;SQL,Interview,Resume_V3,2025-08-08,2025-07-30,10.6,internshala.com
+978,Genpact,Power BI Developer,Gurgaon,Onsite,2025-06-19,Naukri,2-3 Years,Communication;Pandas;Power BI;Python;Excel,Interview,Resume_V2,2025-07-21,No Follow Up Date,13.5,naukri.com
+979,Persistent Systems,Junior Data Analyst,Bangalore,Hybrid,2026-04-25,Indeed,0-1 Years,SQL;Tableau;ETL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,5.1,indeed.com
+980,KPMG,Junior Data Analyst,Mumbai,Hybrid,2026-05-08,Naukri,0-1 Years,Python;Pandas;ETL;Tableau,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,5.0,naukri.com
+981,TCS,Junior Data Analyst,Kolkata,Hybrid,2025-05-07,Naukri,3-5 Years,Data Visualization;Python;Tableau,Interview,Resume_V1,2025-05-30,No Follow Up Date,11.3,naukri.com
+982,EY,Power BI Developer,Bangalore,Hybrid,2026-10-06,Indeed,1-2 Years,ETL;Data Visualization;Python,Interview,Resume_V1,2026-10-18,No Follow Up Date,3.6,indeed.com
+983,Persistent Systems,Reporting Analyst,Mumbai,Onsite,2026-10-04,Company Website,2-3 Years,Power BI;ETL;SQL;Excel,Shortlisted,Resume_V3,No Date Finalized,No Follow Up Date,14.0,company-careers.example
+984,KPMG,Junior Data Analyst,Bangalore,Remote,2026-03-19,Indeed,2-3 Years,Tableau;Communication;Statistics;Power BI;Data Visualization,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,12.2,indeed.com
+985,Genpact,Data Analyst,Remote,Remote,2026-08-23,LinkedIn,3-5 Years,Data Visualization;ETL;Pandas;Tableau;Communication,Shortlisted,Resume_V3,No Date Finalized,No Follow Up Date,12.5,linkedin.com/jobs
+986,KPMG,Data Operations Analyst,Chennai,Onsite,2025-04-11,Naukri,3-5 Years,Communication;Pandas;ETL;Statistics,Interview,Resume_V1,2025-04-19,No Follow Up Date,11.1,naukri.com
+987,Wipro,Power BI Developer,Gurgaon,Remote,2026-02-13,Company Website,2-3 Years,Excel;Power BI;Python;Communication;Statistics,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,13.4,company-careers.example
+988,Amazon,Power BI Developer,Hyderabad,Remote,2026-01-03,Indeed,3-5 Years,Power BI;Tableau;Data Visualization;Pandas,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,3.3,indeed.com
+989,Tech Mahindra,Reporting Analyst,Delhi,Remote,2026-10-26,Naukri,Fresher,SQL;Statistics;ETL;Tableau,Applied,Resume_V3,No Date Finalized,2026-11-09,8.8,naukri.com
+990,Amazon,Reporting Analyst,Hyderabad,Remote,2026-02-20,Company Website,1-2 Years,Tableau;Data Visualization;Statistics,Applied,Resume_V1,No Date Finalized,2026-02-28,6.6,company-careers.example
+991,Accenture,MIS Analyst,Pune,Remote,2025-04-25,Internshala,3-5 Years,ETL;Communication;Python;Power BI,Applied,Resume_V3,No Date Finalized,2025-05-14,9.7,internshala.com
+992,Wipro,Power BI Developer,Remote,Onsite,2026-02-19,Naukri,Fresher,Statistics;ETL;Communication;Power BI;SQL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,13.1,naukri.com
+993,Tech Mahindra,Data Operations Analyst,Mumbai,Remote,2025-08-19,Indeed,Fresher,Data Visualization;Power BI;ETL,Shortlisted,Resume_V2,2025-09-04,No Follow Up Date,5.5,indeed.com
+994,Paytm,Business Intelligence Analyst,Remote,Hybrid,2025-09-07,Internshala,1-2 Years,Data Visualization;Pandas;Power BI;Communication,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,4.9,internshala.com
+995,Accenture,Business Analyst,Noida,Onsite,2026-01-08,Indeed,0-1 Years,Statistics;Communication;Power BI;Python,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,8.9,indeed.com
+996,KPMG,MIS Analyst,Chennai,Hybrid,2026-08-16,Internshala,3-5 Years,Data Visualization;ETL;Statistics;Excel;Tableau,Applied,Resume_V1,No Date Finalized,No Follow Up Date,5.4,internshala.com
+997,Infosys,Reporting Analyst,Chennai,Onsite,2026-04-17,LinkedIn,0-1 Years,Excel;ETL;Data Visualization,Interview,Resume_V1,2026-05-07,No Follow Up Date,9.1,linkedin.com/jobs
+998,HCLTech,Business Intelligence Analyst,Mumbai,Onsite,2025-12-29,Internshala,2-3 Years,Excel;Data Visualization;Pandas;Statistics,Applied,Resume_V2,No Date Finalized,No Follow Up Date,11.4,internshala.com
+999,Persistent Systems,Data Analyst,Noida,Onsite,2026-07-06,Internshala,Fresher,Python;ETL;Statistics;Pandas,Interview,Resume_V1,2026-07-20,2026-07-27,2.9,internshala.com
+1000,Flipkart,Junior Data Analyst,Noida,Remote,2026-09-21,Naukri,Fresher,Communication;Python;ETL,Applied,Resume_V2,No Date Finalized,2026-09-29,3.1,naukri.com
+1001,Cognizant,Business Intelligence Analyst,Delhi,Hybrid,2026-08-11,Company Website,Fresher,Data Visualization;Python;Statistics;SQL;Excel,Interview,Resume_V1,2026-09-06,2026-08-27,6.3,company-careers.example
+1002,Infosys,Data Analyst,Noida,Remote,2025-09-24,Indeed,0-1 Years,SQL;ETL;Tableau;Excel,Applied,Resume_V1,No Date Finalized,2025-09-29,12.6,indeed.com
+1003,Flipkart,Business Analyst,Kolkata,Remote,2026-06-26,LinkedIn,1-2 Years,Communication;Statistics;SQL;Data Visualization;Pandas,Applied,Resume_V1,No Date Finalized,2026-07-08,9.9,linkedin.com/jobs
+1004,Wipro,Power BI Developer,Delhi,Remote,2025-06-08,Naukri,1-2 Years,Python;Data Visualization;Excel;Tableau;ETL,Interview,Resume_V3,2025-07-01,2025-06-25,13.3,naukri.com
+1005,Swiggy,Business Intelligence Analyst,Chennai,Remote,2025-07-04,Company Website,3-5 Years,Communication;Python;Statistics,Interview,Resume_V1,2025-07-14,No Follow Up Date,13.3,company-careers.example
+1006,Zomato,Junior Data Analyst,Kolkata,Remote,2025-12-13,Naukri,1-2 Years,Excel;Statistics;Communication;Power BI,Applied,Resume_V3,No Date Finalized,2025-12-31,11.9,naukri.com
+1007,LTIMindtree,Business Intelligence Analyst,Gurgaon,Hybrid,2026-07-31,Naukri,Fresher,Statistics;Python;Data Visualization;Pandas,Interview,Resume_V2,2026-08-22,2026-08-20,5.0,naukri.com
+1008,Deloitte,Business Analyst,Noida,Onsite,2025-01-25,Indeed,Fresher,Tableau;Excel;ETL;SQL,Shortlisted,Resume_V3,2025-03-03,No Follow Up Date,13.4,indeed.com
+1009,Infosys,MIS Analyst,Pune,Hybrid,2025-01-29,Indeed,0-1 Years,Excel;Pandas;Python;Tableau;Data Visualization,Applied,Resume_V1,No Date Finalized,2025-02-07,10.4,indeed.com
+1010,Wipro,Power BI Developer,Bangalore,Remote,2025-11-24,Internshala,1-2 Years,Communication;Excel;ETL;Power BI;SQL,Applied,Resume_V1,No Date Finalized,2025-12-03,12.9,internshala.com
+1011,IBM,Business Intelligence Analyst,Remote,Onsite,2026-02-04,Indeed,1-2 Years,Excel;Python;ETL;Tableau,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,5.6,indeed.com
+1012,Genpact,Data Analyst,Chennai,Remote,2025-10-07,Company Website,0-1 Years,Power BI;Data Visualization;Tableau;ETL,Applied,Resume_V1,No Date Finalized,2025-10-23,2.9,company-careers.example
+1013,IBM,Business Intelligence Analyst,Delhi,Onsite,2026-10-15,LinkedIn,1-2 Years,ETL;Statistics;Python,Applied,Resume_V2,No Date Finalized,2026-11-02,13.4,linkedin.com/jobs
+1014,Paytm,Data Analyst,Chennai,Hybrid,2026-08-07,Company Website,Fresher,SQL;ETL;Data Visualization,Applied,Resume_V1,No Date Finalized,No Follow Up Date,5.0,company-careers.example
+1015,Amazon,Data Analyst,Kolkata,Remote,2025-08-23,LinkedIn,0-1 Years,Pandas;Statistics;Data Visualization,Applied,Resume_V3,No Date Finalized,2025-08-28,11.1,linkedin.com/jobs
+1016,Infosys,Business Intelligence Analyst,Gurgaon,Remote,2025-11-22,Indeed,1-2 Years,Python;Statistics;Data Visualization;SQL,Applied,Resume_V3,No Date Finalized,2025-11-29,12.9,indeed.com
+1017,Deloitte,Business Analyst,Hyderabad,Onsite,2025-03-07,Indeed,1-2 Years,Data Visualization;Excel;Communication;ETL;SQL,Applied,Resume_V1,No Date Finalized,No Follow Up Date,9.5,indeed.com
+1018,Tech Mahindra,Data Analyst,Gurgaon,Remote,2025-04-25,Internshala,3-5 Years,Python;Statistics;ETL;Excel;SQL,Interview,Resume_V1,2025-05-13,2025-04-28,12.9,internshala.com
+1019,Flipkart,Business Intelligence Analyst,Delhi,Onsite,2026-02-01,LinkedIn,3-5 Years,Excel;ETL;SQL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,3.0,linkedin.com/jobs
+1020,KPMG,MIS Analyst,Hyderabad,Hybrid,2026-04-06,Company Website,0-1 Years,Tableau;Statistics;Data Visualization;Power BI;SQL,Offer,Resume_V2,2026-04-18,No Follow Up Date,7.9,company-careers.example
+1021,Swiggy,MIS Analyst,Gurgaon,Remote,2025-09-21,Indeed,1-2 Years,Excel;Pandas;Tableau;SQL;Communication,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,8.0,indeed.com
+1022,Capgemini,MIS Analyst,Mumbai,Onsite,2026-02-20,Company Website,0-1 Years,Statistics;Communication;Pandas;SQL,Shortlisted,Resume_V3,2026-03-27,2026-03-07,10.9,company-careers.example
+1023,Capgemini,Business Intelligence Analyst,Hyderabad,Hybrid,2025-07-19,Internshala,Fresher,Data Visualization;ETL;Pandas;Python,Offer,Resume_V3,2025-08-16,No Follow Up Date,10.0,internshala.com
+1024,Cognizant,Business Intelligence Analyst,Kolkata,Hybrid,2026-10-30,Internshala,0-1 Years,Excel;Power BI;ETL;Python,Shortlisted,Resume_V2,No Date Finalized,No Follow Up Date,9.0,internshala.com
+1025,Capgemini,Business Analyst,Gurgaon,Hybrid,2025-01-25,Naukri,2-3 Years,Communication;Python;Pandas;Tableau,Interview,Resume_V1,2025-02-11,No Follow Up Date,11.6,naukri.com
+1026,Accenture,Junior Data Analyst,Bangalore,Remote,2025-05-14,Company Website,Fresher,Communication;ETL;Excel;Statistics,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,3.9,company-careers.example
+1027,EY,Data Operations Analyst,Chennai,Hybrid,2025-04-03,Naukri,0-1 Years,Python;Power BI;Tableau;Pandas;Excel,Applied,Resume_V2,No Date Finalized,No Follow Up Date,6.9,naukri.com
+1028,Swiggy,Data Operations Analyst,Delhi,Onsite,2025-11-07,Naukri,0-1 Years,Pandas;SQL;Communication,Applied,Resume_V1,No Date Finalized,No Follow Up Date,4.6,naukri.com
+1029,TCS,Reporting Analyst,Chennai,Onsite,2025-05-31,LinkedIn,3-5 Years,Pandas;Data Visualization;Communication,Offer,Resume_V1,2025-06-08,No Follow Up Date,8.1,linkedin.com/jobs
+1030,HCLTech,Power BI Developer,Gurgaon,Remote,2026-04-04,Company Website,Fresher,Communication;Statistics;ETL;Excel;Python,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,3.6,company-careers.example
+1031,Zomato,Business Intelligence Analyst,Hyderabad,Hybrid,2025-07-21,Indeed,1-2 Years,SQL;Statistics;Data Visualization;Excel,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,9.8,indeed.com
+1032,Amazon,Business Intelligence Analyst,Noida,Remote,2026-06-10,Company Website,1-2 Years,Python;Excel;Power BI;Statistics,Applied,Resume_V3,No Date Finalized,2026-06-13,6.2,company-careers.example
+1033,Genpact,Business Intelligence Analyst,Bangalore,Onsite,2026-04-15,Naukri,1-2 Years,Excel;Communication;Tableau;Power BI;SQL,Interview,Resume_V3,2026-04-30,No Follow Up Date,12.9,naukri.com
+1034,Capgemini,Data Operations Analyst,Delhi,Hybrid,2026-01-20,Company Website,Fresher,Statistics;Python;Communication;Data Visualization,Applied,Resume_V2,No Date Finalized,No Follow Up Date,5.7,company-careers.example
+1035,Cognizant,Reporting Analyst,Pune,Remote,2025-03-28,Indeed,3-5 Years,SQL;Excel;Python;Pandas;ETL,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,5.5,indeed.com
+1036,Amazon,Reporting Analyst,Pune,Onsite,2025-03-31,LinkedIn,Fresher,Excel;Statistics;SQL;Data Visualization;Tableau,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,9.8,linkedin.com/jobs
+1037,Tech Mahindra,MIS Analyst,Bangalore,Onsite,2025-05-23,LinkedIn,Fresher,SQL;Communication;Excel,Applied,Resume_V2,No Date Finalized,No Follow Up Date,7.6,linkedin.com/jobs
+1038,Infosys,Data Operations Analyst,Hyderabad,Onsite,2025-11-25,Company Website,Fresher,Python;Data Visualization;Tableau;Statistics;Pandas,Interview,Resume_V1,2025-12-06,2025-12-04,9.4,company-careers.example
+1039,Accenture,MIS Analyst,Hyderabad,Hybrid,2025-06-30,Indeed,0-1 Years,ETL;Power BI;SQL,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,10.7,indeed.com
+1040,Paytm,Data Analyst,Delhi,Hybrid,2026-02-09,Internshala,0-1 Years,Tableau;Power BI;Pandas;Python;Data Visualization,Interview,Resume_V1,2026-03-04,2026-02-25,11.0,internshala.com
+1041,EY,Reporting Analyst,Remote,Onsite,2025-03-05,Internshala,Fresher,SQL;Data Visualization;Excel;Statistics,Applied,Resume_V3,No Date Finalized,2025-03-09,10.4,internshala.com
+1042,Capgemini,MIS Analyst,Remote,Remote,2025-09-26,Indeed,Fresher,Tableau;Data Visualization;Statistics;Communication,Interview,Resume_V3,2025-10-11,2025-10-14,14.0,indeed.com
+1043,Genpact,Business Intelligence Analyst,Bangalore,Remote,2025-12-28,Indeed,1-2 Years,Data Visualization;Communication;ETL;SQL,Applied,Resume_V2,No Date Finalized,No Follow Up Date,4.4,indeed.com
+1044,Genpact,Data Operations Analyst,Hyderabad,Hybrid,2026-10-10,Naukri,1-2 Years,Communication;Python;Power BI,Applied,Resume_V1,No Date Finalized,2026-10-26,3.9,naukri.com
+1045,Infosys,Reporting Analyst,Pune,Remote,2025-01-23,Internshala,1-2 Years,Data Visualization;Pandas;ETL;Communication;SQL,Shortlisted,Resume_V3,2025-02-16,2025-02-10,8.3,internshala.com
+1046,Deloitte,Business Intelligence Analyst,Remote,Remote,2026-05-04,Naukri,3-5 Years,Data Visualization;Excel;Tableau;Statistics,Interview,Resume_V1,2026-05-13,2026-05-22,4.6,naukri.com
+1047,LTIMindtree,MIS Analyst,Mumbai,Hybrid,2026-06-27,Naukri,0-1 Years,Communication;Data Visualization;SQL;Excel,Applied,Resume_V2,No Date Finalized,No Follow Up Date,7.8,naukri.com
+1048,Zomato,MIS Analyst,Remote,Onsite,2026-10-12,Indeed,0-1 Years,Statistics;Communication;Power BI;SQL;Python,Offer,Resume_V1,2026-11-01,No Follow Up Date,11.6,indeed.com
+1049,Persistent Systems,Power BI Developer,Pune,Hybrid,2026-05-16,LinkedIn,2-3 Years,Python;Statistics;SQL;Tableau,Interview,Resume_V1,2026-06-18,2026-06-04,8.3,linkedin.com/jobs
+1050,Persistent Systems,Data Operations Analyst,Kolkata,Remote,2025-10-10,LinkedIn,1-2 Years,Power BI;Communication;Excel;Python,Interview,Resume_V2,2025-10-26,No Follow Up Date,6.8,linkedin.com/jobs
+1051,Capgemini,Power BI Developer,Mumbai,Hybrid,2026-05-12,Internshala,2-3 Years,Power BI;Communication;SQL;Python;Statistics,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,3.5,internshala.com
+1052,HCLTech,Data Operations Analyst,Gurgaon,Onsite,2025-01-12,LinkedIn,0-1 Years,Pandas;SQL;Statistics,Applied,Resume_V3,No Date Finalized,2025-01-24,8.0,linkedin.com/jobs
+1053,EY,Data Analyst,Pune,Remote,2026-03-31,Company Website,1-2 Years,Power BI;Data Visualization;Tableau;SQL,Interview,Resume_V3,2026-04-08,No Follow Up Date,9.4,company-careers.example
+1054,Persistent Systems,Data Analyst,Delhi,Hybrid,2026-05-04,Internshala,3-5 Years,Pandas;Statistics;Communication,Applied,Resume_V3,No Date Finalized,2026-05-19,4.8,internshala.com
+1055,Paytm,Business Analyst,Mumbai,Remote,2025-02-10,LinkedIn,1-2 Years,Python;Data Visualization;SQL;Excel;ETL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,4.5,linkedin.com/jobs
+1056,HCLTech,Junior Data Analyst,Mumbai,Hybrid,2025-12-13,Company Website,0-1 Years,ETL;Excel;Pandas;Statistics,Applied,Resume_V1,No Date Finalized,2025-12-18,11.6,company-careers.example
+1057,Tech Mahindra,Business Analyst,Hyderabad,Onsite,2025-09-25,LinkedIn,1-2 Years,Power BI;Data Visualization;Excel,Applied,Resume_V2,No Date Finalized,2025-10-15,3.3,linkedin.com/jobs
+1058,Infosys,MIS Analyst,Mumbai,Onsite,2026-02-01,Indeed,2-3 Years,Excel;Pandas;SQL;Communication,Interview,Resume_V1,2026-02-27,2026-02-20,5.0,indeed.com
+1059,Persistent Systems,Power BI Developer,Delhi,Onsite,2025-12-24,Internshala,1-2 Years,Pandas;Power BI;Python,Interview,Resume_V3,2026-01-16,No Follow Up Date,8.8,internshala.com
+1060,Deloitte,Data Operations Analyst,Bangalore,Hybrid,2026-02-02,Indeed,3-5 Years,Statistics;Tableau;Pandas,Applied,Resume_V3,No Date Finalized,2026-02-13,4.1,indeed.com
+1061,Capgemini,MIS Analyst,Remote,Onsite,2026-06-09,Naukri,1-2 Years,SQL;Excel;Pandas,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,11.8,naukri.com
+1062,IBM,MIS Analyst,Kolkata,Remote,2025-08-08,Indeed,1-2 Years,Data Visualization;Excel;Power BI;Tableau,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,12.8,indeed.com
+1063,Genpact,Business Analyst,Chennai,Hybrid,2025-08-10,Indeed,3-5 Years,Data Visualization;Pandas;Statistics,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,7.9,indeed.com
+1064,Persistent Systems,Data Analyst,Bangalore,Hybrid,2025-10-20,Naukri,Fresher,Communication;SQL;Excel,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,12.4,naukri.com
+1065,LTIMindtree,Reporting Analyst,Pune,Hybrid,2026-04-01,Naukri,2-3 Years,Excel;Statistics;Power BI,Applied,Resume_V3,No Date Finalized,No Follow Up Date,10.0,naukri.com
+1066,TCS,Data Operations Analyst,Hyderabad,Remote,2025-01-23,Indeed,Fresher,Tableau;Data Visualization;Power BI,Applied,Resume_V1,No Date Finalized,2025-01-29,4.1,indeed.com
+1067,Capgemini,Junior Data Analyst,Gurgaon,Onsite,2025-08-29,Indeed,2-3 Years,Excel;Data Visualization;SQL;Statistics,Shortlisted,Resume_V1,No Date Finalized,No Follow Up Date,10.5,indeed.com
+1068,Capgemini,Power BI Developer,Bangalore,Onsite,2025-02-08,Internshala,1-2 Years,SQL;Tableau;ETL,Shortlisted,Resume_V1,No Date Finalized,2025-02-11,10.9,internshala.com
+1069,Infosys,Power BI Developer,Noida,Remote,2025-08-29,Internshala,3-5 Years,ETL;Data Visualization;Power BI;Statistics,Interview,Resume_V2,2025-09-28,2025-09-02,12.3,internshala.com
+1070,KPMG,Business Intelligence Analyst,Hyderabad,Onsite,2026-04-13,Internshala,2-3 Years,Statistics;Communication;Python,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,6.4,internshala.com
+1071,LTIMindtree,Junior Data Analyst,Remote,Hybrid,2026-04-24,Indeed,0-1 Years,Data Visualization;ETL;Pandas,Withdrawn,Resume_V2,No Date Finalized,No Follow Up Date,6.8,indeed.com
+1072,Swiggy,Business Analyst,Remote,Remote,2026-01-03,Naukri,0-1 Years,Statistics;ETL;Python,Interview,Resume_V3,2026-01-22,No Follow Up Date,9.5,naukri.com
+1073,Swiggy,Business Analyst,Mumbai,Onsite,2026-02-10,Internshala,1-2 Years,Excel;ETL;SQL;Tableau;Communication,Applied,Resume_V2,No Date Finalized,2026-02-16,5.7,internshala.com
+1074,LTIMindtree,Junior Data Analyst,Mumbai,Onsite,2025-04-30,Indeed,2-3 Years,Pandas;ETL;Communication;SQL;Tableau,Applied,Resume_V1,No Date Finalized,No Follow Up Date,6.7,indeed.com
+1075,Deloitte,MIS Analyst,Gurgaon,Hybrid,2025-07-12,Internshala,0-1 Years,Data Visualization;Python;SQL,Interview,Resume_V3,2025-08-14,No Follow Up Date,10.6,internshala.com
+1076,Accenture,Junior Data Analyst,Delhi,Hybrid,2026-10-16,LinkedIn,Fresher,Excel;Tableau;SQL,Applied,Resume_V2,No Date Finalized,No Follow Up Date,5.1,linkedin.com/jobs
+1077,Zomato,Data Operations Analyst,Remote,Onsite,2026-01-02,Indeed,Fresher,Pandas;Statistics;Power BI;Python,Interview,Resume_V3,2026-01-07,No Follow Up Date,7.6,indeed.com
+1078,Genpact,Junior Data Analyst,Gurgaon,Onsite,2026-05-19,Company Website,3-5 Years,Statistics;Excel;Tableau;Communication,Withdrawn,Resume_V3,No Date Finalized,No Follow Up Date,8.1,company-careers.example
+1079,Accenture,Data Operations Analyst,Delhi,Onsite,2025-12-26,Company Website,Fresher,Pandas;Excel;Data Visualization,Offer,Resume_V1,2026-01-21,No Follow Up Date,11.3,company-careers.example
+1080,Infosys,Reporting Analyst,Delhi,Onsite,2025-09-09,LinkedIn,2-3 Years,Pandas;Statistics;Power BI;Tableau,Interview,Resume_V1,2025-10-06,No Follow Up Date,13.8,linkedin.com/jobs
+1081,IBM,Business Intelligence Analyst,Kolkata,Onsite,2026-09-21,Internshala,Fresher,Excel;ETL;Data Visualization;Communication;Tableau,Applied,Resume_V2,No Date Finalized,2026-09-28,4.8,internshala.com
+1082,Wipro,Business Analyst,Pune,Remote,2026-08-23,Company Website,2-3 Years,Python;Excel;Tableau;Data Visualization,Applied,Resume_V2,No Date Finalized,2026-08-31,6.5,company-careers.example
+1083,Zomato,Data Operations Analyst,Mumbai,Onsite,2025-09-13,Naukri,2-3 Years,Excel;Tableau;Python;SQL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,6.6,naukri.com
+1084,KPMG,Junior Data Analyst,Gurgaon,Hybrid,2025-04-29,LinkedIn,Fresher,Data Visualization;Statistics;Pandas;Excel,Applied,Resume_V2,No Date Finalized,2025-05-20,10.7,linkedin.com/jobs
+1085,Accenture,Business Analyst,Mumbai,Hybrid,2026-03-23,Company Website,3-5 Years,ETL;Power BI;Python;Excel,Shortlisted,Resume_V2,2026-04-03,2026-04-06,3.1,company-careers.example
+1086,Deloitte,Business Analyst,Gurgaon,Remote,2026-07-25,Internshala,1-2 Years,SQL;ETL;Excel;Communication,Applied,Resume_V1,No Date Finalized,2026-08-02,5.1,internshala.com
+1087,Tech Mahindra,Data Operations Analyst,Mumbai,Remote,2026-06-07,LinkedIn,2-3 Years,Tableau;ETL;Excel;Python;SQL,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,6.4,linkedin.com/jobs
+1088,Accenture,Data Operations Analyst,Kolkata,Remote,2026-05-06,Internshala,3-5 Years,Python;Communication;ETL,Applied,Resume_V1,No Date Finalized,2026-05-26,12.4,internshala.com
+1089,Infosys,Reporting Analyst,Gurgaon,Remote,2025-09-10,Indeed,0-1 Years,Tableau;Pandas;Excel,Interview,Resume_V3,2025-09-28,No Follow Up Date,11.2,indeed.com
+1090,Persistent Systems,Power BI Developer,Chennai,Remote,2026-01-18,Naukri,2-3 Years,Python;Data Visualization;Pandas;Statistics;ETL,Applied,Resume_V3,No Date Finalized,No Follow Up Date,4.6,naukri.com
+1091,EY,Power BI Developer,Kolkata,Onsite,2025-02-01,Naukri,1-2 Years,Excel;Statistics;Tableau;Power BI;Python,Applied,Resume_V2,No Date Finalized,No Follow Up Date,8.0,naukri.com
+1092,IBM,Power BI Developer,Remote,Onsite,2026-04-27,Company Website,0-1 Years,ETL;Communication;SQL;Python,Shortlisted,Resume_V2,2026-05-12,2026-05-02,9.8,company-careers.example
+1093,IBM,Power BI Developer,Remote,Hybrid,2025-11-28,Naukri,0-1 Years,Tableau;Power BI;Statistics;Communication,Offer,Resume_V3,2025-12-21,No Follow Up Date,10.4,naukri.com
+1094,Amazon,Business Analyst,Pune,Onsite,2025-05-23,Indeed,1-2 Years,Statistics;ETL;Communication,Rejected,Resume_V3,No Date Finalized,No Follow Up Date,5.1,indeed.com
+1095,IBM,Data Operations Analyst,Kolkata,Hybrid,2025-09-10,Indeed,0-1 Years,Data Visualization;Statistics;Power BI,Applied,Resume_V2,No Date Finalized,No Follow Up Date,7.2,indeed.com
+1096,Flipkart,Data Operations Analyst,Kolkata,Onsite,2026-09-13,Internshala,1-2 Years,Excel;SQL;Power BI;Pandas,Applied,Resume_V3,No Date Finalized,2026-09-28,13.3,internshala.com
+1097,Cognizant,Junior Data Analyst,Noida,Remote,2026-08-05,Company Website,Fresher,SQL;Data Visualization;Pandas;Power BI;Python,Shortlisted,Resume_V1,2026-09-08,No Follow Up Date,4.1,company-careers.example
+1098,Wipro,Reporting Analyst,Remote,Onsite,2025-10-12,LinkedIn,1-2 Years,Pandas;Power BI;Excel;Statistics;Tableau,Applied,Resume_V2,No Date Finalized,2025-10-19,3.5,linkedin.com/jobs
+1099,Tech Mahindra,Business Analyst,Gurgaon,Remote,2026-03-17,Indeed,3-5 Years,Statistics;Power BI;Python;Excel;Tableau,Applied,Resume_V3,No Date Finalized,2026-04-07,9.3,indeed.com
+1100,LTIMindtree,MIS Analyst,Mumbai,Hybrid,2025-01-18,LinkedIn,3-5 Years,Communication;Tableau;Data Visualization;Excel;Pandas,Withdrawn,Resume_V1,No Date Finalized,No Follow Up Date,5.6,linkedin.com/jobs
+1101,Persistent Systems,Business Intelligence Analyst,Chennai,Remote,2025-06-27,LinkedIn,0-1 Years,Power BI;Tableau;Pandas,Offer,Resume_V1,2025-07-10,No Follow Up Date,9.3,linkedin.com/jobs
+1102,Paytm,Reporting Analyst,Noida,Remote,2025-03-25,Company Website,2-3 Years,Pandas;Excel;Tableau;SQL;Statistics,Applied,Resume_V3,No Date Finalized,2025-04-01,8.3,company-careers.example
+1103,Capgemini,MIS Analyst,Noida,Hybrid,2026-09-23,Indeed,2-3 Years,SQL;Pandas;Python,Applied,Resume_V2,No Date Finalized,2026-10-02,11.6,indeed.com
+1104,Genpact,Reporting Analyst,Noida,Hybrid,2025-09-12,LinkedIn,Fresher,Communication;Power BI;SQL;ETL;Statistics,Interview,Resume_V2,2025-10-15,2025-09-30,11.8,linkedin.com/jobs
+1105,Cognizant,MIS Analyst,Remote,Onsite,2026-03-23,Indeed,3-5 Years,Power BI;Tableau;Statistics;Python,Interview,Resume_V3,2026-04-26,2026-04-08,8.2,indeed.com
+1106,Cognizant,Junior Data Analyst,Remote,Onsite,2026-06-28,LinkedIn,3-5 Years,Statistics;Excel;Power BI;ETL,Rejected,Resume_V1,No Date Finalized,No Follow Up Date,10.7,linkedin.com/jobs
+1107,Cognizant,MIS Analyst,Gurgaon,Hybrid,2025-09-14,Company Website,0-1 Years,Tableau;Python;Pandas,Applied,Resume_V3,No Date Finalized,No Follow Up Date,5.9,company-careers.example
+1108,Capgemini,Junior Data Analyst,Pune,Remote,2025-03-10,Internshala,1-2 Years,Python;Tableau;Data Visualization;Power BI;SQL,Applied,Resume_V1,No Date Finalized,2025-03-14,5.4,internshala.com
+1109,EY,Business Analyst,Delhi,Onsite,2026-07-01,Naukri,Fresher,ETL;Python;Power BI,Applied,Resume_V3,No Date Finalized,2026-07-15,11.6,naukri.com
+1110,HCLTech,MIS Analyst,Remote,Hybrid,2026-06-01,Company Website,3-5 Years,Python;Excel;Data Visualization,Rejected,Resume_V2,No Date Finalized,No Follow Up Date,4.5,company-careers.example
