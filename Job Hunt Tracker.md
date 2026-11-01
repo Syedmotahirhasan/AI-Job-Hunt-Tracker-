@@ -47,13 +47,14 @@ The project follows separate analytics and AI workflows using job application da
 
 ### Project Flowchart
 
-```mermaid
 flowchart TD
-    A["Excel Job Application Dataset"] --> B["Python and Pandas"]
+    A["Excel Job Application Dataset (1,010 Records)"] --> B["Python and Pandas"]
     B --> C["Data Cleaning and Transformation"]
     C --> D["Cleaned Dataset"]
 
-    D --> E["SQL Analysis"]
+    D --> E["SQL Analysis (Basic & Advanced Queries)"]
+    E --> E1["SELECT, WHERE, GROUP BY, JOIN"]
+    E --> E2["Window Functions, CTEs & Subqueries"]
 
     A --> F["Power BI"]
     F --> G["Power Query Data Cleaning"]
@@ -72,6 +73,8 @@ flowchart TD
     style C fill:#E5F4E8,stroke:#40945A,color:#174D29
     style D fill:#DCEEFF,stroke:#3478B8,color:#173B5E
     style E fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style E1 fill:#E5F4E8,stroke:#40945A,color:#174D29
+    style E2 fill:#E5F4E8,stroke:#40945A,color:#174D29
     style F fill:#E5F4E8,stroke:#40945A,color:#174D29
     style G fill:#E5F4E8,stroke:#40945A,color:#174D29
     style H fill:#DCEEFF,stroke:#3478B8,color:#173B5E
@@ -82,7 +85,7 @@ flowchart TD
     style M fill:#F0E7FF,stroke:#8961C5,color:#42276D
     style N fill:#E5F4E8,stroke:#40945A,color:#174D29
     style O fill:#FCECCF,stroke:#D69A28,color:#694609
-```
+    ...
 
 **Note:** Power BI uses the original Excel dataset and performs its own cleaning through Power Query. Python prepares the dataset used for SQL analysis and the summarized information sent to Gemini. The Power BI dashboard and Gemini report are separate outputs.
 
