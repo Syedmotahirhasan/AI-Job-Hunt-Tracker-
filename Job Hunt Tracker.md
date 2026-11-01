@@ -1,64 +1,76 @@
-# 🤖 Job Hunt Tracker
-### A Data Analytics Project with Generative AI Integration
+🤖 Job Hunt Tracker
+An AI-Integrated Data Analytics Project
+A portfolio project combining Excel, Python, SQL, Power BI and the
+Google Gemini API to analyse job application data and generate
+AI-assisted written insights.
+Dataset note: This project uses 1,010 fictional job application
+records for learning and demonstration. The records do not represent
+real applications, candidates, interviews, offers or hiring outcomes.
 
+📌 Project Overview
+Job Hunt Tracker is a data analytics project built around a fictional
+job application dataset. Excel is used to store the data, Python and
+Pandas are used for data cleaning and summaries, SQL is used to query
+and analyse the records, and Power BI is used to create an interactive
+dashboard.
 
+The project also includes a Generative AI component. Python sends
+summarized job application information and a prompt to the Google Gemini
+API. Gemini generates written observations and general career
+recommendations, which Python saves into a Word report.
 
-## 📌 Project Overview
+The Power BI dashboard and Gemini-generated report are separate outputs.
+Gemini is not directly connected to the Power BI dashboard.
+🎯 Problem Statement
+Job seekers may apply to multiple companies through different job
+portals. Keeping track of company names, job roles, application dates,
+statuses, locations and follow-ups can become difficult.
 
- Job Hunt Tracker is a job application data analytics project that uses Excel, Python, SQL and Power BI to track and analyse job application records.
-
-The project also includes Generative AI integration using the Google Gemini API. Python sends summarized job application data to Gemini, which generates written insights and career recommendations. Python then saves the AI-generated content into a Word report.
-
-The project demonstrates how traditional data analytics tools and Generative AI can be used together to understand job application data.
-
-## 🎯 Problem Statement
-
-Job seekers often apply to multiple companies through different job portals such as LinkedIn, Naukri, Indeed and company career websites.
-
-Keeping track of company names, job roles, application statuses, interview dates and follow-ups can become difficult.
-
-This project explores how data analytics can help organize job application records, monitor application progress and understand job search trends.
-
-## 🎯 Project Objectives
-
-- Create a sample job application dataset using Excel.
+This project explores how data analytics can be used to organize
+fictional job application records, review application patterns and
+present useful summaries.
+🎯 Project Objectives
+- Create and maintain a fictional job application dataset.
 - Clean and transform data using Python and Pandas.
-- Perform data analysis using SQL.
+- Query and analyse application records using SQL.
+- Practise basic and advanced SQL concepts.
 - Build an interactive Power BI dashboard.
-- Integrate Google Gemini API to generate AI-based insights and recommendations.
-- Generate a Word report containing AI-generated content using Python.
+- Integrate the Google Gemini API with Python.
+- Generate AI-assisted written insights and career recommendations.
+- Save the generated content in a Word report.
+🛠️ Tools and Technologies
+  Technology                          Purpose
+  Microsoft Excel                     Dataset creation and storage
 
-## 🛠️ Tools and Technologies
+  Python                              Data processing, summaries and
+report generation
 
-| Technology | Purpose |
-|---|---|
-| Microsoft Excel | Dataset creation and storage |
-| Python | Data cleaning, analysis and report generation |
-| Pandas | Data manipulation and analysis |
-| SQL | Data querying and analysis |
-| Power BI | Interactive dashboard and visualization |
-| Google Gemini API | Generating insights and recommendations |
-| Google Colab | Python development environment |
-| Python-docx | Creating Word reports |
+  Pandas                              Data cleaning and manipulation
 
-## 🔄 Project Workflow
+  SQL                                 Data querying and analysis
 
-The project follows separate analytics and AI workflows using job application data.
+  Power BI                            Dashboard and visualisation
 
-### Project Flowchart
-## Project Flowchart
+  Power Query                         Data cleaning in Power BI
 
-## Project Flowchart
+  Google Gemini API                   AI-generated written insights and
+recommendations
 
+  Google Colab                        Python development environment
+python-docx                         Word report generation
+🔄 Project Workflow
+The project has three related but separate paths: Python and SQL
+analysis, Power BI dashboard development, and Gemini-assisted report
+generation.
 ```mermaid
 flowchart TD
-    A["Excel Job Application Dataset (1,010 Records)"] --> B["Python and Pandas"]
+    A["Excel Job Application Dataset (1,010 Fictional Records)"] --> B["Python and Pandas"]
     B --> C["Data Cleaning and Transformation"]
     C --> D["Cleaned Dataset"]
 
-    D --> E["SQL Analysis (Basic & Advanced Queries)"]
-    E --> E1["SELECT, WHERE, GROUP BY, JOIN"]
-    E --> E2["Window Functions, CTEs & Subqueries"]
+    D --> E["SQL Analysis"]
+    E --> E1["Basic Queries: SELECT, WHERE, GROUP BY, JOIN"]
+    E --> E2["Advanced Queries: Window Functions, CTEs and Subqueries"]
 
     A --> F["Power BI"]
     F --> G["Power Query Data Cleaning"]
@@ -67,39 +79,17 @@ flowchart TD
     D --> I["Python Data Summaries"]
     I --> J["Prompt Generation"]
     J --> K["Google Gemini API"]
-    K --> L["AI-Generated Insights"]
-    L --> M["Career Recommendations"]
-    M --> N["Python Report Generation"]
-    N --> O["Word Report"]
-
-    style A fill:#DCEEFF,stroke:#3478B8,color:#173B5E
-    style B fill:#E5F4E8,stroke:#40945A,color:#174D29
-    style C fill:#E5F4E8,stroke:#40945A,color:#174D29
-    style D fill:#DCEEFF,stroke:#3478B8,color:#173B5E
-    style E fill:#E5F4E8,stroke:#40945A,color:#174D29
-    style E1 fill:#E5F4E8,stroke:#40945A,color:#174D29
-    style E2 fill:#E5F4E8,stroke:#40945A,color:#174D29
-    style F fill:#E5F4E8,stroke:#40945A,color:#174D29
-    style G fill:#E5F4E8,stroke:#40945A,color:#174D29
-    style H fill:#DCEEFF,stroke:#3478B8,color:#173B5E
-    style I fill:#E5F4E8,stroke:#40945A,color:#174D29
-    style J fill:#E5F4E8,stroke:#40945A,color:#174D29
-    style K fill:#F0E7FF,stroke:#8961C5,color:#42276D
-    style L fill:#F0E7FF,stroke:#8961C5,color:#42276D
-    style M fill:#F0E7FF,stroke:#8961C5,color:#42276D
-    style N fill:#E5F4E8,stroke:#40945A,color:#174D29
-    style O fill:#FCECCF,stroke:#D69A28,color:#694609
+    K --> L["AI-Generated Insights and Recommendations"]
+    L --> M["Python Report Generation"]
+    M --> N["Word Report"]
 ```
-**Note:** Power BI uses the original Excel dataset and performs its own cleaning through Power Query. Python prepares the dataset used for SQL analysis and the summarized information sent to Gemini. The Power BI dashboard and Gemini report are separate outputs.
-
-## 📊 Project Implementation
-
-### 1. Data Collection – Excel
-
-Created a sample dataset containing 10 fictional job application records.
-
-The dataset includes:
-
+Workflow note: Power BI imports the Excel dataset and performs its
+own cleaning in Power Query. Python prepares data for SQL analysis and
+creates summarized information for Gemini. The dashboard and Word report
+are separate project outputs.
+📊 Dataset
+The dataset contains 1,010 fictional job application records. Fields
+include:
 - Application ID
 - Company Name
 - Job Role
@@ -114,143 +104,130 @@ The dataset includes:
 - Interview Date
 - Follow-up Date
 - Salary (LPA)
+- Job URL
+All records are illustrative sample data.
+📊 Project Implementation
+1. Dataset Preparation -- Excel
+Created and expanded a fictional job application dataset for analysis
+and demonstration.
+2. Data Cleaning and Summaries -- Python and Pandas
+Used Python and Pandas to inspect, clean, transform and summarize the
+dataset. This included checking missing values and duplicates,
+standardising text values, handling date and numeric fields, and
+generating summary information.
+3. SQL Analysis
+Used SQL to retrieve and analyse job application records.
 
-### 2. Data Cleaning and Analysis – Python & Pandas
-
-Used Python and Pandas to:
-
-- Inspect the dataset.
-- Check missing values and duplicate records.
-- Standardize column names and text values.
-- Convert date columns into appropriate formats.
-- Convert salary values into numeric format.
-- Validate data types and application records.
-- Generate summary statistics.
-
-### 3. SQL Analysis
-
-Used SQL to retrieve and analyse job application information.
-
-**SQL concepts practised:**
-
+SQL concepts included:
 - SELECT and DISTINCT
 - WHERE and ORDER BY
 - GROUP BY and HAVING
 - Aggregate functions
 - CASE WHEN
 - INNER JOIN and LEFT JOIN
+- Window functions, including RANK() and running totals
+- Common Table Expressions (CTEs)
+- Subqueries
+4. Interactive Dashboard -- Power BI
+Imported the Excel dataset into Power BI and performed data cleaning
+separately using Power Query.
 
-### 4. Interactive Dashboard – Power BI
-
-Created an interactive dashboard to visualize job application information.
-
-**Key Performance Indicators:**
-
+The dashboard includes KPI cards and visuals for:
 - Total Applications
-- Total Interviews
+- Average Salary (LPA)
 - Rejected Applications
 - Total Offers
 - Applied Applications
-- Average Salary
-- Interview Rate
-
-**Visualizations:**
-
+- Interview Applications
 - Application Status Distribution
 - Applications by Job Portal
-- Average Salary by Company
 - Applications by Location
-- Work Mode Slicer
-- Application Details Table
+- Average Salary by Company
+- Work Mode filter
+- Application details table
+5. Generative AI Integration -- Google Gemini API
+Integrated the Google Gemini API with Python.
 
-### 5. Generative AI Integration – Google Gemini API
+Python prepares summarized information from the dataset and sends it to
+Gemini along with a prompt. Gemini returns natural-language observations
+and general career recommendations based on the information provided.
 
-Integrated Google Gemini AI with Python using the Gemini API.
+The AI output may include observations about supplied application
+summaries, application and job-portal trends, general job-search
+suggestions, interview preparation suggestions, and possible next steps.
 
-Python prepares summarized information from the job application dataset and sends it to Gemini with a prompt requesting a data-based analysis.
+These are AI-generated suggestions, not verified facts or guaranteed
+career outcomes.
+6. AI-Generated Word Report
+Used Python and python-docx to save the generated Gemini response into
+a Word document.
 
-Gemini generates written content such as:
+Process:
+1. Python prepares summarized dataset information and a prompt.
+2. Python sends the prompt to the Gemini API.
+3. Gemini returns a text response.
+4. Python receives the response.
+5. Python-docx saves the content in a Word report.
+📈 Sample Dataset Insights
+The following figures describe the 1,010 fictional records in this
+project. They are not real-world job-market statistics.
+Application status distribution
+  Current status       Records      Share
+  Applied                  425     42.08%
+Interview                211     20.89%
+Rejected                 144     14.26%
+Shortlisted              127     12.57%
+Offer                     52      5.15%
+Withdrawn                 51      5.05%
+Total          1,010   100%
+Job portal distribution
+  Job portal            Records      Share
+  Indeed                    223     22.08%
+Company Website           215     21.29%
+Internshala               198     19.60%
+Naukri                    190     18.81%
+LinkedIn                  184     18.22%
+Total           1,010   100%
+Other summary
+  Metric                          Result
+  Total application records        1,010
+Average listed salary         8.44 LPA
 
-- Job search performance observations.
-- Important application trends.
-- Job portal recommendations.
-- Interview improvement suggestions.
-- Career recommendations.
-- Actionable next steps.
+How to interpret these figures:
+- Interview means 211 records currently have the Interview status;
+  it does not mean 211 interview rounds took place.
+- Offer means 52 sample records are labelled Offer. It is not a
+  candidate conversion rate or evidence of real offers.
+- Average listed salary is the mean of the Salary_LPA values in the
+  sample. It is not salary actually received or a confirmed expected
+  salary.
+- Portal counts show the number of sample records associated with each
+  portal. They do not establish which portal performs best.
+💡 Why Generative AI Was Used
+Traditional analytics helps calculate metrics and identify patterns.
+Generative AI can add natural-language explanations and suggestions
+based on summaries supplied to the model.
 
-This demonstrates the use of Generative AI to convert summarized data into natural-language insights and recommendations.
+In this project, Python prepares the dataset summaries, Gemini generates
+written observations and general recommendations from the prompt and
+supplied summaries, and Python saves the generated response in a Word
+report.
 
-### 6. AI-Generated Word Report
-
-Used the Python-docx library to save Gemini's generated response into a Word document.
-
-**The process:**
-
-1. Python sends summarized data to Gemini.
-2. Gemini generates insights and recommendations.
-3. Python receives the generated response.
-4. Python-docx creates and saves the Word report.
-
-## 📈 Sample Dataset Insights
-
-The project uses an illustrative dataset of 10 fictional job application records.
-
-| Metric | Result |
-|---|---:|
-| Total Applications | 10 |
-| Applied | 5 |
-| Interview Status | 3 |
-| Rejected | 1 |
-| Offer | 1 |
-| Total Interview Records / Rounds | 4 |
-| Average Listed Salary | 5.35 LPA |
-
-**Additional observations:**
-
-- 50% of applications are in Applied status.
-- 30% of applications are in Interview status.
-- LinkedIn has the highest application count in the sample, with 4 applications.
-- One application has reached the Offer status.
-
-**Note:** The Interview Rate of 30% represents 3 applications marked as Interview out of 10 total applications. The Total Interviews KPI counts 4 interview records or rounds, which is a different measure.
-
-These figures describe only the sample dataset and are not real-world job market statistics.
-
-## 💡 Why Generative AI Was Used
-
-Traditional data analytics helps identify patterns, counts and trends in data.
-
-Generative AI adds another capability: it can generate natural-language explanations and recommendations based on the information provided.
-
-For example:
-
-- Python calculates application status summaries.
-- Gemini generates a written explanation of the summarized results.
-- Gemini provides general suggestions for improving job search activities.
-- Python saves the generated response into a Word report.
-
-**Important:** Gemini does not directly connect to the Power BI dashboard. It receives summarized data through Python and generates a separate report.
-
-## ⚙️ How to Run the Project
-
-### Prerequisites
-
+Important: Gemini does not directly analyse the Power BI dashboard,
+search for live jobs, submit applications, connect to LinkedIn or
+Naukri, or predict hiring decisions.
+⚙️ How to Run the Gemini API Example
+Prerequisites
 - Python 3.x
 - Google Colab
-- Microsoft Power BI Desktop
-- Google Gemini API key
-
-### Install Required Libraries
-
-```bash
+- A Google Gemini API key
+- Required Python libraries
+Install libraries
 pip install pandas openpyxl python-docx google-genai
-```
-
-### Configure Gemini API
-
-Store your Gemini API key securely in Google Colab Secrets using the name `GEMINI_API_KEY`.
-
-```python
+Configure the Gemini API
+Store your API key securely in Google Colab Secrets with the name
+GEMINI_API_KEY. Do not paste the actual key into a notebook that will
+be shared publicly.
 from google.colab import userdata
 from google import genai
 
@@ -258,89 +235,69 @@ api_key = userdata.get("GEMINI_API_KEY")
 client = genai.Client(api_key=api_key)
 
 print("Gemini API connected successfully!")
-```
-
-### Generate AI Insights
-
-```python
+Send a prompt to Gemini
+In the project notebook, prompt represents the prompt prepared using
+the relevant summarized dataset information.
 response = client.models.generate_content(
     model="gemini-2.5-flash",
     contents=prompt
 )
 
 print(response.text)
-```
-
-### Save the AI-Generated Report
-
-The generated response can be saved using Python:
-
-```python
+Save the response as a Word report
 from docx import Document
 
 doc = Document()
-
-doc.add_heading("AI Job Hunt Tracker", 0)
-doc.add_heading("AI Analysis and Recommendations", level=1)
-
+doc.add_heading("Job Hunt Tracker", 0)
+doc.add_heading("AI-Generated Insights and Recommendations", level=1)
 doc.add_paragraph(response.text)
-
 doc.save("AI_Job_Hunt_Insights.docx")
-```
-
-**Security:** Never hardcode or upload your API key to GitHub. Use environment variables or secure notebook secrets.
-
-Gemini model availability and API usage limits depend on your account and Google's current service terms.
-
-## 🚀 Future Improvements
-
-- Develop a Streamlit-based job application tracking interface.
-- Add automated job application reminders.
-- Analyse portal-wise interview and offer conversion rates.
-- Add more real application records.
-- Explore AI-assisted resume recommendations.
-- Perform skill gap analysis using job descriptions.
-- Add automated follow-up notifications.
-
-These are planned enhancements and are not part of the current implementation.
-
-## 📁 Project Structure
-
-```text
-AI-Job-Hunt-Tracker/
-│
+Model availability and API usage limits may change and depend on
+Google's current service terms and the account being used.
+🚀 Future Improvements
+Possible future enhancements include:
+- Build a Streamlit interface for easier data entry and tracking.
+- Add reminders for application follow-ups.
+- Analyse portal-wise interview and offer rates using clearly defined
+  measures.
+- Add real, permissioned application records.
+- Explore AI-assisted resume feedback.
+- Compare skills in a job description with a user's skills.
+These are ideas for future development and are not features of the
+current project.
+📁 Example Project Structure
+Update the filenames below to match the files included in your
+repository.
+Job-Hunt-Tracker/
 ├── data/
-│   └── AI_Job_Hunt_Tracker.xlsx
-│
+│   └── Job_Hunt_Tracker_1000_Extra_Records.xlsx
 ├── python/
 │   ├── Job_Hunt_Analysis.ipynb
 │   └── AI_Insights_Generator.ipynb
-│
 ├── sql/
 │   └── SQL_Queries.sql
-│
 ├── powerbi/
 │   ├── AI_Job_Hunt_Dashboard.pbix
 │   └── Dashboard_Screenshot.png
-│
 ├── reports/
-│   └── AI_Job_Hunt_Insights.docx
-│
+│   └── Job_Hunt_Tracker_Corrected_AI_Insights_Report.docx
 ├── README.md
 └── .gitignore
-```
-
-## ⚠️ Disclaimer
-
-- This project uses fictional sample job application records for educational and portfolio purposes.
-- The dataset does not represent actual job applications, live job openings or verified salary information.
-- AI-generated recommendations are general suggestions based on the summarized information provided to Gemini. They are not guaranteed career outcomes.
-- The project does not automatically search for jobs, submit applications, connect to LinkedIn or Naukri, or predict hiring decisions.
-
-## 📚 Skills Demonstrated
-
-Excel | Python | Pandas | SQL | Power BI | Data Cleaning | Data Analysis | Data Visualization | Google Gemini API | Generative AI Integration | Automated Report Generation
-
----
-
-⭐ If you find this project useful, feel free to explore the repository!
+⚠️ Disclaimer
+- This project uses fictional sample job application records for
+  educational and portfolio purposes.
+- The records do not represent actual job applications, candidates,
+  interviews, offers or hiring outcomes.
+- Salary values are sample listed values, not verified salary
+  information.
+- AI-generated content is based on the summarized information and
+  prompt provided to Gemini. It may contain errors or general
+  suggestions and should be reviewed.
+- The project does not automatically search for jobs, submit
+  applications, connect to job portals, or predict hiring decisions.
+📚 Skills Demonstrated
+Excel | Python | Pandas | SQL | Data Cleaning | Data Analysis |
+Window Functions | CTEs | Subqueries | Power BI | Power Query |
+Data Visualisation | Google Gemini API | Generative AI Integration |
+API Integration | Word Report Generation
+⭐ Thanks for checking out this project!
