@@ -48,6 +48,8 @@ The project follows separate analytics and AI workflows using job application da
 ### Project Flowchart
 ## Project Flowchart
 
+## Project Flowchart
+
 ```mermaid
 flowchart TD
     A["Excel Job Application Dataset (1,010 Records)"] --> B["Python and Pandas"]
