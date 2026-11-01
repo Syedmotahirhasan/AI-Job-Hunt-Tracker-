@@ -85,19 +85,19 @@ generation.
 
 ```mermaid
 flowchart TD
-    A["Excel Job Application Dataset (1,010 Records)"] --> B["Python and Pandas"]
-    B --> C["Data Cleaning and Transformation"]
+    A["Excel Dataset (1,010 Records)"] --> B["Python & Pandas"]
+    B --> C["Data Cleaning"]
     C --> D["Cleaned Dataset"]
 
-    D --> E["SQL Analysis (Basic & Advanced Queries)"]
-    E --> E1["SELECT, WHERE, GROUP BY, JOIN"]
-    E --> E2["Window Functions, CTEs & Subqueries"]
+    D --> E["SQL Analysis"]
+    E --> E1["Basic SQL Queries"]
+    E --> E2["Advanced SQL: CTEs, Subqueries, Window Functions"]
 
     A --> F["Power BI"]
-    F --> G["Power Query Data Cleaning"]
-    G --> H["Interactive Power BI Dashboard"]
+    F --> G["Power Query Cleaning"]
+    G --> H["Interactive Dashboard"]
 
-    D --> I["Python Data Summaries"]
+    D --> I["Python Data Summary"]
     I --> J["Prompt Generation"]
     J --> K["Google Gemini API"]
     K --> L["AI-Generated Insights"]
